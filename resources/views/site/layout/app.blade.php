@@ -34,22 +34,18 @@
 
  
 function adicionar_email(){
-    
-    emails = $("#email").val();
-    
-    $.ajax({
-        url: "/api/newsletter",
-        type: 'POST',
-        dataType: 'JSON',
-        data: {
 
-            email: emails
+    field_email = $("#email");
 
-        }, success: function (data) {
-        }
-    }).done(function () {
-        $('#table_principal').DataTable();
-    });
+    email = field_email.val();
+    
+    $.post("/api/newsletter", {email: email}, function(result){
+        alert(result.message);
+        field_email.val('');
+    }).fail(function(result) {
+        alert(result.responseJSON.errors['email']);
+    })
+
 }
    
 </script>

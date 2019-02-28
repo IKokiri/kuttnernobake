@@ -35,10 +35,24 @@ class NewsLetter extends Controller
      */
     public function store(Request $request)
     {
+        $messages = [
+            'required' => 'O campo é obrigatório.',
+            'unique' => 'Este email já está cadastrado para receber nossas novidades.',
+        ];
+
+        $validateData = $request->validate([
+            'email' => 'required|unique:news_letters'
+        ],$messages);
+
         $newsletter = new Model_NewsLetter();
         $newsletter->email = $request->input('email');
         $newsletter->save();
-        return response('',200);
+        
+        $response = [
+            'message'=>'E-mail registrado para receber nossas novidades!',
+        ];
+
+        return response($response,201);
     }
 
     /**
