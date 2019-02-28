@@ -10,8 +10,10 @@
                                 <div class="widget-content">
                                     <div class="text">
                                         <form class="subscribe-form">
-                                            <input type="text" name="email" placeholder="Digite seu email...">
-                                            <button type="submit"><i class="machinery-icon-next"></i>Receba novidades</button>
+                                            <input type="text" id="email" name="email" placeholder="Digite seu email...">
+                                            <a onclick="adicionar_email()">
+                                                <i class="machinery-icon-next"></i>Receba novidades
+                                            </a>
                                         </form>
                                     </div>
                                 </div>

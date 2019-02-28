@@ -30,4 +30,27 @@
     @endcomponent 
 
 </body>
+<script>
+
+ 
+function adicionar_email(){
+    
+    emails = $("#email").val();
+    
+    $.ajax({
+        url: "/api/newsletter",
+        type: 'POST',
+        dataType: 'JSON',
+        data: {
+
+            email: emails
+
+        }, success: function (data) {
+        }
+    }).done(function () {
+        $('#table_principal').DataTable();
+    });
+}
+   
+</script>
 </html>
