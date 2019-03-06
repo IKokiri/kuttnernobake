@@ -32,7 +32,6 @@
 </body>
 <script>
 
- 
 function adicionar_email(){
 
     field_email = $("#email");

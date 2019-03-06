@@ -15,6 +15,9 @@ class NewsLetterTest extends TestCase
      */
     public function testExample()
     {
-        $this->assertTrue(2==2);
+
+        $response = $this->json('POST','/api/newsletter',['email'=>'email@email.com']);
+        
+        $response->assertStatus(201);
     }
 }
