@@ -14,7 +14,8 @@ class NewsLetter extends Controller
      */
     public function index()
     {
-        //
+        $news = Model_NewsLetter::all();
+        return view('admin/newsletter',compact('news'));
     }
 
     /**

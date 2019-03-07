@@ -38,3 +38,6 @@ Route::get('contato/', function () {
 Route::get('admin/', function () {
     return view('admin/inicio');
 });
+
+
+Route::get('admin/newsletter','NewsLetter@index');
