@@ -1,3 +1,5 @@
+services:
+  - mysql
 os:
   - linux
 
@@ -16,6 +18,7 @@ before_script:
   - npm install npm@latest -g
   - npm install -g jshint
   - npm install
+  - mysql -e 'CREATE DATABASE kuttnernobake;'
   
 script:
   - vendor/bin/phpunit --coverage-text
