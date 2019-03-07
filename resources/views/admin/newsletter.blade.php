@@ -20,19 +20,26 @@
                         <tr>
                         <th>Email</th>
                         <th>Data</th>
+                        <th>Remover</th>
                         </tr>
                     </thead>
                     <tfoot>
                         <tr>
                         <th>Email</th>
                         <th>Data</th>
+                        <th>Remover</th>
                         </tr>
                     </tfoot>
                     <tbody>
                     @foreach($news as $new)
                         <tr>
-                        <td>{{$new->created_at}}</td>
                         <td>{{$new->email}}</td>
+                        <td>{{$new->created_at}}</td>
+                        <td class="text-center">
+                            <a href="#" class="btn btn-danger btn-circle">
+                                <i class="fas fa-trash"></i>
+                            </a>                        
+                        </td>
                         </tr>
                     @endforeach
                     </tbody>
