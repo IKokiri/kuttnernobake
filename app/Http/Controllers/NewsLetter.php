@@ -105,4 +105,20 @@ class NewsLetter extends Controller
         }
         return redirect('/admin/newsletter');
     }
+
+    /**
+     * Adiciona todos os resultados da tabela de newsletter a um arquivo csv e faz seu download
+     */
+    public function csv()
+    {
+        $newsletter = Model_NewsLetter::all();
+        
+        if($newsletter->count()){
+            $csvExporter = new \Laracsv\Export();
+            $csvExporter->build($newsletter, ['email'=>"E-MAIL", 'created_at'=>'ADICIONADO EM'])->download();
+
+        }else{
+            return redirect('/admin/newsletter');
+        }        
+    }
 }

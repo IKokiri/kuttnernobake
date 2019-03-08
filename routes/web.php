@@ -40,5 +40,7 @@ Route::get('admin/', function () {
 });
 
 
+
 Route::get('admin/newsletter','NewsLetter@index');
 Route::get('admin/newsletter/apagar/{id}','NewsLetter@destroy');
+Route::get('admin/newsletter/csv/','NewsLetter@csv');
