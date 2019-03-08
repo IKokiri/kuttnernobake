@@ -98,6 +98,11 @@ class NewsLetter extends Controller
      */
     public function destroy($id)
     {
-        //
+        $newsletter = Model_NewsLetter::find($id);
+       
+        if(isset($newsletter)){
+            $newsletter->delete();
+        }
+        return redirect('/admin/newsletter');
     }
 }

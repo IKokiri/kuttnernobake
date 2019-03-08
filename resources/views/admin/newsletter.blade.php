@@ -36,7 +36,7 @@
                         <td>{{$new->email}}</td>
                         <td>{{$new->created_at}}</td>
                         <td class="text-center">
-                            <a href="#" class="btn btn-danger btn-circle">
+                            <a href="/admin/newsletter/apagar/{{$new->id}}" class="btn btn-danger btn-circle">
                                 <i class="fas fa-trash"></i>
                             </a>                        
                         </td>
