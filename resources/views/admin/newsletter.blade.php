@@ -11,12 +11,16 @@
     <!-- DataTales Example -->
     <div class="card shadow mb-4">
         <div class="card-header py-3">
-            <h6 class="m-0 font-weight-bold text-primary">Inscritos</h6>
-            <div class="text-right">
-                <a href="/admin/newsletter/csv">
-                    <i class="fas fa-file-csv fa-2x"></i>
-                </a>            
-            </div>
+            <div class="row">
+                <div class="col-md-10">
+                    <h6 class="m-0 font-weight-bold text-primary">Inscritos</h6>
+                </div>
+                <div class="text-right col-md-2">
+                    <a href="/admin/newsletter/csv">
+                        <i class="fas fa-file-csv fa-2x"></i>
+                    </a>            
+                </div>
+            </div>            
         </div>
         <div class="card-body">
             <div class="table-responsive">
@@ -41,7 +45,7 @@
                         <td>{{$new->email}}</td>
                         <td>{{$new->created_at}}</td>
                         <td class="text-center">
-                            <a href="/admin/newsletter/apagar/{{$new->id}}" class="btn btn-danger btn-circle">
+                            <a href="/admin/newsletter/apagar/{{$new->id}}" title="Remover" class="btn btn-danger btn-circle">
                                 <i class="fas fa-trash"></i>
                             </a>                        
                         </td>

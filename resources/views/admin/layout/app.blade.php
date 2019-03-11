@@ -51,7 +51,13 @@
 
     @component('admin/layout.component_scripts')
     @endcomponent
+  
 </body>
+
+
+@hasSection('script')
+    @yield('script')
+@endif
 
 
 </html>

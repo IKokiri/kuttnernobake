@@ -121,4 +121,18 @@ class NewsLetter extends Controller
             return redirect('/admin/newsletter');
         }        
     }
+
+    /**
+     * Retorna a quantidade de resultados contem na tabela de news letter
+     */
+    public function info(){
+        
+        
+        $newsletter = Model_NewsLetter::all();
+
+        $response = ['qtdeInscritos' => $newsletter->count()];
+
+        return response($response,200);
+    }
+
 }

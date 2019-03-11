@@ -38,6 +38,7 @@
     <div class="bg-white py-2 collapse-inner rounded">
       <h6 class="collapse-header">Configurações:</h6>
       <a class="collapse-item" href="/admin/newsletter">Newsletter</a>
+      <a class="collapse-item" href="/admin/categoria">Categoria</a>
     </div>
   </div>
 </li>
