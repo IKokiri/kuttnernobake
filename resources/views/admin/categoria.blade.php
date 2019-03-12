@@ -54,14 +54,14 @@
                             </td>
                             <td class="text-center">
                             
-                                <a href="javascript:void(0)" onclick="ativarConfirmarApagar()" title="Remover" class="btn btn-danger btn-circle apagar">
+                                <a href="javascript:void(0)" onclick="ativarConfirmarApagar({{$category->id}})" title="Remover" class="btn btn-danger btn-circle apagar_{{$category->id}}">
                                     <i class="fas fa-trash"></i>
                                 </a>     
                             
-                                <a href="javascript:void(0)" title="Remover" id="apagar" onclick="remover({{$category->id}})" class="btn btn-success btn-circle confirmarApagar">
+                                <a href="javascript:void(0)" title="Remover" id="apagar" onclick="remover({{$category->id}})" class="btn btn-success btn-circle confirmarApagar_{{$category->id}}">
                                     <i class="fas fa-check-circle "></i>
                                 </a>  
-                                <a href="javascript:void(0)" title="Remover" onclick="desativarConfirmarApagar()" class="btn btn-danger btn-circle confirmarApagar">
+                                <a href="javascript:void(0)" title="Remover" onclick="desativarConfirmarApagar()" class="btn btn-danger btn-circle confirmarApagar_{{$category->id}}">
                                     <i class="fas fa-ban"></i>
                                 </a>          
                                
@@ -141,14 +141,14 @@ function buscarId(id){
     });
 }
 
-function ativarConfirmarApagar(){
-    $(".confirmarApagar").show();
-    $(".apagar").hide();
+function ativarConfirmarApagar(id){
+    $(".confirmarApagar_"+id).show();
+    $(".apagar_"+id).hide();
 }
 
 function desativarConfirmarApagar(){
-    $(".confirmarApagar").hide();
-    $(".apagar").show();
+    $("*[class*=confirmarApagar]").hide();
+    $("*[class*=apagar]").show();
 }
 function remover(id){
     $.ajax({
