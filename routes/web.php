@@ -43,5 +43,9 @@ Route::get('admin/', function () {
 Route::get('admin/newsletter','NewsLetter@index');
 Route::get('admin/newsletter/apagar/{id}','NewsLetter@destroy');
 Route::get('admin/newsletter/csv/','NewsLetter@csv');
+
 Route::get('admin/categoria','CategoryController@index');
 Route::post('admin/categoria/','CategoryController@store');
+Route::get('admin/categoria/{id}/editar','CategoryController@edit');
+Route::put('admin/categoria/{id}','CategoryController@update');
+Route::delete('admin/categoria/apagar/{id}','CategoryController@destroy');

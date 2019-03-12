@@ -14,4 +14,5 @@
   <link href="/admins/css/sb-admin-2.min.css" rel="stylesheet">
   <!-- Custom styles for this page -->
   <link href="/admins/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+  <meta name="csrf-token" content="{{ csrf_token() }}" />
   

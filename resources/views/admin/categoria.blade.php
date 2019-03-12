@@ -15,12 +15,7 @@
                 <div class="col-md-10">
                     <h6 class="m-0 font-weight-bold text-primary">Registros</h6>
                 </div>
-                <div class="text-right col-md-1">
-                    <a href="/admin/newsletter/csv">
-                        <i class="fas fa-file-csv fa-2x"></i>
-                    </a>                             
-                </div>
-                <div class="text-right col-md-1">
+                <div class="text-right col-md-12">
                      
                     <a href="javascript:void(0)" data-toggle="modal" data-target="#exampleModal">
                         <i class="fas fa-plus-square fa-2x"></i>
@@ -50,18 +45,27 @@
                     <tbody>
                     @foreach($categories as $category)
                         <tr>
-                        <td>{{$category->category}}</td>
-                        <td>{{$category->created_at}}</td>
-                        <td class="text-center">
-                            <a href="/admin/categoria/alterar/{{$category->id}}" title="Alterar" class="btn btn-warning btn-circle">
-                                <i class="fas fa-pen"></i>
-                            </a>                        
-                        </td>
-                        <td class="text-center">
-                            <a href="/admin/categoria/apagar/{{$category->id}}" title="Remover" class="btn btn-danger btn-circle">
-                                <i class="fas fa-trash"></i>
-                            </a>                        
-                        </td>
+                            <td>{{$category->category}}</td>
+                            <td>{{$category->created_at}}</td>
+                            <td class="text-center">
+                                <a href="javascript:void(0)" onclick='edit({{$category->id}})' id="alterar" data-toggle="modal" data-target="#exampleModal" title="Alterar" class="btn btn-warning btn-circle">
+                                    <i class="fas fa-pen"></i>
+                                </a>                        
+                            </td>
+                            <td class="text-center">
+                            
+                                <a href="javascript:void(0)" onclick="ativarConfirmarApagar()" title="Remover" class="btn btn-danger btn-circle apagar">
+                                    <i class="fas fa-trash"></i>
+                                </a>     
+                            
+                                <a href="javascript:void(0)" title="Remover" id="apagar" onclick="remover({{$category->id}})" class="btn btn-success btn-circle confirmarApagar">
+                                    <i class="fas fa-check-circle "></i>
+                                </a>  
+                                <a href="javascript:void(0)" title="Remover" onclick="desativarConfirmarApagar()" class="btn btn-danger btn-circle confirmarApagar">
+                                    <i class="fas fa-ban"></i>
+                                </a>          
+                               
+                            </td>
                         </tr>
                     @endforeach
                     </tbody>
@@ -83,18 +87,23 @@
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
+
         <form method="POST" action="/admin/categoria">
-        @csrf
+            @csrf
+            
             <div class="modal-body">
                 <div class="form-group">
                     <label for="exampleInputEmail1">Categoria</label>
                     <input type="text" class="form-control" name="category" id="category"  placeholder="Categoria">
+                    <input type="hidden" name="id" id="id">
+                    
                 </div>           
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Sair</button>
-                <button type="submit" class="btn btn-primary">Adicionar</button>
-            </div>
+                
+                <button type="submit" class="btn btn-primary">Salvar</button>
+            </div>            
       </form>
     </div>
   </div>
@@ -105,13 +114,93 @@
 
 @section('script')
 <script>
-$(document).ready(function(){
 
-    // $.get("api/infoNewsletter/",function(result){
-    //     $("#qtdeInfoNewsletter").html(result.qtdeInscritos);
-    // }).fail(function(){
+function start(){
+    desativarConfirmarApagar();
+}
+
+function edit(id){
+    
+    result = buscarId(id);
+
+}
+
+function preencher(dados){
+
+    $("#category").val(dados.category);
+    $("#id").val(dados.id);
+
+}
+
+function buscarId(id){
+
+    $.get("/admin/categoria/"+id+"/editar",function(result){
+         preencher(result);
+    }).fail(function(){
         
-    // });
+    });
+}
+
+function ativarConfirmarApagar(){
+    $(".confirmarApagar").show();
+    $(".apagar").hide();
+}
+
+function desativarConfirmarApagar(){
+    $(".confirmarApagar").hide();
+    $(".apagar").show();
+}
+function remover(id){
+    $.ajax({
+        type:"delete",
+        url:"/admin/categoria/apagar/"+id
+    }).done(function(){   
+        window.location.href = "/admin/categoria";      
+    })
+}
+$(document).ready(function(){
+    
+    start();
+
+    $.ajaxSetup({
+        headers: {
+            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+        }
+    });
+
+    $('form').submit(function(){
+
+        event.preventDefault();
+        
+        id = $("#id").val();
+        category = $("#category").val();
+        
+        
+        if(id){
+            
+            $.ajax({
+                type:"put",
+                url:"/admin/categoria/"+id,
+                data:{category: category}
+            }).done(function(){   
+                window.location.href = "/admin/categoria";      
+            })
+        }else{
+            $.ajax({
+                type:"post",
+                url:"/admin/categoria",
+                data:{category: category}
+            }).done(function(){   
+                window.location.href = "/admin/categoria";      
+            })
+        }
+    })
+
+    $('.modal').on('hidden.bs.modal', function (e) {
+        
+        $("input").val("");
+        
+    })
 })
 </script>
 @endsection
