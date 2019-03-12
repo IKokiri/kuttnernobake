@@ -15,4 +15,14 @@
   <!-- Custom styles for this page -->
   <link href="/admins/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
   <meta name="csrf-token" content="{{ csrf_token() }}" />
+
+  <script src="https://cloud.tinymce.com/5/tinymce.min.js?apiKey=xknran0rl4ucrrrlddmovtvx43zsfi0tg5i3raq6kipqnfez"></script>
+  <script>
+  tinymce.init({ 
+    selector:'textarea',
+    menubar: false,  
+    plugins: "lists",
+    toolbar: "numlist bullist| bold | italic"
+    });
+  </script>
   

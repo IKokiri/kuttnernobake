@@ -49,3 +49,9 @@ Route::post('admin/categoria/','CategoryController@store');
 Route::get('admin/categoria/{id}/editar','CategoryController@edit');
 Route::put('admin/categoria/{id}','CategoryController@update');
 Route::delete('admin/categoria/apagar/{id}','CategoryController@destroy');
+
+Route::get('admin/produtos','ProductController@index');
+Route::post('admin/produtos/','ProductController@store');
+Route::get('admin/produtos/{id}/editar','ProductController@edit');
+Route::put('admin/produtos/{id}','ProductController@update');
+Route::delete('admin/produtos/{id}','ProductController@destroy');

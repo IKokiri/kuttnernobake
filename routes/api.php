@@ -21,3 +21,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::post('/newsletter',"NewsLetter@store");
 Route::get('/infoNewsletter',"NewsLetter@info");
+
+Route::get('/admin/categoria',"CategoryController@getAll");

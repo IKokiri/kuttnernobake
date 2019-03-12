@@ -3,9 +3,9 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Category;
+use App\Product;
 
-class CategoryController extends Controller
+class ProductController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,9 +14,8 @@ class CategoryController extends Controller
      */
     public function index()
     {
-         $categories = Category::all();
-
-        return view('admin/categoria',compact('categories'));
+        $products = Product::all();
+        return view('admin/produtos',compact('products'));
     }
 
     /**
@@ -37,12 +36,11 @@ class CategoryController extends Controller
      */
     public function store(Request $request)
     {
-        $category = new Category();
-        $category->category = $request->input('category');
-        $category->save();
-
-        
-        // return redirect('admin/categoria');
+        $product = new Product();
+        $product->product = $request->input('product');
+        $product->description = $request->input('description');
+        $product->category_id = $request->input('category_id');
+        $product->save();
     }
 
     /**
@@ -64,12 +62,8 @@ class CategoryController extends Controller
      */
     public function edit($id)
     {
-        $category = Category::find($id);
-
-        if(isset($category)){
-            return $category;
-        }
-
+        $product = Product::find($id);
+        return $product;
     }
 
     /**
@@ -81,10 +75,11 @@ class CategoryController extends Controller
      */
     public function update(Request $request, $id)
     {
-        $category = Category::find($id);
-        $category->category = $request->input('category');
-        $category->save();
-        
+        $product = Product::find($id);
+        $product->product = $request->input('product');
+        $product->description = $request->input('description');
+        $product->category_id = $request->input('category_id');
+        $product->save();
     }
 
     /**
@@ -95,17 +90,7 @@ class CategoryController extends Controller
      */
     public function destroy($id)
     {
-        $category = Category::find($id);
-        $category->delete();
-    }
-
-    /**
-     * Busca todas as categorias para retorno
-     */
-    public function getAll(){
-
-        $categories = Category::all();
-        return $categories;
-        
+        $product = Product::find($id);
+        $product->delete();
     }
 }
