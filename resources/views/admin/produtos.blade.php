@@ -32,6 +32,7 @@
                             <th>Categoria</th>
                             <th>Descrição</th>
                             <th>Data</th>
+                            <th>Imagem</th>
                             <th>Alterar</th>
                             <th>Remover</th>
                         </tr>
@@ -42,6 +43,7 @@
                             <th>Categoria</th>
                             <th>Descrição</th>
                             <th>Data</th>
+                            <th>Imagem</th>
                             <th>Alterar</th>
                             <th>Remover</th>
                         </tr>
@@ -53,6 +55,11 @@
                             <td>{{$product->category_id}}</td>
                             <td>{{substr($product->description,0,20)}}...</td>
                             <td>{{$product->created_at}}</td>
+                            <td class="text-center">
+                                <a href="javascript:void(0)"  data-toggle="modal" onclick="setarProductId({{$product->id}})" data-target="#modalImagens" title="Alterar" class="btn btn-info btn-circle">
+                                    <i class="fas fa-image"></i>
+                                </a>                        
+                            </td>
                             <td class="text-center">
                                 <a href="javascript:void(0)" onclick='edit({{$product->id}})' id="alterar" data-toggle="modal" data-target="#exampleModal" title="Alterar" class="btn btn-warning btn-circle">
                                     <i class="fas fa-pen"></i>
@@ -82,7 +89,6 @@
 </div>
 <!-- /.container-fluid -->
 
-<!-- modal -->
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg" role="document">
@@ -118,6 +124,40 @@
                 <button type="submit" class="btn btn-primary">Salvar</button>
             </div>            
       </form>
+    </div>
+  </div>
+</div>
+<!-- /modal -->
+
+<!-- Modal -->
+<div class="modal fade" id="modalImagens" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Imagens</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>        
+        <div class="modal-body">
+                    
+            <div class="row imagens form-group">
+            </div>
+            
+            <div class="input-group mb-3">
+                <div class="custom-file">
+                    <input type="file" class="custom-file-input" id="file">
+                    <label class="custom-file-label" id="filename" for="inputGroupFile02" aria-describedby="inputGroupFileAddon02">Selecione o arquivo...</label>
+                </div>
+                <div class="input-group-append">
+                        <span class="input-group-text" id="inputGroupFileAddon02"  style="cursor:pointer" onclick="enviarImagemProduto()">Upload</span>
+                </div>
+                <input type="hidden" name="product_id" id="product_id">
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Sair</button>
+        </div> 
     </div>
   </div>
 </div>
@@ -188,7 +228,58 @@ function remover(id){
         window.location.href = "/admin/produtos";      
     })
 }
+
+function enviarImagemProduto(){
+
+    file = $("#file").prop('files')[0];
+    product_id = $("#product_id").val();
+    
+    var formData = new FormData();
+
+
+    formData.append('file', file);
+    formData.append('product_id', product_id);
+
+    $.ajax({
+        type:"post",
+        url:"/admin/produtoImagem",
+        dataType: 'JSON',
+        data:formData,
+        processData: false,
+        cache: false,
+        contentType: false,
+        success:function(data){
+            
+            $cardImage ='<div class="col-4">'+
+                        '<div class="card">'+
+                        '<img src="/'+data.path+'" class="card-img-top" alt="...">'+
+                        '<div class="card-body">'+
+                        '<a href="javascript:void(0)" onclick="apagarImagem('+data.id+')" title="Remover" class="btn btn-danger btn-circle">'+
+                        '<i class="fas fa-trash"></i>'+
+                        '</a>'+
+                        '</div>'+
+                        '</div>'+
+                        '</div>';
+
+            $(".imagens").append($cardImage);
+        
+        },       
+    }).done(function(){
+        
+    });
+
+}
+
+function setarProductId(product_id){
+    $("#product_id").val(product_id);
+}
+
 $(document).ready(function(){
+    $(document).on("change","#file",function(){
+        filename = $(this).val();
+        filename = filename.split("\\");
+        $("#filename").html(filename[2]);
+    })
     $.ajaxSetup({
         headers: {
             'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')

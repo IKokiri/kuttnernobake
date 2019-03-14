@@ -55,3 +55,5 @@ Route::post('admin/produtos/','ProductController@store');
 Route::get('admin/produtos/{id}/editar','ProductController@edit');
 Route::put('admin/produtos/{id}','ProductController@update');
 Route::delete('admin/produtos/{id}','ProductController@destroy');
+
+Route::post('admin/produtoImagem','ProductImageController@store');
