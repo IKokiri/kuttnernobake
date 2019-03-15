@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
 use App\ProductImage;
 use App\Product;
 
@@ -93,6 +94,8 @@ class ProductImageController extends Controller
     {
        $productImage = ProductImage::find($id);
        $productImage->delete();
+       $fullPath = str_replace("storage","/public",$productImage->path);
+       Storage::delete($fullPath);
        return $productImage;
     }
 }
