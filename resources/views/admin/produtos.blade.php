@@ -56,7 +56,7 @@
                             <td>{{substr($product->description,0,20)}}...</td>
                             <td>{{$product->created_at}}</td>
                             <td class="text-center">
-                                <a href="javascript:void(0)"  data-toggle="modal" onclick="setarProductId({{$product->id}})" data-target="#modalImagens" title="Alterar" class="btn btn-info btn-circle">
+                                <a href="javascript:void(0)"  data-toggle="modal" onclick="carregarImagensProduto({{$product->id}})" data-target="#modalImagens" title="Alterar" class="btn btn-info btn-circle">
                                     <i class="fas fa-image"></i>
                                 </a>                        
                             </td>
@@ -250,23 +250,66 @@ function enviarImagemProduto(){
         contentType: false,
         success:function(data){
             
-            $cardImage ='<div class="col-4">'+
-                        '<div class="card">'+
-                        '<img src="/'+data.path+'" class="card-img-top" alt="...">'+
-                        '<div class="card-body">'+
-                        '<a href="javascript:void(0)" onclick="apagarImagem('+data.id+')" title="Remover" class="btn btn-danger btn-circle">'+
-                        '<i class="fas fa-trash"></i>'+
-                        '</a>'+
-                        '</div>'+
-                        '</div>'+
-                        '</div>';
 
-            $(".imagens").append($cardImage);
+            product_id = $("#product_id").val();
+            carregarImagensProduto(product_id);
+            
         
         },       
     }).done(function(){
         
     });
+
+}
+
+function apagarImagem(image_id){
+
+    product_id = $("#product_id").val();
+
+    $.ajax({
+        type: "delete",
+        url:"/admin/produtoImagem/"+image_id,
+        dataType:"JSON",
+        success:function(){
+
+            carregarImagensProduto(product_id);
+        },
+    }).done(function(){
+
+    });
+}
+
+function carregarImagensProduto(product_id){
+        
+    setarProductId(product_id);
+
+    $.ajax({
+        type:"get",
+        url:"/admin/produtos/"+product_id+"/buscarImagens",
+        dataType:"JSON",
+        success:function(result){
+
+            cardImage = "";
+
+            $.each(result,function(key, imagem){
+                cardImage +='<div class="col-4">'+
+                        '<div class="card">'+
+                        '<img src="/'+imagem.path+'" class="card-img-top" alt="...">'+
+                        '<div class="card-body">'+
+                        '<a href="javascript:void(0)" onclick="apagarImagem('+imagem.id+')" title="Remover" class="btn btn-danger btn-circle">'+
+                        '<i class="fas fa-trash"></i>'+
+                        '</a>'+
+                        '</div>'+
+                        '</div>'+
+                        '</div>';
+            })
+
+            $(".imagens").html(cardImage);
+           
+        },
+    }).done(function(){
+
+    })
 
 }
 
@@ -332,26 +375,3 @@ $(document).ready(function(){
 })
 </script>
 @endsection
-<!-- 
-id = $("#id").val();
-        category = $("#category").val();
-        
-        retunr false
-        if(id){
-            
-            $.ajax({
-                type:"put",
-                url:"/admin/categoria/"+id,
-                data:{category: category}
-            }).done(function(){   
-                window.location.href = "/admin/categoria";      
-            })
-        }else{
-            $.ajax({
-                type:"post",
-                url:"/admin/categoria",
-                data:{category: category}
-            }).done(function(){   
-                window.location.href = "/admin/categoria";      
-            })
-        } -->

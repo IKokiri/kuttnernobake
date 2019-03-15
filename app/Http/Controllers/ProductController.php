@@ -93,4 +93,16 @@ class ProductController extends Controller
         $product = Product::find($id);
         $product->delete();
     }
+
+    /**
+     * Busca as imagens de um produto
+     * 
+     * @param int $product_id
+     * 
+     */
+    public function buscarImagens($id){
+        
+        $p = Product::find($id);
+        return $p->productImage;
+    }
 }
