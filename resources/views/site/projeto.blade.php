@@ -82,7 +82,7 @@ transversais também é reduzida a níveis mínimos. </p>
                     <div class="info-column col-lg-3 col-md-4 col-sm-12 col-xs-12">
                         <div class="inner-column">
                             <ul>
-                                <li><span>Categoria : </span>Energia</li>
+                                <li><span>Categoria : </span>Meio Ambiente</li>
                                 <li><span>Cliente : </span>WEG</li>
                                 <li><span>Data : </span>01/01/2019</li>
                                 <!-- <li><span>Link : </span><a href="#">www.steelthemes.com</a></li> -->

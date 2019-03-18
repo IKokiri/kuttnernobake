@@ -23,8 +23,8 @@
                     <div class="image-box">
                         <figure><a href="images/gallery/2-1.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-1.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
-                            <span class="tag">Engineering</span>
+                            <h3><a href="/projeto">LIMPEZA DO AR CONTAMINADO</a></h3>
+                            <span class="tag">Meio Ambiente</span>
                         </div>
                     </div>
                 </div>
