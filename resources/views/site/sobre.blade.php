@@ -100,7 +100,20 @@
                             A gama de atividades compreende o desenvolvimento de tecnologias, a engenharia, o projeto, o fornecimento, a montagem e a colocação em funcionamento de instalações completas, incluindo, equipamentos mecânicos e elétricos, assim como, sistemas de automação e supervisão de processos, em conformidade com as necessidades específicas de cada cliente.
                             </p>
                         </div>
+                        <div class="sec-title">
+                            <h2>Grupo Kuttner</h2>
+                        </div>
+                        <div class="text">
+                            <p>
+                                The Küttner Group emerged from an engineering company that was founded in year 1949 by Dr. Küttner. The group is a specialist for industrial plant construction. Küttner has decades of experience in industrial plant engineering with a focus on conveying and processing technology, industrial furnace construction, waste gas purification and waste heat recovery.
+                            </p>
+
+                            <p>
+                            The spectrum of services includes planning, construction, delivery, installation and commissioning of complete systems including control system and data processing.
+                            </p>
+                        </div>
                     </div>
+                    
                     
 
                     <!--Verticle Carousel Column-->
