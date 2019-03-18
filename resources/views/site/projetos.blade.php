@@ -23,7 +23,7 @@
                     <div class="image-box">
                         <figure><a href="images/gallery/2-1.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-1.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="projects-single.html">Rail Engine Manufacture</a></h3>
+                            <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
                             <span class="tag">Engineering</span>
                         </div>
                     </div>
@@ -34,7 +34,7 @@
                     <div class="image-box">
                         <figure><a href="images/gallery/2-2.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-2.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="projects-single.html">US Gas Company Masrani</a></h3>
+                            <h3><a href="/projeto">US Gas Company Masrani</a></h3>
                             <span class="tag">Construction</span>
                         </div>
                     </div>
@@ -45,7 +45,7 @@
                     <div class="image-box">
                         <figure><a href="images/gallery/2-3.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-3.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="projects-single.html">Generate Natural Power</a></h3>
+                            <h3><a href="/projeto">Generate Natural Power</a></h3>
                             <span class="tag">Power & Energy</span>
                         </div>
                     </div>
@@ -56,7 +56,7 @@
                     <div class="image-box">
                         <figure><a href="images/gallery/2-4.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-4.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="projects-single.html">Petroleum Tank Pipe</a></h3>
+                            <h3><a href="/projeto">Petroleum Tank Pipe</a></h3>
                             <span class="tag">Power & Energy</span>
                         </div>
                     </div>
@@ -67,7 +67,7 @@
                     <div class="image-box">
                         <figure><a href="images/gallery/2-5.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-5.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="projects-single.html">Boston Tailway Station</a></h3>
+                            <h3><a href="/projeto">Boston Tailway Station</a></h3>
                             <span class="tag">Construction</span>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                     <div class="image-box">
                         <figure><a href="images/gallery/2-6.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-6.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="projects-single.html">CNF Machine Engineering</a></h3>
+                            <h3><a href="/projeto">CNF Machine Engineering</a></h3>
                             <span class="tag">Engineering</span>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                     <div class="image-box">
                         <figure><a href="images/gallery/2-7.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-7.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="projects-single.html">Sydney Harbour Bridge</a></h3>
+                            <h3><a href="/projeto">Sydney Harbour Bridge</a></h3>
                             <span class="tag">Engineering</span>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                     <div class="image-box">
                         <figure><a href="images/gallery/2-8.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-8.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="projects-single.html">Rail Engine Manufacture</a></h3>
+                            <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
                             <span class="tag">Construction</span>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                     <div class="image-box">
                         <figure><a href="images/gallery/2-9.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-9.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="projects-single.html">Malasia Logostic Port</a></h3>
+                            <h3><a href="/projeto">Malasia Logostic Port</a></h3>
                             <span class="tag">Power & Energy</span>
                         </div>
                     </div>

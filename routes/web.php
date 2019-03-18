@@ -35,6 +35,11 @@ Route::get('contato/', function () {
     return view('site/contato');
 });
 
+
+Route::get('projeto/', function () {
+    return view('site/projeto');
+});
+
 Route::get('admin/', function () {
     return view('admin/inicio');
 });
