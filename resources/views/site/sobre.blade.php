@@ -20,29 +20,7 @@
                 <div class="outer-box clearfix" style="background-image:url(images/background/4.jpg);">
                     <div class="highlight-box">
                         <div class="info-carousel owl-carousel owl-theme">
-                            <!-- About Block -->
-                            <div class="about-block-two">
-                                <div class="icon-box"><span class="icon flaticon-house"></span></div>
-                                <h3>ISO Cerfitied Company</h3>
-                                <div class="text">Explain to you how this mistaken denouncing pleasure and praising
-                                    pain was born & will give complete account of the system.</div>
-                            </div>
-
-                            <!-- About Block -->
-                            <div class="about-block-two">
-                                <div class="icon-box"><span class="icon flaticon-house"></span></div>
-                                <h3>Smart Technology</h3>
-                                <div class="text">Explain to you how this mistaken denouncing pleasure and praising
-                                    pain was born & will give complete account of the system.</div>
-                            </div>
-
-                            <!-- About Block -->
-                            <div class="about-block-two">
-                                <div class="icon-box"><span class="icon flaticon-house"></span></div>
-                                <h3>Team of Professionals</h3>
-                                <div class="text">Explain to you how this mistaken denouncing pleasure and praising
-                                    pain was born & will give complete account of the system.</div>
-                            </div>
+                          
                         </div>
                     </div>
                 </div>
@@ -117,7 +95,7 @@
                                     O Grupo KÜTTNER ocupa uma posição de líder no desenvolvimento e na implementação de tecnologias inovadoras nas áreas de matérias primas, energéticas e de meio ambiente, projetadas para economizar energia, reduzir o impacto sobre o meio ambiente e otimizar o ciclo dos materiais.
                                 </p>
                                 <p>
-                                No Brasil, o GRUPO Küttner está presente através de suas afiliadas Kuttner do Brasil em Contagem/MG e Kuttner No-Bake Solutions em Piracicaba/SP.
+                                    No Brasil, o GRUPO Küttner está presente através de suas afiliadas Kuttner do Brasil em Contagem/MG e Kuttner No-Bake Solutions em Piracicaba/SP.
                                 </p>
                             </div>
                         </div>
