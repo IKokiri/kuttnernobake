@@ -28,10 +28,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">MISTURADORES</a></li>
+                                    <li><a href="#"><h4>MISTURADORES</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Misturador Braço Simples</a></h3>
+                            <a href="produto"><h4>Misturador Braço Simples</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -53,10 +53,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">MISTURADORES</a></li>
+                                    <li><a href="#"><h4>MISTURADORES</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Misturador Braço Duplo</a></h3>
+                            <a href="produto"><h4>Misturador Braço Duplo</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -78,10 +78,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">MISTURADORES</a></li>
+                                    <li><a href="#"><h4>MISTURADORES</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Misturador Móvel</a></h3>
+                            <a href="produto"><h4>Misturador Móvel</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -103,10 +103,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></li>
+                                    <li><a href="#"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Fast Loop</a></h3>
+                            <a href="produto"><h4>Fast Loop</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -128,10 +128,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></li>
+                                    <li><a href="#"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Rollover</a></h3>
+                            <a href="produto"><h4>Rollover</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -153,10 +153,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></li>
+                                    <li><a href="#"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Área de vazamento - Resfriamento</a></h3>
+                            <a href="produto"><h4>Área de vazamento - Resfriamento</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -178,10 +178,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></li>
+                                    <li><a href="#"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Moldagem Carrocel 4 Estações</a></h3>
+                            <a href="produto"><h4>Moldagem Carrocel 4 Estações</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -203,10 +203,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></li>
+                                    <li><a href="#"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Sistema de Pintura por Lavagem</a></h3>
+                            <a href="produto"><h4>Sistema de Pintura por Lavagem</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -228,10 +228,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">SISTEMA DE DESMOLDAGEM<br>&nbsp;</a></li>
+                                    <li><a href="#"><h4>SISTEMA DE DESMOLDAGEM</h4><br>&nbsp;</a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Shake-Out</a></h3>
+                            <a href="produto"><h4>Shake-Out</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -253,10 +253,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">SISTEMA DE DESMOLDAGEM</a></li>
+                                    <li><a href="#"><h4>SISTEMA DE DESMOLDAGEM</h4><br></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Pré-Resfriador</a></h3>
+                            <a href="produto"><h4>Pré-Resfriador</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -278,10 +278,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">SISTEMA DE DESMOLDAGEM</a></li>
+                                    <li><a href="#"><h4>SISTEMA DE DESMOLDAGEM</h4><br></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Transporte Pneumático</a></h3>
+                            <a href="produto"><h4>Transporte Pneumático</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -303,10 +303,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</a></li>
+                                    <li><a href="#"><h4>RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Recuperação Mecânica - 4 T/H</a></h3>
+                            <a href="produto"><h4>Recuperação Mecânica - 4 T/H</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -328,10 +328,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</a></li>
+                                    <li><a href="#"><h4>RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Recuperação Mecânica - 6 a 30 T/H</a></h3>
+                            <a href="produto"><h4>Recuperação Mecânica - 6 a 30 T/H</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -353,10 +353,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</a></li>
+                                    <li><a href="#"><h4>RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Regeneração Térmica - 0,5 a 6 T/H</a></h3>
+                            <a href="produto"><h4>Regeneração Térmica - 0,5 a 6 T/H</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -378,10 +378,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">MÁQUINAS JATO DE GRANALHA</a></li>
+                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4><br><br></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Jato de Passagem Contínua</a></h3>
+                            <a href="produto"><h4>Jato de Passagem Contínua</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -403,10 +403,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">MÁQUINAS JATO DE GRANALHA</a></li>
+                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Jato Gancheira de Passagem</a></h3>
+                            <a href="produto"><h4>Jato Gancheira de Passagem</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -428,10 +428,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">MÁQUINAS JATO DE GRANALHA</a></li>
+                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Jato com Gancheira tipo Y</a></h3>
+                            <a href="produto"><h4>Jato com Gancheira tipo Y</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -453,10 +453,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">MÁQUINAS JATO DE GRANALHA</a></li>
+                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Jateamento de Bobinas</a></h3>
+                            <a href="produto"><h4>Jateamento de Bobinas</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -478,10 +478,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">MÁQUINAS JATO DE GRANALHA<br>&nbsp;</a></li>
+                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4><br></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Jato Mesa Giratória<br>&nbsp;</a></h3>
+                            <a href="produto"><h4>Jato Mesa Giratória</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -503,10 +503,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">MÁQUINAS JATO DE GRANALHA<br>&nbsp;</a></li>
+                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4><br></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Jato por Tamboreamento<br>&nbsp;</a></h3>
+                            <a href="produto"><h4>Jato por Tamboreamento</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -528,10 +528,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">PREPARAÇÃO DE CARGA <BR> CARREGAMENTO DE FORNO</a></li>
+                                    <li><a href="#"><h4>PREPARAÇÃO DE CARGA <BR> CARREGAMENTO DE FORNO</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Preparação de Carga Metálica e Aditivos</a></h3>
+                            <a href="produto"><h4>Preparação de Carga Metálica e Aditivos</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -553,10 +553,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">PREPARAÇÃO DE CARGA <BR> CARREGAMENTO DE FORNO</a></li>
+                                    <li><a href="#"><h4>PREPARAÇÃO DE CARGA <BR> CARREGAMENTO DE FORNO</h4></a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Ponte Rolante com Canguru e Carro de Carregamento</a></h3>
+                            <a href="produto"><h4>Ponte Rolante com Canguru e Carro de Carregamento</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -578,10 +578,10 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#">DESPOEIRAMENTO E LIMPEZA DE GASES<br>&nbsp;</a></li>
+                                    <li><a href="#"><h4>DESPOEIRAMENTO E LIMPEZA DE GASES</h4><br>&nbsp;</a></li>
                                 </ul>  
                             </div>
-                            <h3><a href="produto">Filtros para Todos os Processos de Findição</a></h3>
+                            <a href="produto"><h4>Filtros para Todos os Processos de Findição</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
