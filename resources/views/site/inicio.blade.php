@@ -265,7 +265,17 @@
                                     <!--Tab / Active Tab-->
                                     <div class="tab active-tab" id="info-tab-1">
                                         <h3>Kuttner No-Bake Solutions.</h3>
-                                        <div class="text">Como sucessora das empresas RB Equipamentos Industriais Ltda e IMF Brasil, a empresa já nasceu com uma experiência e expertise acumulada de mais que 30 anos em engenharia e fabricação de equipamentos e instalações para a indústria de fundição. O foco da empresa está nas fundições no-bake, com uma linha completa para todas as fases do processo desde a mistura da areia até a desmoldagem das peças, incluindo também sistemas de recuperação mecânica e térmica de areia assim como a limpeza dos fundidos por máquina granalhadora.</div>
+                                        <div class="text-justify">
+                                            <p>
+                                                A Kuttner No-Bake Solutions foi incorporada no GRUPO KUTTNER como afiliada da Kuttner do Brasil em Junho de 2017. Como sucessora das empresas RB Equipamentos Industriais Ltda e IMF Brasil, a empresa já nasceu com uma experiência e expertise acumulada de mais que 30 anos em engenharia e fabricação de equipamentos e instalações para a indústria de fundição. O foco da empresa está nas fundições no-bake, com uma linha completa para todas as fases do processo desde a mistura da areia até a desmoldagem das peças, incluindo também sistemas de recuperação mecânica e térmica de areia assim como a limpeza dos fundidos por máquina granalhadora.
+                                            </p>
+                                            <p>
+                                                A linha de produtos da Kuttner No-Bake Solutions é complementada pela linha de produtos tradicionais de Kuttner do Brasil para fundições, tais como sistemas de preparação de carga e carregamento de fornos assim como sistemas de exaustão e limpeza de gases.
+                                            </p>
+                                            <p>
+                                                A Kuttner No-Bake Solutions encontra-se instalada em sede própria em Piracicaba / SP, com facilidades para todo o processo de engenharia, fabricação e assistência técnica, de onde a mesma atende o mercado brasileiro assim como todos os demais mercados da América Latina
+                                            </p>
+                                        </div>
                                     </div>
 
                                 </div>
