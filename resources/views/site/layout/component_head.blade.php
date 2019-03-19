@@ -2,12 +2,12 @@
 <meta charset="utf-8">
 <title>Kuttner no-bake solutions </title>
 <!-- Stylesheets -->
-<link href="css_site/bootstrap.css" rel="stylesheet">
-<link href="css_site/style.css" rel="stylesheet">
-<link href="css_site/responsive.css" rel="stylesheet">
+<link href="/css_site/bootstrap.css" rel="stylesheet">
+<link href="/css_site/style.css" rel="stylesheet">
+<link href="/css_site/responsive.css" rel="stylesheet">
 <!--Favicon-->
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon.png" type="image/x-icon">
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">

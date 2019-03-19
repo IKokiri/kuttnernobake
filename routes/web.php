@@ -31,8 +31,14 @@ Route::get('projetos/', function () {
     return view('site/projetos');
 });
 
-Route::get('contato/', function () {
-    return view('site/contato');
+Route::get('contato/kuttnernobake', function () {
+    return view('site/contatoknbs');
+});
+Route::get('contato/kuttnerbrasil', function () {
+    return view('site/contatokdb');
+});
+Route::get('contato/kuttneralemanha', function () {
+    return view('site/contatokgb');
 });
 
 

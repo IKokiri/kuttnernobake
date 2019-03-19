@@ -27,7 +27,7 @@
                     <div class="clearfix">
 
                         <div class="pull-right logo-outer">
-                            <div class="logo"><a href="/"><img src="images/logo.png" alt="" title=""></a></div>
+                            <div class="logo"><a href="/"><img src="/images/logo.png" alt="" title=""></a></div>
                         </div>
 
                         <div class="pull-left upper-right clearfix">
@@ -91,7 +91,7 @@
                 <div class="auto-container clearfix">
                     <!--Logo-->
                     <div class="logo pull-left">
-                        <a href="/" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
+                        <a href="/" class="img-responsive"><img src="/images/logo-small.png" alt="" title=""></a>
                     </div>
                     <!--Right Col-->
                     <div class="right-col pull-right">

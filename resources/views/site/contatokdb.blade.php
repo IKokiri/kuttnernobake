@@ -1,9 +1,9 @@
 @extends('site/layout.app',["current" => "contato"])
 
 @section('page')
-<section class="page-title" style="background-image:url(images/background/2.jpg)">
+<section class="page-title" style="background-image:url(/images/background/2.jpg)">
     <div class="auto-container">
-        <h1>Contato</h1>
+        <h1>Kuttner do Brasil</h1>
         <ul class="page-breadcrumb">
             <li><a href="/">Início</a></li>
             <li>Contato</li>
@@ -23,41 +23,10 @@
                 <div class="inner-column">
                     <div class="branches-carousel owl-carousel owl-theme">
                         <div class="slide">
-                            <div class="branch-info-box">
+                        <div class="branch-info-box">
                                 <div class="row clearfix">
                                     <div class="image-column col-md-6 col-sm-6 col-xs-12">
-                                        <div class="image"><a href="#"><img src="images/contato/kuttner no bake solutions.jpg"
-                                                    alt=""></a></div>
-                                    </div>
-                                    <div class="info-column col-md-6 col-sm-6 col-xs-12">
-                                        <div class="lucation">Kuttner No-Bake Solutions</div>
-                                        <ul>
-                                            <li>
-                                                <span class="icon flaticon-place"></span>
-                                                <h5>R. Abelardo Benedicto Libório</h5>
-                                                <p>Libéria, 951</p>
-                                                <p>Piracicaba, São Paulo</p>
-                                            </li>
-
-                                            <li>
-                                                <span class="icon flaticon-support"></span>
-                                                <h5>Telefone</h5>
-                                                <p><a href="#">(19) 3302-4770</a></p>
-                                            </li>
-
-                                            <li>
-                                                <span class="icon flaticon-plane"></span>
-                                                <h5>Email</h5>
-                                                <p><a href="#">info@kuttner-nbs.com.br</a></p>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="branch-info-box">
-                                <div class="row clearfix">
-                                    <div class="image-column col-md-6 col-sm-6 col-xs-12">
-                                        <div class="image"><a href="#"><img src="images/contato/kuttner do brasil.jpg"
+                                        <div class="image"><a href="#"><img src="/images/contato/kuttner do brasil.jpg"
                                                     alt=""></a></div>
                                     </div>
                                     <div class="info-column col-md-6 col-sm-6 col-xs-12">
@@ -85,37 +54,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="branch-info-box">
-                                <div class="row clearfix">
-                                    <div class="image-column col-md-6 col-sm-6 col-xs-12">
-                                        <div class="image"><a href="#"><img src="images/contato/grupo kuettner.jpg"
-                                                    alt=""></a></div>
-                                    </div>
-                                    <div class="info-column col-md-6 col-sm-6 col-xs-12">
-                                        <div class="lucation">Grupo Kuttner</div>
-                                        <ul>
-                                            <li>
-                                                <span class="icon flaticon-place"></span>
-                                                <h5>Alfredstr. 28,</h5>
-                                                <p>45130 </p>
-                                                <p>Essen, Alemanha</p>
-                                            </li>
-
-                                            <li>
-                                                <span class="icon flaticon-support"></span>
-                                                <h5>Telefone</h5>
-                                                <p><a href="#">+49 201 7293 0</a></p>
-                                            </li>
-
-                                            <li>
-                                                <span class="icon flaticon-plane"></span>
-                                                <h5>Email</h5>
-                                                <p><a href="#">info@kuettner.de</a></p>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
 
                     </div>
@@ -127,7 +66,7 @@
                     <!--Map Canvas-->
                     <div class="map-canvas" data-zoom="17" data-lat="-22.6645525" data-lng="-47.6038755"
                         data-type="satellite" data-hue="#f05000" data-title="Kuttner no-bake solutions" 
-                        data-icon-path="images/icons/map-marker.png"
+                        data-icon-path="/images/icons/map-marker.png"
                         data-content="R. Abelardo Benedicto Libório, Libéria, 951, Piracicaba, São Paulo<br>
                         <a href='mailto:info@kuttner-nbs.com.br'>info@kuttner-nbs.com.br</a>">
                     </div>
@@ -146,7 +85,7 @@
             <!-- Title Column -->
             <div class="image-column col-md-4 col-sm-12 col-xs-12">
                 <div class="inner-column">
-                    <div class="image"><img src="images/contato/kuttner no bake solutions mail.jpg" alt=""></div>
+                    <div class="image"><img src="/images/contato/kuttner no bake solutions mail.jpg" alt=""></div>
                 </div>
             </div>
 

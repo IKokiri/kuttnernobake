@@ -5,7 +5,7 @@
                     <div class="row clearfix">
                         <!--Footer Column-->
                         <div class="footer-column col-md-4 col-sm-6 col-xs-12">
-                            <div class="logo"><a href="/"><img src="images/logo-2.png" alt=""></a></div>
+                            <div class="logo"><a href="/"><img src="/images/logo-2.png" alt=""></a></div>
                             <div class="footer-widget subscribe-widget">
                                 <div class="widget-content">
                                     <div class="text">
@@ -29,10 +29,10 @@
                                 <div class="widget-content">
                                     <ul class="list clearfix">
                                         <li><a href="/">Início</a></li>
-                                        <li><a href="sobre">Sobre nós</a></li>
-                                        <li><a href="projetos">Projetos</a></li>
-                                        <li><a href="produtos">Produtos</a></li>
-                                        <li><a href="contato">Contato</a></li>
+                                        <li><a href="/sobre">Sobre nós</a></li>
+                                        <li><a href="/projetos">Projetos</a></li>
+                                        <li><a href="/produtos">Produtos</a></li>
+                                        <li><a href="/contato/kuttnernobake">Contato</a></li>
                                     </ul>
                                 </div>
                             </div>

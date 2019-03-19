@@ -60,57 +60,66 @@
                     <div class="content-column col-md-6 col-sm-12 col-xs-12">
                         <div class="inner-column">
                             <div class="text">
-                                <p>
+                                <div class="text-justify">
+                                    <p>
                                     A Kuttner No-Bake Solutions foi incorporada no GRUPO KUTTNER como afiliada da Kuttner do Brasil em Junho de 2017. 
                                     Como sucessora das empresas RB Equipamentos Industriais Ltda e IMF Brasil, a empresa já nasceu com uma experiência 
                                     e expertise acumulada de mais que 30 anos em engenharia e fabricação de equipamentos e instalações para a indústria de fundição. 
                                     O foco da empresa está nas fundições no-bake, com uma linha completa para todas as fases do processo desde a mistura da areia 
                                     até a desmoldagem das peças, incluindo também sistemas de recuperação mecânica e térmica de areia assim como a limpeza dos 
                                     fundidos por máquina granalhadora.
-                                </p>
+                                    </p>
 
-                                <p>
-                                A linha de produtos da Kuttner No-Bake Solutions é complementada pela linha de produtos tradicionais de 
-                                Kuttner do Brasil para fundições, tais como sistemas de preparação de carga e carregamento de fornos assim como sistemas 
-                                de exaustão e limpeza de gases.
-                                </p>
+                                    <p>
+                                    A linha de produtos da Kuttner No-Bake Solutions é complementada pela linha de produtos tradicionais de 
+                                    Kuttner do Brasil para fundições, tais como sistemas de preparação de carga e carregamento de fornos assim como sistemas 
+                                    de exaustão e limpeza de gases.
+                                    </p>
 
-                                <p>
-                                A Kuttner No-Bake Solutions encontra-se instalada em sede própria em Piracicaba / SP, com facilidades para todo o processo de engenharia,
-                                 fabricação e assistência técnica, de onde a mesma atende o mercado brasileiro assim como todos os demais mercados da América Latina  
-                                </p>
+                                    <p>
+                                    A Kuttner No-Bake Solutions encontra-se instalada em sede própria em Piracicaba / SP, com facilidades para todo o processo de engenharia,
+                                    fabricação e assistência técnica, de onde a mesma atende o mercado brasileiro assim como todos os demais mercados da América Latina  
+                                    </p>
+                                </div>                                
                             </div>
                            
                         </div>
                         <div class="sec-title">
                             <h2>Kuttner do Brasil</h2>
                         </div>
-                        <div class="text">
-                            <p>
-                            Fundada em 1974 tem sede em Contagem – MG, de onde atende aos mercados do Brasil e América do Sul.
-                            A combinação entre network global, know-how e experiência de mercado, faz da Kuttner do Brasil a parceira ideal para a realização de projetos industriais.
-                            </p>
+                        <div class="text ">
 
-                            <p>
-                            A Kuttner No-Bake Solutions encontra-se instalada em sede própria em Piracicaba / SP, com facilidades para todo o processo de engenharia,
-                                fabricação e assistência técnica, de onde a mesma atende o mercado brasileiro assim como todos os demais mercados da América Latina  
-                            </p>
-
-                            <p>
-                            A gama de atividades compreende o desenvolvimento de tecnologias, a engenharia, o projeto, o fornecimento, a montagem e a colocação em funcionamento de instalações completas, incluindo, equipamentos mecânicos e elétricos, assim como, sistemas de automação e supervisão de processos, em conformidade com as necessidades específicas de cada cliente.
-                            </p>
+                            <div class="text-justify">
+                                <p>
+                                    Kuttner do Brasil, fornecedora tradicional de equipamentos e instalações para a indústria siderúrgica e de fundição, mineração e meio ambiente, é uma empresa afiliada ao GRUPO KÜTTNER da Alemanha com atividades na Europa, Ásia e Américas.
+                                </p>
+                                <p>
+                                    Fundada em 1974 tem sede em Contagem – MG, de onde atende aos mercados do Brasil e América do Sul.
+                                </p>
+                                <p>
+                                    A combinação entre network global, know-how e experiência de mercado, faz da Kuttner do Brasil a parceira ideal para a realização de projetos industriais. 
+                                </p>
+                                <p>
+                                    A gama de atividades compreende o desenvolvimento de tecnologias, a engenharia, o projeto, o fornecimento, a montagem e a colocação em funcionamento de instalações completas, incluindo, equipamentos mecânicos e elétricos, assim como, sistemas de automação e supervisão de processos, em conformidade com as necessidades específicas de cada cliente.
+                                </p>
+                            </div>
                         </div>
                         <div class="sec-title">
-                            <h2>Grupo Kuttner</h2>
+                            <h2>Küttner Alemanha</h2>
                         </div>
                         <div class="text">
-                            <p>
-                                The Küttner Group emerged from an engineering company that was founded in year 1949 by Dr. Küttner. The group is a specialist for industrial plant construction. Küttner has decades of experience in industrial plant engineering with a focus on conveying and processing technology, industrial furnace construction, waste gas purification and waste heat recovery.
-                            </p>
 
-                            <p>
-                            The spectrum of services includes planning, construction, delivery, installation and commissioning of complete systems including control system and data processing.
-                            </p>
+                            <div class="text-justify">
+                                <p>
+                                    A Küttner Holding com sede em Essen/Alemanha foi fundado  no ano de1949 pelo Engenheiro Dr. Carl Küttner, sendo hoje um Grupo empresarial internacional com atividades na Europa, Ásia, América do Norte e América do Sul, dedicado à engenharia e fornecimento de instalações industriais “Turn Key”, principalmente para a indústria siderúrgica e de fundição.
+                                </p>
+                                <p>
+                                    O Grupo KÜTTNER ocupa uma posição de líder no desenvolvimento e na implementação de tecnologias inovadoras nas áreas de matérias primas, energéticas e de meio ambiente, projetadas para economizar energia, reduzir o impacto sobre o meio ambiente e otimizar o ciclo dos materiais.
+                                </p>
+                                <p>
+                                No Brasil, o GRUPO Küttner está presente através de suas afiliadas Kuttner do Brasil em Contagem/MG e Kuttner No-Bake Solutions em Piracicaba/SP.
+                                </p>
+                            </div>
                         </div>
                     </div>
                     
