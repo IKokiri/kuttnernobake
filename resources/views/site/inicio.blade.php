@@ -239,15 +239,6 @@
                         </div>
                     </div>
 
-                    <!-- Video Column -->
-                    <div class="video-column col-md-6 col-sm-12 col-xs-12">
-                        <div class="inner-column">
-                            <figure class="image"><img src="images/resource/video-img.jpg" alt="">
-                                <a href="https://youtu.be/wINi9fd6a8c" class="link" data-fancybox="gallery"
-                                    data-caption=""><span class="icon fa fa-play-circle"></span></a>
-                            </figure>
-                        </div>
-                    </div>
                 </div>
             </div>
         </section>
