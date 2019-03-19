@@ -333,7 +333,7 @@
                                 <figure><a href="images/resource/project-1.jpg" class="ligtbox-image" data-fancybox="gallery"><img
                                             src="images/resource/project-1.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="projects-single.html">Rail Engine Manufacture</a></h3>
+                                    <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
                                     <span class="tag">Engineering</span>
                                 </div>
                             </div>
@@ -345,7 +345,7 @@
                                 <figure><a href="images/resource/project-2.jpg" class="ligtbox-image" data-fancybox="gallery"><img
                                             src="images/resource/project-2.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="projects-single.html">Rail Engine Manufacture</a></h3>
+                                    <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
                                     <span class="tag">Construction</span>
                                 </div>
                             </div>
@@ -357,7 +357,7 @@
                                 <figure><a href="images/resource/project-3.jpg" class="ligtbox-image" data-fancybox="gallery"><img
                                             src="images/resource/project-3.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="projects-single.html">Generate Natural Power</a></h3>
+                                    <h3><a href="/projeto">Generate Natural Power</a></h3>
                                     <span class="tag">Power & Energy</span>
                                 </div>
                             </div>
@@ -369,7 +369,7 @@
                                 <figure><a href="images/resource/project-1.jpg" class="ligtbox-image" data-fancybox="gallery"><img
                                             src="images/resource/project-1.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="projects-single.html">Rail Engine Manufacture</a></h3>
+                                    <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
                                     <span class="tag">Engineering</span>
                                 </div>
                             </div>
@@ -381,7 +381,7 @@
                                 <figure><a href="images/resource/project-2.jpg" class="ligtbox-image" data-fancybox="gallery"><img
                                             src="images/resource/project-2.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="projects-single.html">Rail Engine Manufacture</a></h3>
+                                    <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
                                     <span class="tag">Construction</span>
                                 </div>
                             </div>
@@ -393,7 +393,7 @@
                                 <figure><a href="images/resource/project-3.jpg" class="ligtbox-image" data-fancybox="gallery"><img
                                             src="images/resource/project-3.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="projects-single.html">Generate Natural Power</a></h3>
+                                    <h3><a href="/projeto">Generate Natural Power</a></h3>
                                     <span class="tag">Power & Energy</span>
                                 </div>
                             </div>

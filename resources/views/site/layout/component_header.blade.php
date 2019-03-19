@@ -4,7 +4,7 @@
                 <div class="auto-container">
                     <div class="inner-container clearfix">
                        
-                        <div class="top-right clearfix">
+                        <div class="top-right pull-left clearfix">
                             <ul class="clearfix right-info">
                                 <li><i class="icon flaticon-clock-circular-outline"></i> Segunda - Sexta: 07:00 - 17:00 </li>
                             </ul>
@@ -26,11 +26,11 @@
                 <div class="auto-container">
                     <div class="clearfix">
 
-                        <div class="pull-left logo-outer">
+                        <div class="pull-right logo-outer">
                             <div class="logo"><a href="/"><img src="images/logo.png" alt="" title=""></a></div>
                         </div>
 
-                        <div class="pull-right upper-right clearfix">
+                        <div class="pull-left upper-right clearfix">
 
                             <!--Info Box-->
                             <div class="upper-column info-box">
