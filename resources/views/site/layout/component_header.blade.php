@@ -33,8 +33,8 @@
                         <div class="pull-left upper-right clearfix">
 
                             <!--Info Box-->
-                            <div class="upper-column info-box">
-                                <div class="icon-box"><span class="machinery-icon-map"></span></div>
+                            <div class="upper-column info-box" style="margin-left: 0px;">
+                                <div class="icon-box" style="left:0px"><span class="machinery-icon-map"></span></div>
                                 <ul>
                                     <li>R. Abelardo Benedicto Libório</li>
                                     <li>Libéria, 951</li>
