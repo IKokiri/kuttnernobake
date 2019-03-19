@@ -54,7 +54,7 @@
         <section class="story-section">
             <div class="auto-container">
                 <div class="sec-title">
-                    <h2>Kuttner no-bake solutions</h2>
+                    <h2>Kuttner No-Bake Solutions</h2>
                 </div>
                 <div class="row clearfix">
                     <div class="content-column col-md-6 col-sm-12 col-xs-12">

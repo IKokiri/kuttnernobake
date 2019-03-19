@@ -175,7 +175,7 @@
                 <div class="map-outer">
                     <!--Map Canvas-->
                     <div class="map-canvas" data-zoom="17" data-lat="-22.6645525" data-lng="-47.6038755"
-                        data-type="satellite" data-hue="#f05000" data-title="Kuttner no-bake solutions" 
+                        data-type="road" data-hue="#f05000" data-title="Kuttner No-Bake Solutions" 
                         data-icon-path="/images/icons/map-marker.png"
                         data-content="R. Abelardo Benedicto Libório, Libéria, 951, Piracicaba, São Paulo<br>
                         <a href='mailto:info@kuttner-nbs.com.br'>info@kuttner-nbs.com.br</a>">
@@ -204,7 +204,7 @@
                 <div class="inner-column">
                     <div class="sec-title">
                         <h2>Entre em contato</h2>
-                        <div class="text">Kuttner no-bake solutions</div>
+                        <div class="text">Kuttner No-Bake Solutions</div>
                     </div>
                     <!--Contact Form-->
                     <div class="contact-form style-two">

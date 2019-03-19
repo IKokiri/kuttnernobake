@@ -1,6 +1,6 @@
 <head>
 <meta charset="utf-8">
-<title>Kuttner no-bake solutions </title>
+<title>Kuttner No-Bake Solutions </title>
 <!-- Stylesheets -->
 <link href="/css_site/bootstrap.css" rel="stylesheet">
 <link href="/css_site/style.css" rel="stylesheet">
