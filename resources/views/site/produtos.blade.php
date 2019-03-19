@@ -581,7 +581,7 @@
                                     <li><a href="#"><h4>DESPOEIRAMENTO E LIMPEZA DE GASES</h4><br>&nbsp;</a></li>
                                 </ul>  
                             </div>
-                            <a href="produto"><h4>Filtros para Todos os Processos de Findição</h4></a>
+                            <a href="produto"><h4>Filtros para Todos os Processos de Fundição</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
