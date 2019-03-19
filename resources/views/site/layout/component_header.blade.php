@@ -90,11 +90,11 @@
             <div class="sticky-header">
                 <div class="auto-container clearfix">
                     <!--Logo-->
-                    <div class="logo pull-left">
+                    <div class="logo pull-right">
                         <a href="/" class="img-responsive"><img src="/images/logo-small.png" alt="" title=""></a>
                     </div>
                     <!--Right Col-->
-                    <div class="right-col pull-right">
+                    <div class="right-col pull-left">
                         <!-- Main Menu -->
                         <nav class="main-menu">
                             <div class="navbar-header">
