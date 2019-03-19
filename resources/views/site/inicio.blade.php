@@ -221,7 +221,8 @@
             <div class="auto-container">
                 <div class="row clearfix">
                     <!-- Content -->
-                    <div class="content-column col-md-6 col-sm-12 col-xs-12">
+                    <!-- <div class="content-column col-md-6 col-sm-12 col-xs-12"> -->
+                    <div class="content-column">
                         <div class="inner-column">
                             <div class="sec-title light">
                                 <h2>Kuttner No-Bake Solutions</h2>
