@@ -32,7 +32,7 @@
         <section class="story-section">
             <div class="auto-container">
                 <div class="sec-title">
-                    <h2>Kuttner No-Bake Solutions</h2>
+                    <h2>Küttner No-Bake Solutions</h2>
                 </div>
                 <div class="row clearfix">
                     <div class="content-column col-md-6 col-sm-12 col-xs-12">
@@ -40,7 +40,7 @@
                             <div class="text">
                                 <div class="text-justify">
                                     <p>
-                                    A Kuttner No-Bake Solutions foi incorporada no GRUPO KUTTNER como afiliada da Kuttner do Brasil em Junho de 2017. 
+                                    A Küttner No-Bake Solutions foi incorporada no GRUPO Küttner como afiliada da Küttner do Brasil em Junho de 2017. 
                                     Como sucessora das empresas RB Equipamentos Industriais Ltda e IMF Brasil, a empresa já nasceu com uma experiência 
                                     e expertise acumulada de mais que 30 anos em engenharia e fabricação de equipamentos e instalações para a indústria de fundição. 
                                     O foco da empresa está nas fundições no-bake, com uma linha completa para todas as fases do processo desde a mistura da areia 
@@ -49,13 +49,13 @@
                                     </p>
 
                                     <p>
-                                    A linha de produtos da Kuttner No-Bake Solutions é complementada pela linha de produtos tradicionais de 
-                                    Kuttner do Brasil para fundições, tais como sistemas de preparação de carga e carregamento de fornos assim como sistemas 
+                                    A linha de produtos da Küttner No-Bake Solutions é complementada pela linha de produtos tradicionais de 
+                                    Küttner do Brasil para fundições, tais como sistemas de preparação de carga e carregamento de fornos assim como sistemas 
                                     de exaustão e limpeza de gases.
                                     </p>
 
                                     <p>
-                                    A Kuttner No-Bake Solutions encontra-se instalada em sede própria em Piracicaba / SP, com facilidades para todo o processo de engenharia,
+                                    A Küttner No-Bake Solutions encontra-se instalada em sede própria em Piracicaba / SP, com facilidades para todo o processo de engenharia,
                                     fabricação e assistência técnica, de onde a mesma atende o mercado brasileiro assim como todos os demais mercados da América Latina  
                                     </p>
                                 </div>                                
@@ -63,19 +63,19 @@
                            
                         </div>
                         <div class="sec-title">
-                            <h2>Kuttner do Brasil</h2>
+                            <h2>Küttner do Brasil</h2>
                         </div>
                         <div class="text ">
 
                             <div class="text-justify">
                                 <p>
-                                    Kuttner do Brasil, fornecedora tradicional de equipamentos e instalações para a indústria siderúrgica e de fundição, mineração e meio ambiente, é uma empresa afiliada ao GRUPO KÜTTNER da Alemanha com atividades na Europa, Ásia e Américas.
+                                    Küttner do Brasil, fornecedora tradicional de equipamentos e instalações para a indústria siderúrgica e de fundição, mineração e meio ambiente, é uma empresa afiliada ao GRUPO KÜTTNER da Alemanha com atividades na Europa, Ásia e Américas.
                                 </p>
                                 <p>
                                     Fundada em 1974 tem sede em Contagem – MG, de onde atende aos mercados do Brasil e América do Sul.
                                 </p>
                                 <p>
-                                    A combinação entre network global, know-how e experiência de mercado, faz da Kuttner do Brasil a parceira ideal para a realização de projetos industriais. 
+                                    A combinação entre network global, know-how e experiência de mercado, faz da Küttner do Brasil a parceira ideal para a realização de projetos industriais. 
                                 </p>
                                 <p>
                                     A gama de atividades compreende o desenvolvimento de tecnologias, a engenharia, o projeto, o fornecimento, a montagem e a colocação em funcionamento de instalações completas, incluindo, equipamentos mecânicos e elétricos, assim como, sistemas de automação e supervisão de processos, em conformidade com as necessidades específicas de cada cliente.
@@ -95,7 +95,7 @@
                                     O Grupo KÜTTNER ocupa uma posição de líder no desenvolvimento e na implementação de tecnologias inovadoras nas áreas de matérias primas, energéticas e de meio ambiente, projetadas para economizar energia, reduzir o impacto sobre o meio ambiente e otimizar o ciclo dos materiais.
                                 </p>
                                 <p>
-                                    No Brasil, o GRUPO Küttner está presente através de suas afiliadas Kuttner do Brasil em Contagem/MG e Kuttner No-Bake Solutions em Piracicaba/SP.
+                                    No Brasil, o GRUPO Küttner está presente através de suas afiliadas Küttner do Brasil em Contagem/MG e Küttner No-Bake Solutions em Piracicaba/SP.
                                 </p>
                             </div>
                         </div>
@@ -112,9 +112,9 @@
                                     <div class="inner-box">
                                         <span class="date">Jun 2017</span>
                                         <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
-                                        <h3><a href="#">Incorporada no GRUPO KUTTNER</a></h3>
-                                        <div class="text">A Kuttner No-Bake Solutions foi incorporada no 
-                                            GRUPO KUTTNER como afiliada da Kuttner do Brasil em Junho de 2017. </div>
+                                        <h3><a href="#">Incorporada no GRUPO Küttner</a></h3>
+                                        <div class="text">A Küttner No-Bake Solutions foi incorporada no 
+                                            GRUPO Küttner como afiliada da Küttner do Brasil em Junho de 2017. </div>
                                     </div>
                                 </div>
                             </div>
