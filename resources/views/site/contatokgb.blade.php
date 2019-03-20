@@ -38,7 +38,6 @@
                                                 <p>45130 </p>
                                                 <p>Essen, Alemanha</p>
                                             </li>
-data-lat="51.4391388" data-lng="7.0005969"
                                             <li>
                                                 <span class="icon flaticon-support"></span>
                                                 <h5>Telefone</h5>
