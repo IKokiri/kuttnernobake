@@ -62,16 +62,14 @@
                                     fabricação e assistência técnica, de onde a mesma atende o mercado brasileiro assim como todos os demais mercados da América Latina  
                                     </p>
                                 </div>                                
-                            </div>
-                           
+                            </div>                           
                         </div>
                         <div class="sec-title">
                             <h2>Kuttner do Brasil</h2>
                         </div>
-
-                <div>
-                    <img src="images/sobre/kdb.png" alt="" srcset="">
-                </div>
+                        <div>
+                            <img src="images/sobre/kdb.png" alt="" srcset="">
+                        </div>
                         <div class="text ">
 
                             <div class="text-justify">
