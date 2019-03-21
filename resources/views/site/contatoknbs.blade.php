@@ -19,7 +19,7 @@
             <h2>Contato</h2>
         </div>
         <div class="row clearfix">
-            <div class="carousel-column col-md-7 col-sm-12 col-xs-12">
+            <div class="carousel-column col-md-8 col-sm-12 col-xs-12">
                 <div class="inner-column">
                     <div class="branches-carousel owl-carousel owl-theme">
                         <div class="slide">
@@ -169,7 +169,7 @@
                 </div>
             </div>
 
-            <div class="map-column col-md-5 col-sm-12 col-xs-12">
+            <div class="map-column col-md-4 col-sm-12 col-xs-12">
                 <div class="map-outer">
                     <!--Map Canvas-->
                     <div class="map-canvas" data-zoom="17" data-lat="-22.6645525" data-lng="-47.6038755"

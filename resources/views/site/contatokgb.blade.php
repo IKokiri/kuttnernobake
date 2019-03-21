@@ -64,10 +64,10 @@
                 <div class="map-outer">
                     <!--Map Canvas-->
                     <div class="map-canvas" data-zoom="17" data-lat="51.4391847" data-lng="7.0025846"
-                        data-type="road" data-hue="#f05000" data-title="Kuttner No-Bake Solutions" 
+                        data-type="road" data-hue="#f05000" data-title="Grupo Küttner" 
                         data-icon-path="/images/icons/map-marker.png"
-                        data-content="R. Abelardo Benedicto Libório, Libéria, 951, Piracicaba, São Paulo<br>
-                        <a href='mailto:info@kuttner-nbs.com.br'>info@kuttner-nbs.com.br</a>">
+                        data-content="Alfredstr. 28, 45130, Essen, Alemanha<br>
+                        <a href='mailto:info@kuettner.de'>info@kuettner.de</a>">
                     </div>
                 </div>
             </div>
