@@ -110,6 +110,14 @@
                                 <!--Featured Block Two-->
                                 <div class="story-block">
                                     <div class="inner-box">
+                                        <span class="date">Jan 1974</span>
+                                        <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
+                                        <h3><a href="#">Fundação</a></h3>
+                                        <div class="text">Fundada em 1974 tem sede em Contagem – MG, de onde atende aos mercados do Brasil e América do Sul. </div>
+                                    </div>
+                                </div>
+                                  <div class="story-block">
+                                    <div class="inner-box">
                                         <span class="date">Jun 2017</span>
                                         <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
                                         <h3><a href="#">Incorporada no GRUPO Kuttner</a></h3>
