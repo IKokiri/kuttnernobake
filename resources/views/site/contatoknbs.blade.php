@@ -52,8 +52,7 @@
                                                 </li>
                                             </ul>
                                         </div>
-                                </div>
-                                
+                                </div>                                
                             </div>
                             <div class="branch-info-box">
                                 <div class="row clearfix">

@@ -52,6 +52,18 @@
                                         </ul>
                                     </div>
                                 </div>
+                                <br>
+                                 <ul>
+                                    <li><a href="http://www.kuettner.com/Default.aspx?ID=117">
+                                        <span class="icon flaticon-technology"></span>
+                                        <h5>Contatos no site oficial:</h5>
+                                        <h5>
+                                        Grupo Küttner
+                                        </h5>
+                                        <!-- <p>Contatos Kuttner do Brasil</p> -->
+                                        </a>
+                                    </li>
+                                </ul>
                             </div>
                             
                         </div>

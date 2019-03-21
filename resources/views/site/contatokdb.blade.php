@@ -50,9 +50,25 @@
                                                 <h5>Email</h5>
                                                 <p><a href="#">kuttner@kuttner.com.br</a></p>
                                             </li>
+                                            
                                         </ul>
                                     </div>
+                                  
+                                   
+
                                 </div>
+                                <br>
+                                 <ul>
+                                    <li><a href="http://www.kuttner.com.br/Default69ca.html?ID=42">
+                                        <span class="icon flaticon-technology"></span>
+                                        <h5>Contatos no site oficial:</h5>
+                                        <h5>
+                                        Kuttner do Brasil
+                                        </h5>
+                                        <!-- <p>Contatos Kuttner do Brasil</p> -->
+                                        </a>
+                                    </li>
+                                </ul>
                             </div>
                             
                         </div>
