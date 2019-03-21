@@ -37,6 +37,9 @@
                 <div class="row clearfix">
                     <div class="content-column col-md-6 col-sm-12 col-xs-12">
                         <div class="inner-column">
+                            <div>
+                                <img src="images/sobre/knbs.png" alt="" srcset="">
+                            </div>
                             <div class="text">
                                 <div class="text-justify">
                                     <p>
@@ -65,6 +68,10 @@
                         <div class="sec-title">
                             <h2>Kuttner do Brasil</h2>
                         </div>
+
+                <div>
+                    <img src="images/sobre/kdb.png" alt="" srcset="">
+                </div>
                         <div class="text ">
 
                             <div class="text-justify">
