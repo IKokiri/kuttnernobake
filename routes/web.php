@@ -37,7 +37,7 @@ Route::get('contato/kuttnernobake', function () {
 Route::get('contato/kuttnerbrasil', function () {
     return view('site/contatokdb');
 });
-Route::get('contato/kuttneralemanha', function () {
+Route::get('contato/grupokuttner', function () {
     return view('site/contatokgb');
 });
 

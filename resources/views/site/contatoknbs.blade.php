@@ -3,7 +3,7 @@
 @section('page')
 <section class="page-title" style="background-image:url(/images/background/2.jpg)">
     <div class="auto-container">
-        <h1>Küttner No-Bake Solutions</h1>
+        <h1>Kuttner No-Bake Solutions</h1>
         <ul class="page-breadcrumb">
             <li><a href="/">Início</a></li>
             <li>Contato</li>
@@ -30,7 +30,7 @@
                                                     alt=""></a></div>
                                     </div>
                                     <div class="info-column col-md-6 col-sm-6 col-xs-12">
-                                        <div class="lucation">Küttner No-Bake Solutions</div>
+                                        <div class="lucation">Kuttner No-Bake Solutions</div>
                                             <ul>
                                                 <li>
                                                     <span class="icon flaticon-place"></span>
@@ -58,7 +58,7 @@
                             <div class="branch-info-box">
                                 <div class="row clearfix">
                                     <div class="image-column col-md-6 col-sm-6 col-xs-12">
-                                    <div class="lucation">Küttner No-Bake Solutions</div>
+                                    <div class="lucation">Kuttner No-Bake Solutions</div>
                                     <ul>
                                         <li>
                                             <span class="icon flaticon-user"></span>
@@ -175,7 +175,7 @@
                 <div class="map-outer">
                     <!--Map Canvas-->
                     <div class="map-canvas" data-zoom="17" data-lat="-22.6645525" data-lng="-47.6038755"
-                        data-type="road" data-hue="#f05000" data-title="Küttner No-Bake Solutions" 
+                        data-type="road" data-hue="#f05000" data-title="Kuttner No-Bake Solutions" 
                         data-icon-path="/images/icons/map-marker.png"
                         data-content="R. Abelardo Benedicto Libório, Libéria, 951, Piracicaba, São Paulo<br>
                         <a href='mailto:info@kuttner-nbs.com.br'>info@kuttner-nbs.com.br</a>">
@@ -204,7 +204,7 @@
                 <div class="inner-column">
                     <div class="sec-title">
                         <h2>Entre em contato</h2>
-                        <div class="text">Küttner No-Bake Solutions</div>
+                        <div class="text">Kuttner No-Bake Solutions</div>
                     </div>
                     <!--Contact Form-->
                     <div class="contact-form style-two">

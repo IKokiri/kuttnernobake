@@ -56,7 +56,7 @@ ser capturadas e filtradas de maneira confiável. </p>
                                 <p>A grande superfície do fluxo de material vazado no furo de
 corrida libera uma quantidade considerável de calor no meio
 ambiente. Dessa forma é criado um fluxo de convecção
-estável acima do fluxo de corrida. Nesse ponto a Küttner
+estável acima do fluxo de corrida. Nesse ponto a Kuttner
 oferece como solução a aplicação da coifa ciclonada, cuja
 eficiência para fluxos de convecção pulsante já foi
 devidamente comprovada. As coifas são posicionadas fora

@@ -43,7 +43,7 @@
             <ul>
                 <li><a href="/contato/kuttnernobake">Kuttner No-Bake Solutions</a></li>
                 <li><a href="/contato/kuttnerbrasil">Kuttner do Brasil</a></li>
-                <li><a href="/contato/kuttneralemanha">Küttner Alemanha</a></li>
+                <li><a href="/contato/grupokuttner">Grupo Kuttner</a></li>
             </ul>
         </li>
     </ul>
