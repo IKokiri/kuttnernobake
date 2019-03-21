@@ -62,39 +62,39 @@
                                     <ul>
                                         <li>
                                             <span class="icon flaticon-user"></span>
-                                            <h5>Sérgio Pedroso</h5>
-                                            <p>Diretoria</p>
+                                            <h5>Diretoria</h5>
+                                            <p>Sérgio Pedrozo</p>
                                             <p>s.pedrozo@kuttner-nbs.com.br</p>
                                         </li>
                                         <li>
                                             <span class="icon flaticon-user"></span>
-                                            <h5>Odirlei Cassemiro</h5>
-                                            <p>Vendas </p>
-                                            <p>s.pedrozo@kuttner-nbs.com.br</p>
+                                            <h5>Vendas</h5>
+                                            <p>Odirlei Cassemiro</p>
+                                            <p>o.cassemiro@kuttner-nbs.com.br</p>
                                         </li>
                                         <li>
                                             <span class="icon flaticon-user"></span>
-                                            <h5>Sílvio Pedroso</h5>
-                                            <p>Peças de reposição </p>
-                                            <p>s.pedrozo@kuttner-nbs.com.br</p>
+                                            <h5>Peças de reposição</h5>
+                                            <p>Sílvio Pedroso</p>
+                                            <p>sj.pedrozo@kuttner-nbs.com.br</p>
                                         </li>
                                         <li>
                                             <span class="icon flaticon-user"></span>
-                                            <h5>Sílvio Pedroso</h5>
-                                            <p>Assistência técnica </p>
-                                            <p>s.pedrozo@kuttner-nbs.com.br</p>
+                                            <h5>Assistência técnica</h5>
+                                            <p>Sílvio Pedroso</p>
+                                            <p>sj.pedrozo@kuttner-nbs.com.br</p>
                                         </li>
                                         <li>
                                             <span class="icon flaticon-user"></span>
-                                            <h5>Adão Carvalho</h5>
-                                            <p>Suprimentos  </p>
-                                            <p>s.pedrozo@kuttner-nbs.com.br</p>
+                                            <h5>Suprimentos</h5>
+                                            <p>Adão Carvalho</p>
+                                            <p>a.carvalho@kuttner-nbs.com.br</p>
                                         </li>
                                         <li>
                                             <span class="icon flaticon-user"></span>
-                                            <h5>Patricia Cruz</h5>
-                                            <p>Financeiro  </p>
-                                            <p>s.pedrozo@kuttner-nbs.com.br</p>
+                                            <h5>Financeiro</h5>
+                                            <p>Patricia Cruz</p>
+                                            <p>p.cruz@kuttner-nbs.com.br</p>
                                         </li>
                                     </ul>
                                     </div>
@@ -135,7 +135,6 @@
                                             </li>
                                             <li>
                                                 <span class="icon flaticon-user"></span>
-                                                <h5>México</h5>
                                                 <p>Bramund for Foundries</p>
                                                 <p>Sr. Alexandre Bortolini</p>
                                                 <p>Tel. +52-81-1385 1908</p>
@@ -152,7 +151,6 @@
                                             </li>
                                             <li>
                                                 <span class="icon flaticon-user"></span>
-                                                <h5>Peru</h5>
                                                 <p>C&T Representações</p>
                                                 <p>Eduardo Calderon</p>
                                                 <p>Tel. +51-1-719 7542</p>
