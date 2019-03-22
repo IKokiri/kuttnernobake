@@ -19,8 +19,40 @@ Route::get('sobre/', function () {
     return view('site/sobre');
 });
 
-Route::get('produtos/', function () {
+Route::get('produtos', function () {
     return view('site/produtos');
+});
+
+Route::prefix('produtos')->group(function(){
+   
+    Route::get('Misturadores', function () {
+        return view('site/categorias/misturadores');
+    });
+
+    Route::get('SistemaMoldagemVazamentoRefriamento', function () {
+        return view('site/categorias/SistemaMoldagemVazamentoRefriamento');
+    });
+
+    Route::get('SistemaDesmoldagem', function () {
+        return view('site/categorias/SistemaDesmoldagem');
+    });
+
+    Route::get('RecuperacaoMecanicaRegeneracaoTermica', function () {
+        return view('site/categorias/RecuperacaoMecanicaRegeneracaoTermica');
+    });
+
+    Route::get('MaquinasJatoGranalha', function () {
+        return view('site/categorias/MaquinasJatoGranalha');
+    });
+
+    Route::get('PreparacaoCargaCarregamentoForno', function () {
+        return view('site/categorias/PreparacaoCargaCarregamentoForno');
+    });
+
+    Route::get('DespoeiramentoLimpezaGases', function () {
+        return view('site/categorias/DespoeiramentoLimpezaGases');
+    });
+
 });
 
 Route::get('produto', function () {
