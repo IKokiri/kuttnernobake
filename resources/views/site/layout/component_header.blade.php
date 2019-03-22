@@ -46,7 +46,7 @@
                             <div class="upper-column info-box">
                                 <div class="icon-box"><span class="machinery-icon-contact"></span></div>
                                 <ul>
-                                    <li>(19) 3302-4770</li> 
+                                    <li>+55 19 3302 4770</li> 
                                     <li><strong>info@kuttner-nbs.com.br</strong></li>
                                 </ul>
                             </div>

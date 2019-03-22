@@ -42,7 +42,7 @@
                                                 <li>
                                                     <span class="icon flaticon-support"></span>
                                                     <h5>Telefone</h5>
-                                                    <p><a href="#">(19) 3302-4770</a></p>
+                                                    <p><a href="#">+55 19 3302 4770</a></p>
                                                 </li>
 
                                                 <li>
@@ -112,7 +112,7 @@
                                                 <h5>Estado de Santa Catarina e Paraná</h5>
                                                 <p>Gebe Maquinas e Metais Ltda.</p>
                                                 <p>Sr. Gerd Brauer</p>
-                                                <p>Tel. +55-41-3254 847</p>
+                                                <p>Tel. +55-41-3254 8471</p>
                                                 <p>Tel. +55-41-98893 5964</p>
                                                 <p>g.brauer@gebemaquinas.com.br</p>
                                             </li>

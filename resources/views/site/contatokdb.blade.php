@@ -38,24 +38,18 @@
                                                 <p>Cinco, 610</p>
                                                 <p>Contagem, Minas Gerais</p>
                                             </li>
-
                                             <li>
                                                 <span class="icon flaticon-support"></span>
                                                 <h5>Telefone</h5>
-                                                <p><a href="#">(31) 3399 7200</a></p>
+                                                <p><a href="#">+55 31 3399 7200</a></p>
                                             </li>
-
                                             <li>
                                                 <span class="icon flaticon-plane"></span>
                                                 <h5>Email</h5>
                                                 <p><a href="#">kuttner@kuttner.com.br</a></p>
                                             </li>
-                                            
                                         </ul>
                                     </div>
-                                  
-                                   
-
                                 </div>
                                 <br>
                                  <ul>
