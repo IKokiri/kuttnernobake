@@ -55,6 +55,99 @@ Route::prefix('produtos')->group(function(){
 
 });
 
+Route::prefix('Misturadores')->group(function(){
+
+    Route::get('MisturadorBracoDuplo',function(){
+        return view('site/produtos/MisturadorBracoDuplo');
+    });
+    Route::get('MisturadorBracoSimples',function(){
+        return view('site/produtos/MisturadorBracoSimples');
+   });
+    Route::get('MisturadorMovel',function(){
+        return view('site/produtos/MisturadorMovel');
+    });
+
+});
+
+Route::prefix('SistemaMoldagemVazamentoRefriamento')->group(function(){
+  
+    Route::get('FastLoop',function(){
+        return view('FastLoop');
+    });
+
+    Route::get('Rollover',function(){
+        return view('Rollover');
+    });
+
+    Route::get('AreaVazamentoResfriamento',function(){
+        return view('AreaVazamentoResfriamento');
+    });
+
+    Route::get('MoldagemCarrocel4Estacoes',function(){
+        return view('MoldagemCarrocel4Estacoes');
+    });
+
+    Route::get('SistemaPinturaLavagem',function(){
+        return view('SistemaPinturaLavagem');
+    });
+
+});
+
+Route::prefix('SistemaDesmoldagem')->group(function(){
+
+    Route::get('ShakeOut',function(){
+        return view('ShakeOut');
+    });
+
+    Route::get('PreResfriador',function(){
+        return view('PreResfriador');
+    });
+
+    Route::get('TransportePneumatico',function(){
+        return view('TransportePneumatico');
+    });
+
+});
+
+Route::prefix('RecuperacaoMecanicaRegeneracaoTermica')->group(function(){
+    
+    Route::get('RecuperacaoMecanica4TH',function(){
+        return view('RecuperacaoMecanica4TH');
+    });
+
+    Route::get('RecuperacaoMecanica430TH',function(){
+        return view('RecuperacaoMecanica430TH');
+    });
+    
+    Route::get('RegeneracaoTermica056TH',function(){
+        return view('RegeneracaoTermica056TH');
+    });
+
+});
+
+Route::prefix('MaquinasJatoGranalha')->group(function(){
+
+    Route::get('JatoPassagemContinua',function(){
+        return view('JatoPassagemContinua');
+    });
+    Route::get('JatoGancheiraPassagem',function(){
+        return view('JatoGancheiraPassagem');
+    });
+    Route::get('JatoGancheiraTipoY',function(){
+        return view('JatoGancheiraTipoY');
+    });
+    Route::get('JateamentoBobinas',function(){
+        return view('JateamentoBobinas');
+    });
+    Route::get('JatoMesaGiratoria',function(){
+        return view('JatoMesaGiratoria');
+    });
+    Route::get('JatoTamboreamento',function(){
+        return view('JatoTamboreamento');
+    });
+
+});
+
 Route::get('produto', function () {
     return view('site/produto');
 });
