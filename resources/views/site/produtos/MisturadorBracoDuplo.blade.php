@@ -98,7 +98,7 @@
                         <ul class="services-cat">
                             <li><a href="/Misturadores/MisturadorBracoSimples">Misturador Braço Simples</a></li>
                             <li><a href="/Misturadores/MisturadorBracoDuplo">Misturador Braço Duplo</a></li>
-                            <li><a href="/Misturadores/MisturadorBracoSimples">Misturador Móvel</a></li>
+                            <li><a href="/Misturadores/MisturadorMovel">Misturador Móvel</a></li>
                         </ul>
                     </div> 
                         

@@ -72,23 +72,23 @@ Route::prefix('Misturadores')->group(function(){
 Route::prefix('SistemaMoldagemVazamentoRefriamento')->group(function(){
   
     Route::get('FastLoop',function(){
-        return view('FastLoop');
+        return view('site/produtos/FastLoop');
     });
 
     Route::get('Rollover',function(){
-        return view('Rollover');
+        return view('site/produtos/Rollover');
     });
 
     Route::get('AreaVazamentoResfriamento',function(){
-        return view('AreaVazamentoResfriamento');
+        return view('site/produtos/AreaVazamentoResfriamento');
     });
 
     Route::get('MoldagemCarrocel4Estacoes',function(){
-        return view('MoldagemCarrocel4Estacoes');
+        return view('site/produtos/MoldagemCarrocel4Estacoes');
     });
 
     Route::get('SistemaPinturaLavagem',function(){
-        return view('SistemaPinturaLavagem');
+        return view('site/produtos/SistemaPinturaLavagem');
     });
 
 });
@@ -96,15 +96,15 @@ Route::prefix('SistemaMoldagemVazamentoRefriamento')->group(function(){
 Route::prefix('SistemaDesmoldagem')->group(function(){
 
     Route::get('ShakeOut',function(){
-        return view('ShakeOut');
+        return view('site/produtos/ShakeOut');
     });
 
     Route::get('PreResfriador',function(){
-        return view('PreResfriador');
+        return view('site/produtos/PreResfriador');
     });
 
     Route::get('TransportePneumatico',function(){
-        return view('TransportePneumatico');
+        return view('site/produtos/TransportePneumatico');
     });
 
 });
@@ -112,15 +112,15 @@ Route::prefix('SistemaDesmoldagem')->group(function(){
 Route::prefix('RecuperacaoMecanicaRegeneracaoTermica')->group(function(){
     
     Route::get('RecuperacaoMecanica4TH',function(){
-        return view('RecuperacaoMecanica4TH');
+        return view('site/produtos/RecuperacaoMecanica4TH');
     });
 
     Route::get('RecuperacaoMecanica430TH',function(){
-        return view('RecuperacaoMecanica430TH');
+        return view('site/produtos/RecuperacaoMecanica430TH');
     });
     
     Route::get('RegeneracaoTermica056TH',function(){
-        return view('RegeneracaoTermica056TH');
+        return view('site/produtos/RegeneracaoTermica056TH');
     });
 
 });
@@ -128,22 +128,22 @@ Route::prefix('RecuperacaoMecanicaRegeneracaoTermica')->group(function(){
 Route::prefix('MaquinasJatoGranalha')->group(function(){
 
     Route::get('JatoPassagemContinua',function(){
-        return view('JatoPassagemContinua');
+        return view('site/produtos/JatoPassagemContinua');
     });
     Route::get('JatoGancheiraPassagem',function(){
-        return view('JatoGancheiraPassagem');
+        return view('site/produtos/JatoGancheiraPassagem');
     });
     Route::get('JatoGancheiraTipoY',function(){
-        return view('JatoGancheiraTipoY');
+        return view('site/produtos/JatoGancheiraTipoY');
     });
     Route::get('JateamentoBobinas',function(){
-        return view('JateamentoBobinas');
+        return view('site/produtos/JateamentoBobinas');
     });
     Route::get('JatoMesaGiratoria',function(){
-        return view('JatoMesaGiratoria');
+        return view('site/produtos/JatoMesaGiratoria');
     });
     Route::get('JatoTamboreamento',function(){
-        return view('JatoTamboreamento');
+        return view('site/produtos/JatoTamboreamento');
     });
 
 });

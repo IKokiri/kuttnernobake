@@ -96,11 +96,11 @@
                         
                     <div class="sidebar-widget sidebar-blog-category">
                         <ul class="services-cat">
-                            <li><a href="/produto">Misturador Braço Simples</a></li>
-                            <li><a href="/produto">Misturador Braço Duplo</a></li>
-                            <li><a href="/produto">Misturador Móvel</a></li>
+                            <li><a href="/Misturadores/MisturadorBracoSimples">Misturador Braço Simples</a></li>
+                            <li><a href="/Misturadores/MisturadorBracoDuplo">Misturador Braço Duplo</a></li>
+                            <li><a href="/Misturadores/MisturadorMovel">Misturador Móvel</a></li>
                         </ul>
-                    </div> 
+                    </div>
                         
                         <!--Brochure-->
                         <!-- <div class="sidebar-widget brochure-widget">

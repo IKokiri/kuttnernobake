@@ -154,7 +154,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">MISTURADORES</a></h3>
+                        <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
                         <div class="text">Misturador Braço Simples</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -168,7 +168,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">MISTURADORES</a></h3>
+                        <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
                         <div class="text">Misturador Braço Duplo</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -182,7 +182,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">MISTURADORES</a></h3>
+                        <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
                         <div class="text">Misturador Móvel</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -196,7 +196,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
+                        <h3><a href="/produtos/SistemaMoldagemVazamentoRefriamento">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
                         <div class="text">Fast Loop</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -210,7 +210,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
+                        <h3><a href="/produtos/SistemaMoldagemVazamentoRefriamento">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
                         <div class="text">Rollover</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -225,7 +225,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
+                        <h3><a href="/produtos/SistemaMoldagemVazamentoRefriamento">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
                         <div class="text">Área de vazamento - Resfriamento</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -240,7 +240,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
+                        <h3><a href="/produtos/SistemaMoldagemVazamentoRefriamento">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
                         <div class="text">Moldagem Carrocel 4 Estações</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -253,7 +253,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
+                        <h3><a href="/produtos/SistemaMoldagemVazamentoRefriamento">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
                         <div class="text">Sistema de Pintura por Lavagem</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -267,7 +267,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">SISTEMA DE DESMOLDAGEM</a></h3>
+                        <h3><a href="/produtos/SistemaDesmoldagem">SISTEMA DE DESMOLDAGEM</a></h3>
                         <div class="text">Shake-Out</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -282,7 +282,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">SISTEMA DE DESMOLDAGEM</a></h3>
+                        <h3><a href="/produtos/SistemaDesmoldagem">SISTEMA DE DESMOLDAGEM</a></h3>
                         <div class="text">Pré-Resfriador</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -298,7 +298,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">SISTEMA DE DESMOLDAGEM</a></h3>
+                        <h3><a href="/produtos/SistemaDesmoldagem">SISTEMA DE DESMOLDAGEM</a></h3>
                         <div class="text">Transporte Pneumático</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -316,7 +316,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</a></h3>
+                        <h3><a href="/produtos/RecuperacaoMecanicaRegeneracaoTermica">RECUPERAÇÃO E REGENERAÇÃO DE AREIA</a></h3>
                         <div class="text">Recuperação Mecânica - 4 T/H</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -330,7 +330,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</a></h3>
+                        <h3><a href="/produtos/RecuperacaoMecanicaRegeneracaoTermica">RECUPERAÇÃO E REGENERAÇÃO DE AREIA</a></h3>
                         <div class="text">Recuperação Mecânica - 6 a 30 T/H</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -344,7 +344,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</a></h3>
+                        <h3><a href="/produtos/RecuperacaoMecanicaRegeneracaoTermica">RECUPERAÇÃO E REGENERAÇÃO DE AREIA</a></h3>
                         <div class="text">Regeneração Térmica - 0,5 a 6 T/H</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -359,7 +359,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">MÁQUINAS JATO DE GRANALHA</a></h3>
+                        <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
                         <div class="text">Jato de Passagem Contínua</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -375,7 +375,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">MÁQUINAS JATO DE GRANALHA</a></h3>
+                        <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
                         <div class="text">Jato Gancheira de Passagem</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -391,7 +391,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">MÁQUINAS JATO DE GRANALHA</a></h3>
+                        <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
                         <div class="text">Jato com Gancheira tipo Y</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -407,7 +407,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">MÁQUINAS JATO DE GRANALHA</a></h3>
+                        <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
                         <div class="text">Jateamento de Bobinas</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -424,7 +424,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">MÁQUINAS JATO DE GRANALHA</a></h3>
+                        <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
                         <div class="text">Jato Mesa Giratória</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -439,7 +439,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">MÁQUINAS JATO DE GRANALHA</a></h3>
+                        <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
                         <div class="text">Jato por Tamboreamento</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -454,7 +454,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">PREPARAÇÃO DE CARGA</a></h3>
+                        <h3><a href="/produtos/PreparacaoCargaCarregamentoForno">PREPARAÇÃO DE CARGA</a></h3>
                         <div class="text">Preparação de Carga Metálica e Aditivos</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -469,7 +469,7 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">PREPARAÇÃO DE CARGA</a></h3>
+                        <h3><a href="/produtos/PreparacaoCargaCarregamentoForno">PREPARAÇÃO DE CARGA</a></h3>
                         <div class="text">Ponte Rolante com Canguru e Carro de Carregamento</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
@@ -484,8 +484,8 @@
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="produtos">DESPOEIRAMENTO E LIMPEZA DE GASES</a></h3>
-                        <div class="text">Filtros para Todos os Processos de Findição</div>
+                        <h3><a href="/produtos/DespoeiramentoLimpezaGases">DESPOEIRAMENTO E LIMPEZA DE GASES</a></h3>
+                        <div class="text">Filtros para Todos os Processos de Fundição</div>
                         <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
                 </div>

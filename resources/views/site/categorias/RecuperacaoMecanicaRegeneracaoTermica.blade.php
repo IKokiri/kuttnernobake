@@ -4,11 +4,11 @@
 <!--Page Title-->
 <section class="page-title" style="background-image:url(/images/background/2.jpg)">
         <div class="auto-container">
-            <h1>Recuperação Mecânica e Regeneração Térmica</h1>
+            <h1>Recuperação e Regeneração de Areia</h1>
             <ul class="page-breadcrumb">
                 <li><a href="/">início</a></li>
                 <li><a href="/produtos">Produtos</a></li>
-                <li>Recuperação Mecânica e Regeneração Térmica</li>
+                <li>Recuperação e Regeneração de Areia</li>
             </ul>
         </div>
     </section>
@@ -23,7 +23,7 @@
                     <div class="services-single">
                         <div class="inner-box">
                             <div class="sec-title">
-                                <h2>Recuperação Mecânica e Regeneração Térmica</h2>
+                                <h2>Recuperação e Regeneração de Areia</h2>
                             </div>
                             <div class="text">
                                 <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
@@ -96,9 +96,9 @@
                         
                     <div class="sidebar-widget sidebar-blog-category">
                         <ul class="services-cat">
-                            <li><a href="/produto">Recuperação Mecânica - 4 T/H</a></li>
-                            <li><a href="/produto">Recuperação Mecânica - 4 a 30 T/H</a></li>
-                            <li><a href="/produto">Regeneração Térmica - 0,5 a 6 T/H</a></li>
+                            <li><a href="/RecuperacaoMecanicaRegeneracaoTermica/RecuperacaoMecanica4TH">Recuperação Mecânica - 4 T/H</a></li>
+                            <li><a href="/RecuperacaoMecanicaRegeneracaoTermica/RecuperacaoMecanica430TH">Recuperação Mecânica - 4 a 30 T/H</a></li>
+                            <li><a href="/RecuperacaoMecanicaRegeneracaoTermica/RegeneracaoTermica056TH">Regeneração Térmica - 0,5 a 6 T/H</a></li>
                         </ul>
                     </div> 
                         

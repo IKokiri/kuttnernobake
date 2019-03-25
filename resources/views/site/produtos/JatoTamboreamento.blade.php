@@ -96,14 +96,14 @@
                         
                     <div class="sidebar-widget sidebar-blog-category">
                         <ul class="services-cat">
-                            <li><a href="/produto">Jato de Passagem Contínua</a></li>
-                            <li><a href="/produto">Jato Gancheira de Passagem</a></li>
-                            <li><a href="/produto">Jato com Gancheira tipo Y</a></li>
-                            <li><a href="/produto">Jateamento de Bobinas</a></li>
-                            <li><a href="/produto">Jato Mesa Giratória</a></li>
-                            <li><a href="/produto">Jato por Tamboreamento</a></li>
+                            <li><a href="/MaquinasJatoGranalha/JatoPassagemContinua">Jato de Passagem Contínua</a></li>
+                            <li><a href="/MaquinasJatoGranalha/JatoGancheiraPassagem">Jato Gancheira de Passagem</a></li>
+                            <li><a href="/MaquinasJatoGranalha/JatoGancheiraTipoY">Jato com Gancheira tipo Y</a></li>
+                            <li><a href="/MaquinasJatoGranalha/JateamentoBobinas">Jateamento de Bobinas</a></li>
+                            <li><a href="/MaquinasJatoGranalha/JatoMesaGiratoria">Jato Mesa Giratória</a></li>
+                            <li><a href="/MaquinasJatoGranalha/JatoTamboreamento">Jato por Tamboreamento</a></li>
                         </ul>
-                    </div> 
+                    </div>  
                         
                         <!--Brochure-->
                         <!-- <div class="sidebar-widget brochure-widget">

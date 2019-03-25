@@ -1,8 +1,8 @@
 @extends('site/layout.app',["current" => "produtos"])
 
 @section('page')
- <!--Page Title-->
- <section class="page-title" style="background-image:url(images/background/2.jpg)">
+    <!--Page Title-->
+    <section class="page-title" style="background-image:url(images/background/2.jpg)">
         <div class="auto-container">
             <h1>Produtos</h1>
             <ul class="page-breadcrumb">
@@ -12,7 +12,6 @@
         </div>
     </section>
     <!--End Page Title-->
-
     <!-- News Section -->
     <section class="news-section">
         <div class="auto-container">
@@ -103,7 +102,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
+                                    <li><a href="/produtos/SistemaMoldagemVazamentoRefriamento"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
                                 </ul>  
                             </div>
                             <a href="/SistemaMoldagemVazamentoRefriamento/FastLoop"><h4>Fast Loop</h4></a>
@@ -128,7 +127,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
+                                    <li><a href="/produtos/SistemaMoldagemVazamentoRefriamento"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
                                 </ul>  
                             </div>
                             <a href="/SistemaMoldagemVazamentoRefriamento/Rollover"><h4>Rollover</h4></a>
@@ -153,7 +152,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
+                                    <li><a href="/produtos/SistemaMoldagemVazamentoRefriamento"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
                                 </ul>  
                             </div>
                             <a href="/SistemaMoldagemVazamentoRefriamento/AreaVazamentoResfriamento"><h4>Área de vazamento - Resfriamento</h4></a>
@@ -178,7 +177,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
+                                    <li><a href="/produtos/SistemaMoldagemVazamentoRefriamento"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
                                 </ul>  
                             </div>
                             <a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes"><h4>Moldagem Carrocel 4 Estações</h4></a>
@@ -203,7 +202,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
+                                    <li><a href="/produtos/SistemaMoldagemVazamentoRefriamento"><h4>SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</h4></a></li>
                                 </ul>  
                             </div>
                             <a href="/SistemaMoldagemVazamentoRefriamento/SistemaPinturaLavagem"><h4>Sistema de Pintura por Lavagem</h4></a>
@@ -228,7 +227,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>SISTEMA DE DESMOLDAGEM</h4><br>&nbsp;</a></li>
+                                    <li><a href="/produtos/SistemaDesmoldagem"><h4>SISTEMA DE DESMOLDAGEM</h4><br>&nbsp;</a></li>
                                 </ul>  
                             </div>
                             <a href="/SistemaDesmoldagem/ShakeOut"><h4>Shake-Out</h4></a>
@@ -253,7 +252,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>SISTEMA DE DESMOLDAGEM</h4><br></a></li>
+                                    <li><a href="/produtos/SistemaDesmoldagem"><h4>SISTEMA DE DESMOLDAGEM</h4><br></a></li>
                                 </ul>  
                             </div>
                             <a href="/SistemaDesmoldagem/PreResfriador"><h4>Pré-Resfriador</h4></a>
@@ -278,7 +277,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>SISTEMA DE DESMOLDAGEM</h4><br></a></li>
+                                    <li><a href="/produtos/SistemaDesmoldagem"><h4>SISTEMA DE DESMOLDAGEM</h4><br></a></li>
                                 </ul>  
                             </div>
                             <a href="/SistemaDesmoldagem/TransportePneumatico"><h4>Transporte Pneumático</h4></a>
@@ -303,7 +302,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</h4></a></li>
+                                    <li><a href="/produtos/RecuperacaoMecanicaRegeneracaoTermica"><h4>RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</h4></a></li>
                                 </ul>  
                             </div>
                             <a href="/RecuperacaoMecanicaRegeneracaoTermica/RecuperacaoMecanica4TH"><h4>Recuperação Mecânica - 4 T/H</h4></a>
@@ -328,7 +327,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</h4></a></li>
+                                    <li><a href="/produtos/RecuperacaoMecanicaRegeneracaoTermica"><h4>RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</h4></a></li>
                                 </ul>  
                             </div>
                             <a href="/RecuperacaoMecanicaRegeneracaoTermica/RecuperacaoMecanica430TH"><h4>Recuperação Mecânica - 6 a 30 T/H</h4></a>
@@ -353,7 +352,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</h4></a></li>
+                                    <li><a href="/produtos/RecuperacaoMecanicaRegeneracaoTermica"><h4>RECUPERAÇÃO MECÂNICA REGENERAÇÃO TÉRMICA</h4></a></li>
                                 </ul>  
                             </div>
                             <a href="/RecuperacaoMecanicaRegeneracaoTermica/RegeneracaoTermica056TH"><h4>Regeneração Térmica - 0,5 a 6 T/H</h4></a>
@@ -378,7 +377,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4><br><br></a></li>
+                                    <li><a href="/produtos/MaquinasJatoGranalha"><h4>MÁQUINAS JATO DE GRANALHA</h4><br><br></a></li>
                                 </ul>  
                             </div>
                             <a href="/MaquinasJatoGranalha/JatoPassagemContinua"><h4>Jato de Passagem Contínua</h4></a>
@@ -403,7 +402,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4></a></li>
+                                    <li><a href="/produtos/MaquinasJatoGranalha"><h4>MÁQUINAS JATO DE GRANALHA</h4></a></li>
                                 </ul>  
                             </div>
                             <a href="/MaquinasJatoGranalha/JatoGancheiraPassagem"><h4>Jato Gancheira de Passagem</h4></a>
@@ -428,7 +427,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4></a></li>
+                                    <li><a href="/produtos/MaquinasJatoGranalha"><h4>MÁQUINAS JATO DE GRANALHA</h4></a></li>
                                 </ul>  
                             </div>
                             <a href="/MaquinasJatoGranalha/JatoGancheiraTipoY"><h4>Jato com Gancheira tipo Y</h4></a>
@@ -453,7 +452,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4></a></li>
+                                    <li><a href="/produtos/MaquinasJatoGranalha"><h4>MÁQUINAS JATO DE GRANALHA</h4></a></li>
                                 </ul>  
                             </div>
                             <a href="/MaquinasJatoGranalha/JateamentoBobinas"><h4>Jateamento de Bobinas</h4></a>
@@ -478,7 +477,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4><br></a></li>
+                                    <li><a href="/produtos/MaquinasJatoGranalha"><h4>MÁQUINAS JATO DE GRANALHA</h4><br></a></li>
                                 </ul>  
                             </div>
                             <a href="/MaquinasJatoGranalha/JatoMesaGiratoria"><h4>Jato Mesa Giratória</h4></a>
@@ -503,7 +502,7 @@
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>MÁQUINAS JATO DE GRANALHA</h4><br></a></li>
+                                    <li><a href="/produtos/MaquinasJatoGranalha"><h4>MÁQUINAS JATO DE GRANALHA</h4><br></a></li>
                                 </ul>  
                             </div>
                             <a href="/MaquinasJatoGranalha/JatoTamboreamento"><h4>Jato por Tamboreamento</h4></a>

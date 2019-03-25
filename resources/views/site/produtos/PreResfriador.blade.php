@@ -95,9 +95,9 @@
                     <aside class="sidebar">
                     <div class="sidebar-widget sidebar-blog-category">
                         <ul class="services-cat">
-                            <li><a href="/produto">Shake-Out</a></li>
-                            <li><a href="/produto">Pré-Resfriador</a></li>
-                            <li><a href="/produto">Transporte Pneumático</a></li>
+                            <li><a href="/SistemaDesmoldagem/ShakeOut">Shake-Out</a></li>
+                            <li><a href="/SistemaDesmoldagem/PreResfriador">Pré-Resfriador</a></li>
+                            <li><a href="/SistemaDesmoldagem/TransportePneumatico">Transporte Pneumático</a></li>
                         </ul>
                     </div> 
                         
