@@ -78,7 +78,7 @@
                             <div class="feature-info-block">
                                 
                                 <div class="row clearfix">
-                                <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
                                         <figure class="image"><img src="/images/produtos/Misturador móvel I.jpg" alt=""></figure>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">

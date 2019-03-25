@@ -332,11 +332,11 @@
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="image-box">
-                                <figure><a href="images/resource/project-1.jpg" class="ligtbox-image" data-fancybox="gallery"><img
-                                            src="images/resource/project-1.jpg" alt=""></a></figure>
+                                <figure><a href="/images/projetos/suporte rei.jpg" class="ligtbox-image" data-fancybox="gallery"><img
+                                            src="/images/projetos/suporte rei.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
-                                    <span class="tag">Engineering</span>
+                                    <h3><a href="/projeto">Suporte Rei</a></h3>
+                                    <span class="tag">Linha completa de Moldagem</span>
                                 </div>
                             </div>
                         </div>
@@ -344,11 +344,11 @@
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="image-box">
-                                <figure><a href="images/resource/project-2.jpg" class="ligtbox-image" data-fancybox="gallery"><img
-                                            src="images/resource/project-2.jpg" alt=""></a></figure>
+                                <figure><a href="/images/projetos/Usiminas Mecanica.jpg" class="ligtbox-image" data-fancybox="gallery"><img
+                                            src="/images/projetos/Usiminas Mecanica.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
-                                    <span class="tag">Construction</span>
+                                    <h3><a href="/projeto">Usiminas Mecânica</a></h3>
+                                    <span class="tag">Linha completa de moldagem</span>
                                 </div>
                             </div>
                         </div>
@@ -356,50 +356,15 @@
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="image-box">
-                                <figure><a href="images/resource/project-3.jpg" class="ligtbox-image" data-fancybox="gallery"><img
-                                            src="images/resource/project-3.jpg" alt=""></a></figure>
+                                <figure><a href="/images/projetos/Weg Met IV.jpg" class="ligtbox-image" data-fancybox="gallery"><img
+                                            src="/images/projetos/Weg Met IV.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="/projeto">Generate Natural Power</a></h3>
-                                    <span class="tag">Power & Energy</span>
+                                    <h3><a href="/projeto">WEG Met. IV</a></h3>
+                                    <span class="tag">Maquina Jato Interflex</span>
                                 </div>
                             </div>
                         </div>
 
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="image-box">
-                                <figure><a href="images/resource/project-1.jpg" class="ligtbox-image" data-fancybox="gallery"><img
-                                            src="images/resource/project-1.jpg" alt=""></a></figure>
-                                <div class="title-box">
-                                    <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
-                                    <span class="tag">Engineering</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="image-box">
-                                <figure><a href="images/resource/project-2.jpg" class="ligtbox-image" data-fancybox="gallery"><img
-                                            src="images/resource/project-2.jpg" alt=""></a></figure>
-                                <div class="title-box">
-                                    <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
-                                    <span class="tag">Construction</span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Project Block -->
-                        <div class="project-block">
-                            <div class="image-box">
-                                <figure><a href="images/resource/project-3.jpg" class="ligtbox-image" data-fancybox="gallery"><img
-                                            src="images/resource/project-3.jpg" alt=""></a></figure>
-                                <div class="title-box">
-                                    <h3><a href="/projeto">Generate Natural Power</a></h3>
-                                    <span class="tag">Power & Energy</span>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
