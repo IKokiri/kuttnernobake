@@ -13,3 +13,15 @@
     <script src="http://maps.google.com/maps/api/js?key=AIzaSyBUkoTXt1bL6oLyPUFFdVQXVlJpxbW-jWQ"></script>
     <script src="/js_site/map-script.js"></script>
     <!--End Google Map APi-->
+    <script>
+        
+
+        $(document).on("click","#irLinha",function(){
+            $(".slick-next").trigger('click');
+        });
+
+
+        $(document).on("click","#voltarLinha",function(){            
+            $(".slick-prev").trigger('click');
+        });
+    </script>

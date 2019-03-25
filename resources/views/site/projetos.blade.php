@@ -21,10 +21,11 @@
                 <!-- Project Block -->
                 <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
                     <div class="image-box">
-                        <figure><a href="images/gallery/2-1.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-1.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <figure><a href="/images/projetos/Suporte Rei G.jpg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/suporte rei.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="/projeto">LIMPEZA DO AR CONTAMINADO</a></h3>
-                            <span class="tag">Meio Ambiente</span>
+                            <h3><a href="/projetos">Suporte Rei</a></h3>
+                            <span class="tag">Linha completa de Moldagem</span>
                         </div>
                     </div>
                 </div>
@@ -32,10 +33,11 @@
                 <!-- Project Block -->
                 <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
                     <div class="image-box">
-                        <figure><a href="images/gallery/2-2.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-2.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <figure><a href="/images/projetos/Usiminas Mecanica G.jpg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/Usiminas Mecanica.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="/projeto">US Gas Company Masrani</a></h3>
-                            <span class="tag">Construction</span>
+                            <h3><a href="/projetos">Usiminas Mecânica</a></h3>
+                            <span class="tag">Linha completa de moldagem</span>
                         </div>
                     </div>
                 </div>
@@ -43,90 +45,17 @@
                 <!-- Project Block -->
                 <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
                     <div class="image-box">
-                        <figure><a href="images/gallery/2-3.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-3.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <figure><a href="/images/projetos/Weg Met IV G.jpg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/Weg Met IV.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="/projeto">Generate Natural Power</a></h3>
-                            <span class="tag">Power & Energy</span>
+                            <h3><a href="/projetos">WEG Met. IV</a></h3>
+                            <span class="tag">Maquina Jato Interflex</span>
                         </div>
                     </div>
                 </div>
 
-                <!-- Project Block -->
-                <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
-                    <div class="image-box">
-                        <figure><a href="images/gallery/2-4.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-4.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
-                        <div class="title-box">
-                            <h3><a href="/projeto">Petroleum Tank Pipe</a></h3>
-                            <span class="tag">Power & Energy</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
-                    <div class="image-box">
-                        <figure><a href="images/gallery/2-5.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-5.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
-                        <div class="title-box">
-                            <h3><a href="/projeto">Boston Tailway Station</a></h3>
-                            <span class="tag">Construction</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
-                    <div class="image-box">
-                        <figure><a href="images/gallery/2-6.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-6.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
-                        <div class="title-box">
-                            <h3><a href="/projeto">CNF Machine Engineering</a></h3>
-                            <span class="tag">Engineering</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
-                    <div class="image-box">
-                        <figure><a href="images/gallery/2-7.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-7.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
-                        <div class="title-box">
-                            <h3><a href="/projeto">Sydney Harbour Bridge</a></h3>
-                            <span class="tag">Engineering</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
-                    <div class="image-box">
-                        <figure><a href="images/gallery/2-8.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-8.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
-                        <div class="title-box">
-                            <h3><a href="/projeto">Rail Engine Manufacture</a></h3>
-                            <span class="tag">Construction</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Project Block -->
-                <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
-                    <div class="image-box">
-                        <figure><a href="images/gallery/2-9.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="images/gallery/2-9.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
-                        <div class="title-box">
-                            <h3><a href="/projeto">Malasia Logostic Port</a></h3>
-                            <span class="tag">Power & Energy</span>
-                        </div>
-                    </div>
-                </div>
             </div>
 
-            <!-- Styled Pagination -->
-            <div class="styled-pagination text-center">
-                <ul class="clearfix">
-                    <li><a class="prev" href="#"><span class="fa fa-angle-left"></span></a></li>
-                    <li><a href="#" class="active">1</a></li>
-                    <li><a href="#">2</a></li>
-                    <li><a class="next" href="#"><span class="fa fa-angle-right"></span></a></li>
-                </ul>
-            </div>
         </div>
     </section>
     <!-- End Project Section Two -->

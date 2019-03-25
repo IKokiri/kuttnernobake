@@ -335,7 +335,7 @@
                                 <figure><a href="/images/projetos/suporte rei.jpg" class="ligtbox-image" data-fancybox="gallery"><img
                                             src="/images/projetos/suporte rei.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="/projeto">Suporte Rei</a></h3>
+                                    <h3><a href="/projetos">Suporte Rei</a></h3>
                                     <span class="tag">Linha completa de Moldagem</span>
                                 </div>
                             </div>
@@ -347,7 +347,7 @@
                                 <figure><a href="/images/projetos/Usiminas Mecanica.jpg" class="ligtbox-image" data-fancybox="gallery"><img
                                             src="/images/projetos/Usiminas Mecanica.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="/projeto">Usiminas Mecânica</a></h3>
+                                    <h3><a href="/projetos">Usiminas Mecânica</a></h3>
                                     <span class="tag">Linha completa de moldagem</span>
                                 </div>
                             </div>
@@ -359,7 +359,7 @@
                                 <figure><a href="/images/projetos/Weg Met IV.jpg" class="ligtbox-image" data-fancybox="gallery"><img
                                             src="/images/projetos/Weg Met IV.jpg" alt=""></a></figure>
                                 <div class="title-box">
-                                    <h3><a href="/projeto">WEG Met. IV</a></h3>
+                                    <h3><a href="/projetos">WEG Met. IV</a></h3>
                                     <span class="tag">Maquina Jato Interflex</span>
                                 </div>
                             </div>
