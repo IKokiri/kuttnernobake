@@ -215,16 +215,13 @@
             </div>
         </section>
         <!--End Services Section -->
-
-        <!-- What We Do -->
         <section class="what-we-do">
             <div class="auto-container">
                 <div class="row clearfix">
                     <!-- Content -->
-                    <!-- <div class="content-column col-md-6 col-sm-12 col-xs-12"> -->
-                    <div class="content-column">
+                    <div class="content-column col-md-6 col-sm-12 col-xs-12">
                         <div class="inner-column">
-                            <div class="sec-title light">
+                        <div class="sec-title light">
                                 <h2>Kuttner No-Bake Solutions</h2>
                                 <h5>NOVA DENOMINAÇÃO DA IMF BRASIL</h5>
                             </div>
@@ -236,14 +233,21 @@
                                 da IMF Brasil em equipamentos e linhas de moldagem “No-Bake” com a sua
                                  linha tradicional de soluções para fundição.
                             </div>
-                           
+                            
                         </div>
                     </div>
 
+                    <!-- Video Column -->
+                    <div class="video-column col-md-6 col-sm-12 col-xs-12">
+                        <div class="inner-column">
+                            <figure class="image"><img src="images/resource/video.png" alt="">
+                                <a href="https://youtu.be/JlW_-t0Ixok" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-play-circle"></span></a>
+                            </figure>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
-        <!--End What We Do -->
 
         <!-- About Us -->
         <section class="about-us">
