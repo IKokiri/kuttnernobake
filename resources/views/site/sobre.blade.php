@@ -87,14 +87,19 @@
                                 </p>
                             </div>
                         </div>
+                        
                         <div class="sec-title">
-                            <h2>Grupo Kuttner</h2>
+                            <h2>Grupo Küttner</h2>
+                        </div>
+
+                        <div>
+                            <img src="images/sobre/kkg.png" alt="" srcset="">
                         </div>
                         <div class="text">
 
                             <div class="text-justify">
                                 <p>
-                                    A Kuttner Holding com sede em Essen/Alemanha foi fundado  no ano de1949 pelo Engenheiro Dr. Carl Kuttner, sendo hoje um Grupo empresarial internacional com atividades na Europa, Ásia, América do Norte e América do Sul, dedicado à engenharia e fornecimento de instalações industriais “Turn Key”, principalmente para a indústria siderúrgica e de fundição.
+                                    A Kuttner Holding com sede em Essen/Alemanha foi fundado  no ano de 1949 pelo Engenheiro Dr. Carl Kuttner, sendo hoje um Grupo empresarial internacional com atividades na Europa, Ásia, América do Norte e América do Sul, dedicado à engenharia e fornecimento de instalações industriais “Turn Key”, principalmente para a indústria siderúrgica e de fundição.
                                 </p>
                                 <p>
                                     O Grupo KutTNER ocupa uma posição de líder no desenvolvimento e na implementação de tecnologias inovadoras nas áreas de matérias primas, energéticas e de meio ambiente, projetadas para economizar energia, reduzir o impacto sobre o meio ambiente e otimizar o ciclo dos materiais.
@@ -104,8 +109,8 @@
                                 </p>
                             </div>
                         </div>
+                        
                     </div>
-                    
                     <!--Verticle Carousel Column-->
                     <div class="carousel-column col-md-6 col-sm-12 col-xs-12">
                         <div class="verticle-slider-one">
@@ -172,6 +177,7 @@
                     </div>
                 </div>
             </div>
+
         </section>
         <!--End Story Section -->
 

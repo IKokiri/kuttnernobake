@@ -23,7 +23,7 @@
                     <div class="services-single">
                         <div class="inner-box">
                             <div class="sec-title">
-                                <h2>Sistema de Moldagem - Vazamento - Refriamento</h2>
+                                <h2>Rollover</h2>
                             </div>
                             <div class="text">
                                 <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
@@ -35,7 +35,9 @@
                             <div class="two-column">
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box"><a href="/images/produtos/Misturador móvel II.jpg" data-fancybox="gallery"><img src="/images/produtos/Misturador móvel II.jpg" alt=""></a></div>
+                                        <div class="image-box">
+                            <a href="/images/produtos/Rollover.jpg" data-fancybox="gallery">
+                            <img src="/images/produtos/Rollover.jpg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
@@ -78,12 +80,7 @@
                             <div class="feature-info-block">
                                 
                                 <div class="row clearfix">
-                                <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel I.jpg" alt=""></figure>
-                                    </div>
-                                    <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel III.jpg" alt=""></figure>
-                                    </div>
+                              
                                 </div>
                             </div>
                         </div>
@@ -95,12 +92,12 @@
                     <aside class="sidebar">
                         
                     <div class="sidebar-widget sidebar-blog-category">
-                        <ul class="services-cat">
-                            <li><a href="/produto">Fast Loop</a></li>
-                            <li><a href="/produto">Rollover</a></li>
-                            <li><a href="/produto">Área de vazamento - Resfriamento</a></li>
-                            <li><a href="/produto">Moldagem Carrocel 4 Estações</a></li>
-                            <li><a href="/produto">Sistema de Pintura por Lavagem</a></li>
+                    <ul class="services-cat">
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/FastLoop">Fast Loop</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/Rollover">Rollover</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/AreaVazamentoResfriamento">Área de vazamento - Resfriamento</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes">Moldagem Carrocel 4 Estações</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/SistemaPinturaLavagem">Sistema de Pintura por Lavagem</a></li>
                         </ul>
                     </div> 
                         

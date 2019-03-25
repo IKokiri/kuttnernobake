@@ -24,12 +24,17 @@
                         <div class="inner-box">
                             <div class="sec-title">
                                 <h2>Sistema de Desmoldagem</h2>
+                                <h3>
+                                
+Desmoldadores vibratórios com dimensões de 1000x1000 mm até 6000x4000 mm e capacidades de até 100 Ton. 
+                                </h3>
                             </div>
                             <div class="text">
-                                <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
-                                Com melhores controles sobre a dosagem das areias, resinas, catalizadores e suas temperaturas, a mistura será de melhor qualidade e padronizada para todos os moldes.</p>
-                                <p>A maior eficiência na mistura otimiza a quantidade de resina utilizada, garante a qualidade da areia preparada com menor custo e redução de refugo de moldes ou 
-                                    peças defeituosas.</p>
+                                <p>Na Desmoldagem se dá a separação da Peça fundida da Areia do molde.</p>
+                                <p>A Peça fundida é transportada para o setor de rebarbação e acabamento, sendo que a areia passa pelo Sistema de Recuperação para retornar ao processo de moldagem.</p>
+                                <p>Os desmoldadores ( Shake-out ) são máquinas vibratórias de construção robusta e são fabricados com dimensões de 1000 x 1000 mm até 6000 x 4000 mm e capacidades de carga  até 100 ton.</p>
+                                <p>Para atender as necessidades da desmoldagem com altas temperaturas são incorporados sistemas de refrigeração adequado para cada necessidade.</p>
+                                <p></p>
                             </div>
 
                             <div class="two-column">
@@ -43,27 +48,11 @@
                                             <!-- Service Block Two -->
                                             <div class="service-block-two">
                                                 <div class="inner-box">
-                                                    <h3>Misturadores com Capacidades de 3 a 100 t/hora, com:</h3>
                                                     <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
                                                     <ul>
                                                         <li>
-                                                        - Movimentação e/ou giro manual ou motorizado do braço.
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Fixos de Braço simples ou Braço duplo para a Moldagem Manual ou Moldagem Fast-Loop
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Móveis de Braço simples ou Braço duplo
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com Carro Móvel, permitindo a moldagem de grandes caixas no solo ou em fossas, sem necessidade de movimentação das mesmas
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com esteiras para elevação da Areia até a entrada do mesmo em casos especiais de locais com baixa altura
+                                                            
+                                                    Cabines completas de desmoldagem com controle ambiental é de ruído, para atender as exigências do Meio Ambiente assim como do Ministério de Trabalho.Cabines completas de desmoldagem com controle ambiental é de ruído, para atender as exigências do Meio Ambiente assim como do Ministério de Trabalho.
                                                         </li>
                                                     </ul>
                                                 </div>

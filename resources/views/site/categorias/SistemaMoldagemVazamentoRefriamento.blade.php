@@ -26,10 +26,23 @@
                                 <h2>Sistema de Moldagem - Vazamento - Refriamento</h2>
                             </div>
                             <div class="text">
-                                <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
-                                Com melhores controles sobre a dosagem das areias, resinas, catalizadores e suas temperaturas, a mistura será de melhor qualidade e padronizada para todos os moldes.</p>
-                                <p>A maior eficiência na mistura otimiza a quantidade de resina utilizada, garante a qualidade da areia preparada com menor custo e redução de refugo de moldes ou 
-                                    peças defeituosas.</p>
+                                <h3>
+                                    Sistema de Moldagem com Mesa Moldadora, Carrossel ou Fast-Loop.
+                                </h3>
+                                <ul>
+                                    <li>
+                                        - Para Caixas e Moldes de areia com auto-ajuste na dosagem da areia preparada
+                                    </li>
+                                    <li>
+                                    - Para Caixas ou moldes de diferentes dimensões
+                                    </li>
+                                    <li>
+                                    - Com Sistema de operação manual, com Manipulador Hidráulico/Pneumático, ou automático com Rollover
+                                    </li>
+                                    <li>
+                                    - Com diferentes níveis de automação e Controle total da Produção desde a preparação da areia até a desmoldagem, com visualização em tela e com emissão de Relatórios
+                                    </li>
+                                </ul>
                             </div>
 
                             <div class="two-column">
@@ -43,32 +56,57 @@
                                             <!-- Service Block Two -->
                                             <div class="service-block-two">
                                                 <div class="inner-box">
-                                                    <h3>Misturadores com Capacidades de 3 a 100 t/hora, com:</h3>
+                                                    <h3>Incluindo:</h3>
                                                     <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
                                                     <ul>
                                                         <li>
-                                                        - Movimentação e/ou giro manual ou motorizado do braço.
+                                                        - Sistema de nivelador de enchimento da caixa automático
                                                         </li>
                                                         <hr>
                                                         <li>
-                                                         - Modelos Fixos de Braço simples ou Braço duplo para a Moldagem Manual ou Moldagem Fast-Loop
+                                                         - Mesa vibratória de compactação
                                                         </li>
                                                         <hr>
                                                         <li>
-                                                         - Modelos Móveis de Braço simples ou Braço duplo
+                                                         - Sistema de Pintura
                                                         </li>
                                                         <hr>
                                                         <li>
-                                                         - Misturadores com Carro Móvel, permitindo a moldagem de grandes caixas no solo ou em fossas, sem necessidade de movimentação das mesmas
+                                                         - Sistema de secagem
                                                         </li>
                                                         <hr>
                                                         <li>
-                                                         - Misturadores com esteiras para elevação da Areia até a entrada do mesmo em casos especiais de locais com baixa altura
+                                                         - Preparação e colocação de Machos
+                                        <ul class="services-cat">
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/FastLoop">Fast Loop</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/Rollover">Rollover</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/AreaVazamentoResfriamento">Área de vazamento - Resfriamento</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes">Moldagem Carrocel 4 Estações</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/SistemaPinturaLavagem">Sistema de Pintura por Lavagem</a></li>
+                        </ul>           </li>
+                                        <ul class="services-cat">
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/FastLoop">Fast Loop</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/Rollover">Rollover</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/AreaVazamentoResfriamento">Área de vazamento - Resfriamento</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes">Moldagem Carrocel 4 Estações</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/SistemaPinturaLavagem">Sistema de Pintura por Lavagem</a></li>
+                        </ul>           <hr>
+                                        <ul class="services-cat">
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/FastLoop">Fast Loop</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/Rollover">Rollover</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/AreaVazamentoResfriamento">Área de vazamento - Resfriamento</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes">Moldagem Carrocel 4 Estações</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/SistemaPinturaLavagem">Sistema de Pintura por Lavagem</a></li>
+                        </ul>           <li>
+                                                         - Fechamento com Manipulador manual ou automático
+                                                        </li>
+                                                        <hr>
+                                                        <li>
+                                                         - Sistema de Vazamento e Resfriamento com movimentação mecanizada dos moldes vazados até a Desmoldagem
                                                         </li>
                                                     </ul>
                                                 </div>
                                             </div>
-
                                         </div>
                                     </div>
                                 </div>

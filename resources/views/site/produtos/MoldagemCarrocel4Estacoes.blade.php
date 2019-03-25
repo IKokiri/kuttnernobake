@@ -95,12 +95,12 @@
                     <aside class="sidebar">
                         
                     <div class="sidebar-widget sidebar-blog-category">
-                        <ul class="services-cat">
-                            <li><a href="/produto">Fast Loop</a></li>
-                            <li><a href="/produto">Rollover</a></li>
-                            <li><a href="/produto">Área de vazamento - Resfriamento</a></li>
-                            <li><a href="/produto">Moldagem Carrocel 4 Estações</a></li>
-                            <li><a href="/produto">Sistema de Pintura por Lavagem</a></li>
+                    <ul class="services-cat">
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/FastLoop">Fast Loop</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/Rollover">Rollover</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/AreaVazamentoResfriamento">Área de vazamento - Resfriamento</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes">Moldagem Carrocel 4 Estações</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/SistemaPinturaLavagem">Sistema de Pintura por Lavagem</a></li>
                         </ul>
                     </div> 
                         
