@@ -106,8 +106,6 @@
                         </div>
                     </div>
                     
-                    
-
                     <!--Verticle Carousel Column-->
                     <div class="carousel-column col-md-6 col-sm-12 col-xs-12">
                         <div class="verticle-slider-one">
@@ -115,19 +113,58 @@
                                 <!--Featured Block Two-->
                                 <div class="story-block">
                                     <div class="inner-box">
-                                        <span class="date">Jan 1974</span>
+                                        <span class="date">Jul 2017</span>
                                         <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
-                                        <h3><a href="#">Fundação</a></h3>
-                                        <div class="text">Fundada em 1974 tem sede em Contagem – MG, de onde atende aos mercados do Brasil e América do Sul. </div>
+                                        <!-- <h3><a href="#">Fundação</a></h3> -->
+                                        <div class="text">A IMF Brasil é incorporada no Grupo Küttner como afiliada da Kuttner do Brasil, mudando o seu nome para Kuttner No-Bake Solutions</div>
                                     </div>
                                 </div>
-                                  <div class="story-block">
+                                <div class="story-block">
                                     <div class="inner-box">
-                                        <span class="date">Jun 2017</span>
+                                        <span class="date">Mai 2017</span>
                                         <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
-                                        <h3><a href="#">Incorporada no GRUPO Kuttner</a></h3>
-                                        <div class="text">A Kuttner No-Bake Solutions foi incorporada no 
-                                            GRUPO Kuttner como afiliada da Kuttner do Brasil em Junho de 2017. </div>
+                                        <!-- <h3><a href="#">Fundação</a></h3> -->
+                                        <div class="text">O Grupo Küttner adquire da IMF Italia a participação na IMF Brasil</div>
+                                    </div>
+                                </div>
+                                <div class="story-block">
+                                    <div class="inner-box">
+                                        <span class="date">Jan 2008</span>
+                                        <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
+                                        <!-- <h3><a href="#">Fundação</a></h3> -->
+                                        <div class="text">Inauguração da fábrica com sede própria da IMF Brasil no Distrito Industrial Uninorte em Piracicaba/MG</div>
+                                    </div>
+                                </div>
+                                <div class="story-block">
+                                    <div class="inner-box">
+                                        <span class="date">Dez 2003</span>
+                                        <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
+                                        <!-- <h3><a href="#">Fundação</a></h3> -->
+                                        <div class="text">A IMF Itália, empresa mundialmente conhecida pelo seu Know How em Fundições No-Bake, convida o Engenheiro Sergio Pedrozo para participar na fundação da IMF Brasil Instalações e Máquinas para Fundição Ltda, incorporando a RB Equipamentos Industriais Ltda na nova empresa</div>
+                                    </div>
+                                </div>
+                                <div class="story-block">
+                                    <div class="inner-box">
+                                        <span class="date">Nov 1997</span>
+                                        <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
+                                        <!-- <h3><a href="#">Fundação</a></h3> -->
+                                        <div class="text">O Engenheiro Sergio Pedrozo, com 20 anos de experiencia em equipamentos para Fundição No-bake, funda a empresa RB Equipamentos Industriais Ltda em Piracicaba/SP</div>
+                                    </div>
+                                </div>
+                                <div class="story-block">
+                                    <div class="inner-box">
+                                        <span class="date">Out 1976</span>
+                                        <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
+                                        <!-- <h3><a href="#">Fundação</a></h3> -->
+                                        <div class="text">Com o mercado em plena expansão, a Kuttner do Brasil constrói sua sede própria com escritório e área industrial em Contagem/MG,  para a fabricação e montagem de seus sistemas/equipamentos</div>
+                                    </div>
+                                </div>
+                                <div class="story-block">
+                                    <div class="inner-box">
+                                        <span class="date">Mai 1974</span>
+                                        <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
+                                        <!-- <h3><a href="#">Fundação</a></h3> -->
+                                        <div class="text">O Grupo Küttner Alemanha se estabelece no Brasil com uma filial em Belo Horizonte para atender a crescente demanda do mercado brasileiro de indústria siderúrgica, fundição e mineração</div>
                                     </div>
                                 </div>
                             </div>
