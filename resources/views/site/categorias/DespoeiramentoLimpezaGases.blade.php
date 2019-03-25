@@ -37,7 +37,9 @@
                             <div class="two-column">
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box"><a href="/images/produtos/Misturador móvel II.jpg" data-fancybox="gallery"><img src="/images/produtos/Misturador móvel II.jpg" alt=""></a></div>
+                                        <div class="image-box">
+                                        <a href="/images/produtos/Despoeiramento 1.JPG" data-fancybox="gallery">
+                                        <img src="/images/produtos/Despoeiramento 1.JPG" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
@@ -61,12 +63,7 @@
                             <div class="feature-info-block">
                                 
                                 <div class="row clearfix">
-                                <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel I.jpg" alt=""></figure>
-                                    </div>
-                                    <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel III.jpg" alt=""></figure>
-                                    </div>
+                               
                                 </div>
                             </div>
                         </div>
@@ -79,7 +76,7 @@
                         
                     <div class="sidebar-widget sidebar-blog-category">
                         <ul class="services-cat">
-                            <li><a href="/produto">Filtros para Todos os Processos de Fundição</a></li>
+                            <li><a href="/produtos/DespoeiramentoLimpezaGases">Filtros para Todos os Processos de Fundição</a></li>
                         </ul>
                     </div> 
                         

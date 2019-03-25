@@ -103,6 +103,10 @@ Route::prefix('SistemaDesmoldagem')->group(function(){
         return view('site/produtos/PreResfriador');
     });
 
+    Route::get('CabineDesmoldagem',function(){
+        return view('site/produtos/CabineDesmoldagem');
+    });
+
     Route::get('TransportePneumatico',function(){
         return view('site/produtos/TransportePneumatico');
     });

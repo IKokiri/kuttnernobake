@@ -36,8 +36,10 @@
 
                             <div class="two-column">
                                 <div class="row clearfix">  
-                                    <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box"><a href="/images/produtos/Misturador móvel II.jpg" data-fancybox="gallery"><img src="/images/produtos/Misturador móvel II.jpg" alt=""></a></div>
+                                    <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="image-box">
+                                        <a href="/images/produtos/preparacao de carga.jpg" data-fancybox="gallery">
+                                        <img src="/images/produtos/preparacao de carga.jpg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
@@ -61,12 +63,7 @@
                             <div class="feature-info-block">
                                 
                                 <div class="row clearfix">
-                                <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel I.jpg" alt=""></figure>
-                                    </div>
-                                    <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel III.jpg" alt=""></figure>
-                                    </div>
+                                
                                 </div>
                             </div>
                         </div>
@@ -79,8 +76,8 @@
                         
                     <div class="sidebar-widget sidebar-blog-category">
                         <ul class="services-cat">
-                            <li><a href="/produto">Preparação de Carga Metálica e Aditivos</a></li>
-                            <li><a href="/produto">Ponte Rolante com Canguru e Carro de Carregamento</a></li>
+                            <li><a href="/produtos/PreparacaoCargaCarregamentoForno">Preparação de Carga Metálica e Aditivos</a></li>
+                            <li><a href="/produtos/PreparacaoCargaCarregamentoForno">Ponte Rolante com Canguru e Carro de Carregamento</a></li>
                         </ul>
                     </div> 
                         

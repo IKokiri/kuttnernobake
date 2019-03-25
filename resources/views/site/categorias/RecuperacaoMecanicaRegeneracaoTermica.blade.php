@@ -38,7 +38,9 @@
                             <div class="two-column">
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box"><a href="/images/produtos/Misturador móvel II.jpg" data-fancybox="gallery"><img src="/images/produtos/Misturador móvel II.jpg" alt=""></a></div>
+                                        <div class="image-box">
+                                        <a href="/images/produtos/Recuperação Mecanica.JPG" data-fancybox="gallery">
+                                        <img src="/images/produtos/Recuperação Mecanica.JPG" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
@@ -71,18 +73,32 @@
                                     <li>- Descarte zero de contaminantes para o Meio Ambiente através da eliminação de qualquer material orgânico da areia, transformando os descartes inertes para o meio ambiente</li>
                                 </ul>
                             </div>
+                            <div class="row clearfix">  
+                                    <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="image-box">
+                                        <a href="/images/produtos/Regeneração termica.bmp" data-fancybox="gallery">
+                                        <img src="/images/produtos/Regeneração termica.bmp" alt=""></a></div>
+                                    </div>
+                                    <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="inner-column">
+                                            
+                                            <!-- Service Block Two -->
+                                            <div class="service-block-two">
+                                                <div class="inner-box">
+                                                
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
 
 
                             <div class="feature-info-block">
                                 
                                 <div class="row clearfix">
-                                <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel I.jpg" alt=""></figure>
-                                    </div>
-                                    <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel III.jpg" alt=""></figure>
-                                    </div>
+                                
                                 </div>
                             </div>
                         </div>

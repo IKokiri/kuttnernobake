@@ -113,13 +113,14 @@
                     </div>
                     <!--Verticle Carousel Column-->
                     <div class="carousel-column col-md-6 col-sm-12 col-xs-12">
+                        <h3 class="text-center">Linha do Tempo</h3>
                         <div class="verticle-slider-one">
                             <div class="verticle-carousel">
                                 <!--Featured Block Two-->
                                 <div class="story-block">
                                     <div class="inner-box">
                                         <span class="date">Jul 2017</span>
-                                        <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
+                                        <div class="image-box"><img src="/images/resource/feature-1.jpg" alt=""></div>
                                         <!-- <h3><a href="#">Fundação</a></h3> -->
                                         <div class="text">A IMF Brasil é incorporada no Grupo Küttner como afiliada da Kuttner do Brasil, mudando o seu nome para Kuttner No-Bake Solutions</div>
                                     </div>
@@ -135,15 +136,16 @@
                                 <div class="story-block">
                                     <div class="inner-box">
                                         <span class="date">Jan 2008</span>
-                                        <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
+                                        <div class="image-box"><img src="/images/sobre/logoimf.png" alt=""></div>
                                         <!-- <h3><a href="#">Fundação</a></h3> -->
                                         <div class="text">Inauguração da fábrica com sede própria da IMF Brasil no Distrito Industrial Uninorte em Piracicaba/MG</div>
+                                        <img src="/images/news/IMF Brasil 2007.JPG" alt="">
                                     </div>
                                 </div>
                                 <div class="story-block">
                                     <div class="inner-box">
                                         <span class="date">Dez 2003</span>
-                                        <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
+                                        <div class="image-box"><img src="/images/sobre/logoimf.png" alt=""></div>
                                         <!-- <h3><a href="#">Fundação</a></h3> -->
                                         <div class="text">A IMF Itália, empresa mundialmente conhecida pelo seu Know How em Fundições No-Bake, convida o Engenheiro Sergio Pedrozo para participar na fundação da IMF Brasil Instalações e Máquinas para Fundição Ltda, incorporando a RB Equipamentos Industriais Ltda na nova empresa</div>
                                     </div>
@@ -151,7 +153,7 @@
                                 <div class="story-block">
                                     <div class="inner-box">
                                         <span class="date">Nov 1997</span>
-                                        <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
+                                        <div class="image-box"><img src="/images/sobre/logoimf.png" alt=""></div>
                                         <!-- <h3><a href="#">Fundação</a></h3> -->
                                         <div class="text">O Engenheiro Sergio Pedrozo, com 20 anos de experiencia em equipamentos para Fundição No-bake, funda a empresa RB Equipamentos Industriais Ltda em Piracicaba/SP</div>
                                     </div>
@@ -162,6 +164,7 @@
                                         <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
                                         <!-- <h3><a href="#">Fundação</a></h3> -->
                                         <div class="text">Com o mercado em plena expansão, a Kuttner do Brasil constrói sua sede própria com escritório e área industrial em Contagem/MG,  para a fabricação e montagem de seus sistemas/equipamentos</div>
+                                        <img src="/images/news/KdB 1976.png" alt="">
                                     </div>
                                 </div>
                                 <div class="story-block">
@@ -170,14 +173,22 @@
                                         <div class="image-box"><img src="images/resource/feature-1.jpg" alt=""></div>
                                         <!-- <h3><a href="#">Fundação</a></h3> -->
                                         <div class="text">O Grupo Küttner Alemanha se estabelece no Brasil com uma filial em Belo Horizonte para atender a crescente demanda do mercado brasileiro de indústria siderúrgica, fundição e mineração</div>
+                                        <img src="/images/news/KdB 1974.png" alt="">
                                     </div>
                                 </div>
                             </div>
                         </div>
+                    
                     </div>
+                    
+                </div>
+            <div class="row clearfix">
+                <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <figure class="image"><img src="/images/sobre/mapa.png" alt=""></figure>
                 </div>
             </div>
-
+                
+            </div>
         </section>
         <!--End Story Section -->
 

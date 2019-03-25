@@ -40,7 +40,8 @@ Desmoldadores vibratórios com dimensões de 1000x1000 mm até 6000x4000 mm e ca
                             <div class="two-column">
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box"><a href="/images/produtos/Misturador móvel II.jpg" data-fancybox="gallery"><img src="/images/produtos/Misturador móvel II.jpg" alt=""></a></div>
+                                        <div class="image-box"><a href="/images/produtos/Desmoldagem.jpg" data-fancybox="gallery">
+                                        <img src="/images/produtos/Desmoldagem.jpg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
@@ -52,7 +53,7 @@ Desmoldadores vibratórios com dimensões de 1000x1000 mm até 6000x4000 mm e ca
                                                     <ul>
                                                         <li>
                                                             
-                                                    Cabines completas de desmoldagem com controle ambiental é de ruído, para atender as exigências do Meio Ambiente assim como do Ministério de Trabalho.Cabines completas de desmoldagem com controle ambiental é de ruído, para atender as exigências do Meio Ambiente assim como do Ministério de Trabalho.
+                                                            Cabines completas de desmoldagem com controle ambiental é de ruído, para atender as exigências do Meio Ambiente assim como do Ministério de Trabalho.Cabines completas de desmoldagem com controle ambiental é de ruído, para atender as exigências do Meio Ambiente assim como do Ministério de Trabalho.
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -67,12 +68,7 @@ Desmoldadores vibratórios com dimensões de 1000x1000 mm até 6000x4000 mm e ca
                             <div class="feature-info-block">
                                 
                                 <div class="row clearfix">
-                                <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel I.jpg" alt=""></figure>
-                                    </div>
-                                    <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel III.jpg" alt=""></figure>
-                                    </div>
+                                
                                 </div>
                             </div>
                         </div>
@@ -85,6 +81,7 @@ Desmoldadores vibratórios com dimensões de 1000x1000 mm até 6000x4000 mm e ca
                     <div class="sidebar-widget sidebar-blog-category">
                         <ul class="services-cat">
                             <li><a href="/SistemaDesmoldagem/ShakeOut">Shake-Out</a></li>
+                            <li><a href="/SistemaDesmoldagem/CabineDesmoldagem">Cabine Desmoldagem</a></li>
                             <li><a href="/SistemaDesmoldagem/PreResfriador">Pré-Resfriador</a></li>
                             <li><a href="/SistemaDesmoldagem/TransportePneumatico">Transporte Pneumático</a></li>
                         </ul>
