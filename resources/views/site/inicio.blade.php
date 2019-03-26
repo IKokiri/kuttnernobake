@@ -147,7 +147,7 @@
                                     </div>
                                 </div>
                                 <div class="title">
-                                    <h3>Regeneração Térmica</h3> <i class="icon flaticon-user-1"></i>
+                                    <h3>Regeneração Térmica </h3><i class="icon flaticon-user-1"></i>
                                 </div>
                             </div>
                         </div>
