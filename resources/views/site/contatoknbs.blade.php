@@ -119,10 +119,10 @@
                                             <li>
                                                 <span class="icon flaticon-user"></span>
                                                 <h5>Estado do Rio Grande do Sul</h5>
-                                                <p>Fupesul</p>
-                                                <p>Sr. Erasmo</p>
-                                                <p>Tel. +55-12-12344 1234</p>
-                                                <p>email@email.com.br</p>
+                                                <p>Fulpesul Comercio Representações LTDA</p>
+                                                <p>Sr. Erasmo Moraes</p>
+                                                <p>Tel. +55-51 99817 9900</p>
+                                                <p>erasmo@fupesul.com.br</p>
                                             </li>
                                             <li>
                                                 <span class="icon flaticon-user"></span>

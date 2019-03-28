@@ -197,11 +197,11 @@
                     <figure class="image"><img src="/images/sobre/mapa.png" alt=""></figure>
                 </div>
             </div>
-                
+                   
             </div>
         </section>
         <!--End Story Section -->
-
+    </section>
         <!-- Industry Section -->
         <div class="industry-section">
             <div class="auto-container">
@@ -572,5 +572,7 @@
         </section>
         <!--End Call To Action -->
 
+        
 
+    
 @endsection
