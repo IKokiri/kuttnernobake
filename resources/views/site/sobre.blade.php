@@ -163,7 +163,7 @@
                                 <div class="story-block">
                                     <div class="inner-box">
                                         <span class="date">Nov 1997</span>
-                                        <div class="image-box"><img src="/images/sobre/logoimf.png" alt=""></div>
+                                        <div class="image-box"><img src="/images/sobre/logorb.png" alt=""></div>
                                         <!-- <h3><a href="#">Fundação</a></h3> -->
                                         <div class="text">O Engenheiro Sergio Pedrozo, com 20 anos de experiencia em equipamentos para Fundição No-bake, funda a empresa RB Equipamentos Industriais Ltda em Piracicaba/SP</div>
                                     </div>
