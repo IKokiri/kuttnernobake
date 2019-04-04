@@ -29,6 +29,7 @@
                     <thead>
                         <tr>
                             <th>Categoria</th>
+                            <th>Descrição</th>
                             <th>Data</th>
                             <th>Alterar</th>
                             <th>Remover</th>
@@ -37,6 +38,7 @@
                     <tfoot>
                         <tr>
                             <th>Categoria</th>
+                            <th>Descrição</th>
                             <th>Data</th>
                             <th>Alterar</th>
                             <th>Remover</th>
@@ -46,6 +48,7 @@
                     @foreach($categories as $category)
                         <tr>
                             <td>{{$category->category}}</td>
+                            <td>{{substr($category->description,0,20)}}...</td>
                             <td>{{$category->created_at}}</td>
                             <td class="text-center">
                                 <a href="javascript:void(0)" onclick='edit({{$category->id}})' id="alterar" data-toggle="modal" data-target="#exampleModal" title="Alterar" class="btn btn-warning btn-circle">
@@ -79,7 +82,7 @@
 <!-- modal -->
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
+  <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title" id="exampleModalLabel">Categoria</h5>
@@ -97,7 +100,10 @@
                     <input type="text" class="form-control" name="category" id="category"  placeholder="Categoria">
                     <input type="hidden" name="id" id="id">
                     
-                </div>           
+                </div>    
+                
+            <textarea name="description" id="description" cols="30" rows="20"></textarea>          
+
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Sair</button>
@@ -127,7 +133,8 @@ function edit(id){
 
 function preencher(dados){
 
-    $("#category").val(dados.category);
+    $("#category").val(dados.category);    
+    tinyMCE.activeEditor.setContent(dados.description);
     $("#id").val(dados.id);
 
 }
@@ -174,6 +181,7 @@ $(document).ready(function(){
         
         id = $("#id").val();
         category = $("#category").val();
+        description = $("#description").val();
         
         
         if(id){
@@ -181,7 +189,10 @@ $(document).ready(function(){
             $.ajax({
                 type:"put",
                 url:"/admin/categoria/"+id,
-                data:{category: category}
+                data:{
+                    category: category,
+                    description: description
+                }
             }).done(function(){   
                 window.location.href = "/admin/categoria";      
             })
@@ -189,7 +200,9 @@ $(document).ready(function(){
             $.ajax({
                 type:"post",
                 url:"/admin/categoria",
-                data:{category: category}
+                data:{
+                    category: category,
+                    description: description}
             }).done(function(){   
                 window.location.href = "/admin/categoria";      
             })
@@ -199,6 +212,7 @@ $(document).ready(function(){
     $('.modal').on('hidden.bs.modal', function (e) {
         
         $("input").val("");
+        tinyMCE.activeEditor.setContent("");
         
     })
 })

@@ -370,6 +370,7 @@ $(document).ready(function(){
     $('.modal').on('hidden.bs.modal', function (e) {
         
         $("input").val("");
+        tinyMCE.activeEditor.setContent("");
         
     })
 })

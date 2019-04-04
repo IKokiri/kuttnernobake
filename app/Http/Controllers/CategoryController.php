@@ -39,6 +39,7 @@ class CategoryController extends Controller
     {
         $category = new Category();
         $category->category = $request->input('category');
+        $category->description = $request->input('description');
         $category->save();
 
         
@@ -83,6 +84,7 @@ class CategoryController extends Controller
     {
         $category = Category::find($id);
         $category->category = $request->input('category');
+        $category->description = $request->input('description');
         $category->save();
         
     }
