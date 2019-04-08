@@ -210,10 +210,12 @@ Route::middleware('auth')->group(function(){
     Route::get('admin/clientes/{id}/editar','ClientController@edit');
     Route::put('admin/clientes/{id}','ClientController@update');
     Route::delete('admin/clientes/{id}','ClientController@destroy');
+
+    Route::post('admin/projetos','ProjectController@store');
+    Route::get('admin/projetos/{id}/editar','ProjectController@edit');
+    Route::put('admin/projetos/{id}','ProjectController@update');
+    Route::delete('admin/projetos/{id}','ProjectController@destroy');
 });
-
-
-
 
 Auth::routes();
 

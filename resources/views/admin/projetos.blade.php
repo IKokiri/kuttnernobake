@@ -30,6 +30,7 @@
                         <tr>
                             <th>Cliente</th>
                             <th>Produto</th>
+                            <th>Descrição</th>
                             <th>Data</th>
                             <th>Imagem</th>
                             <th>Alterar</th>
@@ -40,6 +41,7 @@
                         <tr>
                             <th>Cliente</th>
                             <th>Produto</th>
+                            <th>Descrição</th>
                             <th>Data</th>
                             <th>Imagem</th>
                             <th>Alterar</th>
@@ -47,7 +49,38 @@
                         </tr>
                     </tfoot>
                     <tbody>
-                   
+                    @foreach($projects as $project)
+                        <tr>
+                            <td>{{$project->client_id}}</td>
+                            <td>{{$project->product_id}}</td>
+                            <td>{{$project->description}}</td>
+                            <td>{{$project->created_at}}</td>
+                            <td class="text-center">
+                                <a href="javascript:void(0)"  data-toggle="modal" onclick="carregarImagensProduto({{$project->id}})" data-target="#modalImagens" title="Alterar" class="btn btn-info btn-circle">
+                                    <i class="fas fa-image"></i>
+                                </a>                        
+                            </td>
+                            <td class="text-center">
+                                <a href="javascript:void(0)" onclick='edit({{$project->id}})' id="alterar" data-toggle="modal" data-target="#exampleModal" title="Alterar" class="btn btn-warning btn-circle">
+                                    <i class="fas fa-pen"></i>
+                                </a>                        
+                            </td>
+                            <td class="text-center">
+                            
+                                <a href="javascript:void(0)" onclick="ativarConfirmarApagar({{$project->id}})" title="Remover" class="btn btn-danger btn-circle apagar_{{$project->id}}">
+                                    <i class="fas fa-trash"></i>
+                                </a>     
+                            
+                                <a href="javascript:void(0)" title="Remover" id="apagar" onclick="remover({{$project->id}})" class="btn btn-success btn-circle confirmarApagar_{{$project->id}}">
+                                    <i class="fas fa-check-circle "></i>
+                                </a>  
+                                <a href="javascript:void(0)" title="Remover" onclick="desativarConfirmarApagar()" class="btn btn-danger btn-circle confirmarApagar_{{$project->id}}">
+                                    <i class="fas fa-ban"></i>
+                                </a>          
+                               
+                            </td>
+                        </tr>
+                    @endforeach
                     </tbody>
                 </table>
             </div>
@@ -181,15 +214,15 @@ function edit(id){
 }
 
 function preencher(dados){
-    $("#product").val(dados.product);
-    $("#category_id").val(dados.category_id);
+    $("#product_id").val(dados.product_id);
+    $("#client_id").val(dados.client_id);
     tinyMCE.activeEditor.setContent(dados.description);
     $("#id").val(dados.id);
 }
 
 function buscarId(id){
 
-    $.get("/admin/produtos/"+id+"/editar",function(result){
+    $.get("/admin/projetos/"+id+"/editar",function(result){
          preencher(result);
     }).fail(function(){
         
@@ -205,72 +238,24 @@ function desativarConfirmarApagar(){
     $("*[class*=confirmarApagar]").hide();
     $("*[class*=apagar]").show();
 }
+
 function remover(id){
     $.ajax({
         type:"delete",
-        url:"/admin/produtos/"+id
+        url:"/admin/projetos/"+id
     }).done(function(){   
-        window.location.href = "/admin/produtos";      
+        window.location.href = "/admin/projetos";      
     })
 }
 
-function enviarImagemProduto(){
 
-    file = $("#file").prop('files')[0];
-    product_id = $("#product_id").val();
+function carregarImagensProduto(project_id){
     
-    var formData = new FormData();
-
-
-    formData.append('file', file);
-    formData.append('product_id', product_id);
-
-    $.ajax({
-        type:"post",
-        url:"/admin/produtoImagem",
-        dataType: 'JSON',
-        data:formData,
-        processData: false,
-        cache: false,
-        contentType: false,
-        success:function(data){
-            
-
-            product_id = $("#product_id").val();
-            carregarImagensProduto(product_id);
-            
-        
-        },       
-    }).done(function(){
-        
-    });
-
-}
-
-function apagarImagem(image_id){
-
-    product_id = $("#product_id").val();
-
-    $.ajax({
-        type: "delete",
-        url:"/admin/produtoImagem/"+image_id,
-        dataType:"JSON",
-        success:function(){
-
-            carregarImagensProduto(product_id);
-        },
-    }).done(function(){
-
-    });
-}
-
-function carregarImagensProduto(product_id){
-        
-    setarProductId(product_id);
+    setarProductId(project_id);
 
     $.ajax({
         type:"get",
-        url:"/admin/produtos/"+product_id+"/buscarImagens",
+        url:"/admin/projects/"+project_id+"/buscarImagens",
         dataType:"JSON",
         success:function(result){
 
@@ -290,16 +275,12 @@ function carregarImagensProduto(product_id){
             })
 
             $(".imagens").html(cardImage);
-           
+            
         },
     }).done(function(){
 
     })
 
-}
-
-function setarProductId(product_id){
-    $("#product_id").val(product_id);
 }
 
 $(document).ready(function(){
@@ -320,15 +301,15 @@ $(document).ready(function(){
 
         event.preventDefault();
 
-        product = $("#product").val();
+        client_id = $("#client_id").val();
         description = $("#description").val();
-        category_id = $("#category_id").val();        
+        product_id = $("#product_id").val();        
         id = $("#id").val();
         
         dados = {
-            product : product,
+            client_id : client_id,
             description : description,
-            category_id : category_id
+            product_id : product_id
         }
 
 
@@ -336,18 +317,18 @@ $(document).ready(function(){
             
         $.ajax({
                 type:"put",
-                url:"/admin/produtos/"+id,
+                url:"/admin/projetos/"+id,
                 data:dados
             }).done(function(){   
-                window.location.href = "/admin/produtos";      
+                window.location.href = "/admin/projetos";      
             })
         }else{
             $.ajax({
                 type:"post",
-                url:"/admin/produtos",
+                url:"/admin/projetos",
                 data:dados
             }).done(function(){   
-                window.location.href = "/admin/produtos";      
+                window.location.href = "/admin/projetos";      
             })
         }
     })

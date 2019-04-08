@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Project;
 
 class ProjectController extends Controller
 {
@@ -13,7 +14,9 @@ class ProjectController extends Controller
      */
     public function index()
     {
-        return view("admin/projetos");
+        $projects = Project::all();
+
+        return view("admin/projetos",compact('projects'));
     }
 
     /**maps
@@ -34,7 +37,11 @@ class ProjectController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $project = new Project();
+        $project->client_id = $request->input('client_id');
+        $project->product_id = $request->input('product_id');
+        $project->description = $request->input('description');
+        $project->save();
     }
 
     /**
@@ -56,7 +63,8 @@ class ProjectController extends Controller
      */
     public function edit($id)
     {
-        //
+        $project = Project::find($id);
+        return $project;
     }
 
     /**
@@ -68,7 +76,11 @@ class ProjectController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        $project = Project::find($id);
+        $project->client_id = $request->input('client_id');
+        $project->product_id = $request->input('product_id');
+        $project->description = $request->input('description');
+        $project->save();
     }
 
     /**
@@ -79,6 +91,7 @@ class ProjectController extends Controller
      */
     public function destroy($id)
     {
-        //
+        $project = Project::find($id);
+        $project->delete();
     }
 }
