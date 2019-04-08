@@ -40,6 +40,8 @@
       <a class="collapse-item" href="/admin/newsletter">Newsletter</a>
       <a class="collapse-item" href="/admin/categoria">Categoria</a>
       <a class="collapse-item" href="/admin/produtos">Produtos</a>
+      <a class="collapse-item" href="/admin/projetos">Projetos</a>
+      <a class="collapse-item" href="/admin/clientes">Clientes</a>
     </div>
   </div>
 </li>

@@ -105,4 +105,13 @@ class ProductController extends Controller
         $p = Product::find($id);
         return $p->productImage;
     }
+    
+    /**
+     * Busca todos os produtos
+     */
+    public function getAll(){
+        
+        $product = Product::all();
+        return $product;
+    }
 }

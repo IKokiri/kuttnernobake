@@ -202,6 +202,14 @@ Route::middleware('auth')->group(function(){
     Route::post('admin/produtoImagem','ProductImageController@store');
     Route::delete('admin/produtoImagem/{id}','ProductImageController@destroy');
     Route::get('admin/produtoImagem/{id}','ProductImageController@destroy');
+
+    Route::get('admin/projetos','ProjectController@index');
+
+    Route::get('admin/clientes','ClientController@index');
+    Route::post('admin/clientes',"ClientController@store");
+    Route::get('admin/clientes/{id}/editar','ClientController@edit');
+    Route::put('admin/clientes/{id}','ClientController@update');
+    Route::delete('admin/clientes/{id}','ClientController@destroy');
 });
 
 
