@@ -17,7 +17,7 @@ class CreateProjectsTable extends Migration
             $table->increments('id');
             $table->integer('product_id')->unsigned();
             $table->integer('client_id')->unsigned();
-            $table->string('description');
+            $table->longText('description');
             $table->timestamps();
             $table->foreign('product_id')->references('id')->on('products');
             $table->foreign('client_id')->references('id')->on('clients');

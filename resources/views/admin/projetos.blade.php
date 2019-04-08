@@ -53,10 +53,10 @@
                         <tr>
                             <td>{{$project->client_id}}</td>
                             <td>{{$project->product_id}}</td>
-                            <td>{{$project->description}}</td>
+                            <td>{{substr($project->description,0,20)}}...</td>
                             <td>{{$project->created_at}}</td>
                             <td class="text-center">
-                                <a href="javascript:void(0)"  data-toggle="modal" onclick="carregarImagensProduto({{$project->id}})" data-target="#modalImagens" title="Alterar" class="btn btn-info btn-circle">
+                                <a href="javascript:void(0)"  data-toggle="modal" onclick="carregarImagensProjeto({{$project->id}})" data-target="#modalImagens" title="Alterar" class="btn btn-info btn-circle">
                                     <i class="fas fa-image"></i>
                                 </a>                        
                             </td>
@@ -153,7 +153,7 @@
                 <div class="input-group-append">
                         <span class="input-group-text" id="inputGroupFileAddon02"  style="cursor:pointer" onclick="enviarImagemProduto()">Upload</span>
                 </div>
-                <input type="hidden" name="product_id" id="product_id">
+                <input type="hidden" name="project_id" id="project_id">
             </div>
         </div>
         <div class="modal-footer">
@@ -248,14 +248,13 @@ function remover(id){
     })
 }
 
-
-function carregarImagensProduto(project_id){
+function carregarImagensProjeto(project_id){
     
-    setarProductId(project_id);
+    setarProjectId(project_id);
 
     $.ajax({
         type:"get",
-        url:"/admin/projects/"+project_id+"/buscarImagens",
+        url:"/admin/projetos/"+project_id+"/buscarImagens",
         dataType:"JSON",
         success:function(result){
 
@@ -282,6 +281,61 @@ function carregarImagensProduto(project_id){
     })
 
 }
+
+function setarProjectId(project_id){
+    $("#project_id").val(project_id);
+}
+
+function enviarImagemProduto(){
+
+    file = $("#file").prop('files')[0];
+    project_id = $("#project_id").val();
+    
+    var formData = new FormData();
+
+    formData.append('file', file);
+    formData.append('project_id', project_id);
+
+    $.ajax({
+        type:"post",
+        url:"/admin/projetoImagem",
+        dataType: 'JSON',
+        data:formData,
+        processData: false,
+        cache: false,
+        contentType: false,
+        success:function(data){            
+
+            project_id = $("#project_id").val();
+            carregarImagensProjeto(project_id);
+            
+        },       
+    }).done(function(){
+        
+    });
+
+}
+
+function apagarImagem(image_id){
+
+    project_id = $("#project_id").val();
+
+    $.ajax({
+        type: "delete",
+        url:"/admin/projetoImagem/"+image_id,
+        dataType:"JSON",
+        success:function(){
+
+            carregarImagensProjeto(project_id);
+        },
+    }).done(function(){
+
+    });
+}
+
+
+
+
 
 $(document).ready(function(){
     $(document).on("change","#file",function(){

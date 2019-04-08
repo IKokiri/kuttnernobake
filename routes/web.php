@@ -215,6 +215,11 @@ Route::middleware('auth')->group(function(){
     Route::get('admin/projetos/{id}/editar','ProjectController@edit');
     Route::put('admin/projetos/{id}','ProjectController@update');
     Route::delete('admin/projetos/{id}','ProjectController@destroy');
+    Route::get('admin/projetos/{id}/buscarImagens','ProjectController@buscarImagens');
+
+    Route::post('admin/projetoImagem','ProjectImageController@store');
+    Route::delete('admin/projetoImagem/{id}','ProjectImageController@destroy');
+
 });
 
 Auth::routes();

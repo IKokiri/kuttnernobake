@@ -98,5 +98,12 @@ class ProductImageController extends Controller
        Storage::delete($fullPath);
        return $productImage;
     }
+
+    public function buscarImagens($id){
+        
+        $project = Project::find($id);
+        return $project->projectImage;
+        
+    }
 }
 

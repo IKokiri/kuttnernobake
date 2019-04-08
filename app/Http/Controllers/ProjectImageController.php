@@ -3,9 +3,10 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Project;
+use Illuminate\Support\Facades\Storage;
+use App\ProjectImage;
 
-class ProjectController extends Controller
+class ProjectImageController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,13 +15,11 @@ class ProjectController extends Controller
      */
     public function index()
     {
-        $projects = Project::all();
-
-        return view("admin/projetos",compact('projects'));
+        //
     }
 
-    /**maps
-     * Show the form for creating a new resource.
+    /**
+     * Show the form for creating a new resource.use Illuminate\Support\Facades\Storage;
      *
      * @return \Illuminate\Http\Response
      */
@@ -37,11 +36,15 @@ class ProjectController extends Controller
      */
     public function store(Request $request)
     {
-        $project = new Project();
-        $project->client_id = $request->input('client_id');
-        $project->product_id = $request->input('product_id');
-        $project->description = $request->input('description');
-        $project->save();
+        $local = $request->file('file')->store('public/projetos');
+        $local = str_replace("public","storage",$local);
+
+        $projectImage = new ProjectImage();
+        $projectImage->path = $local;
+        $projectImage->project_id = $request->input('project_id');
+        $projectImage->save();
+
+        return $projectImage;
     }
 
     /**
@@ -63,8 +66,7 @@ class ProjectController extends Controller
      */
     public function edit($id)
     {
-        $project = Project::find($id);
-        return $project;
+        //
     }
 
     /**
@@ -76,11 +78,7 @@ class ProjectController extends Controller
      */
     public function update(Request $request, $id)
     {
-        $project = Project::find($id);
-        $project->client_id = $request->input('client_id');
-        $project->product_id = $request->input('product_id');
-        $project->description = $request->input('description');
-        $project->save();
+        //
     }
 
     /**
@@ -91,14 +89,10 @@ class ProjectController extends Controller
      */
     public function destroy($id)
     {
-        $project = Project::find($id);
-        $project->delete();
-    }
-
-
-    public function buscarImagens($id){
-        
-        $p = Project::find($id);
-        return $p->projectImage;
+        $projectImage = ProjectImage::find($id);
+        $projectImage->delete();
+        $fullPath = str_replace("storage","/public",$projectImage->path);
+        Storage::delete($fullPath);
+        return $projectImage;
     }
 }
