@@ -1,11 +1,10 @@
 <?php
 
 namespace App\Http\Controllers;
-use App\Company;
-use App\Phone;
+use App\Email;
 use Illuminate\Http\Request;
 
-class CompanyController extends Controller
+class EmailController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,8 +13,7 @@ class CompanyController extends Controller
      */
     public function index()
     {
-        $companies = Company::all();
-        return view('admin/empresas',compact('companies'));
+        //
     }
 
     /**
@@ -36,11 +34,11 @@ class CompanyController extends Controller
      */
     public function store(Request $request)
     {
-    
-        $company = new Company();
-        $company->name = $request->input('name');
-        $company->save();
-
+        $email = new Email();
+        $email->email = $request->input('email');
+        $email->company_id = $request->input('company_id');
+        $email->save();
+        return $email;
     }
 
     /**
@@ -62,8 +60,7 @@ class CompanyController extends Controller
      */
     public function edit($id)
     {
-        $company = Company::find($id);
-        return $company;
+        //
     }
 
     /**
@@ -78,6 +75,15 @@ class CompanyController extends Controller
         //
     }
 
+    public function updatePadrao(Request $request, $id){
+
+        Email::where('company_id',$request->input('company_id'))->update(['default'=>false]);
+        $email = Email::find($id);
+        $email->default = true;
+        $email->save();
+
+        return $email;
+    }
     /**
      * Remove the specified resource from storage.
      *
@@ -86,18 +92,8 @@ class CompanyController extends Controller
      */
     public function destroy($id)
     {
-        $company = Company::find($id);
-        $company->delete();
-        return $company;
-    }
-
-    public function buscarPhones($id){
-        $company = Company::find($id);
-        return $company->phone;
-    }
-
-    public function buscarEmails($id){
-        $company = Company::find($id);
-        return $company->email;
+        $email = Email::find($id);
+        $email->delete();
+        return $email;
     }
 }

@@ -63,12 +63,16 @@
                                 </a> 
                             </td>
                             <td class="text-center">
-                                <a href="javascript:void(0)" class="text-center btn btn-info btn-circle">
+                                <a href="javascript:void(0)" data-toggle="modal" 
+                                    onclick="carregarEmails({{$company->id}})"
+                                    data-target="#emailModal" class="text-center btn btn-info btn-circle">
                                     <i class="fas fa-mail-bulk"></i>
                                 </a>
                             </td>
                             <td class="text-center">
-                                <a href="javascript:void(0)" class="text-center btn btn-info btn-circle">
+                                <a href="javascript:void(0)" data-toggle="modal" 
+                                    onclick="carregarEmails({{$company->id}})"
+                                    data-target="#addressModal" class="text-center btn btn-info btn-circle">
                                     <i class="fas fa-map-marked-alt"></i>
                                 </a>
                             </td>
@@ -190,6 +194,104 @@ aria-labelledby="exampleModalLabel" aria-hidden="true">
   </div>
 </div>
 <!-- /modal -->
+<!-- Modal -->
+<div class="modal fade" id="emailModal" tabindex="-1" role="dialog" 
+aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Emails</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+
+        <form method="POST" action="">
+            @csrf
+            
+            <div class="modal-body">
+                <div class="row container">
+                    <div class="col-md-8">
+                        <label for="exampleInputEmail1">E-Mail</label>
+                        <input type="text" class="form-control" name="email" id="email"  placeholder="E-Mail">
+                    </div>   
+                    <div class="col-md-4"> 
+                    <label for="">.</label>
+                   <div>
+                        <a href="javascript:void(0)" onclick="adicionarEmail()">
+                            <i class="fas fa-plus-square fa-2x"></i>
+                        </a>
+                   </div> 
+                    </div>  
+                              
+                </div>    
+
+                <input type="hidden" name="company_id" id="company_id">
+                
+                <div class="card-body">
+                    <div class="gridEmails">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Sair</button>
+            </div>            
+      </form>
+    </div>
+  </div>
+</div>
+<!-- /modal -->
+<!-- Modal -->
+<div class="modal fade" id="addressModal" tabindex="-1" role="dialog" 
+aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Endereços</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+
+        <form method="POST" action="">
+            @csrf
+            
+            <div class="modal-body">
+                <div class="row container">
+                    <div class="col-md-8">
+                        <label for="exampleInputEmail1">Endereço</label>
+                        <input type="text" class="form-control" name="endereco" id="endereco"  placeholder="Endereço">
+                    </div>   
+                    <div class="col-md-4"> 
+                    <label for="">.</label>
+                   <div>
+                        <a href="javascript:void(0)" onclick="adicionarEmail()">
+                            <i class="fas fa-plus-square fa-2x"></i>
+                        </a>
+                   </div> 
+                   
+                    </div>  
+                    <div class="mb-3">
+                    <code id="enderecoSelecionado"></code>
+                  </div>  
+                </div>    
+
+                <input type="hidden" name="company_id" id="company_id">
+                <input type="hidden" name="place_id" id="place_id">
+               
+                <div class="card-body">
+                    <div class="gridEmails">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Sair</button>
+            </div>            
+      </form>
+    </div>
+  </div>
+</div>
+<!-- /modal -->
 @endsection
 
 @section('script')
@@ -286,8 +388,41 @@ $(document).ready(function(){
         
         
     })
+
+
 })
 
+document.getElementById("endereco").addEventListener ('keyup', (event) => {
+    endereco = $("#endereco").val();
+    endereco = endereco.replace(" ","+");
+    
+    $.ajax({
+        headers:"",
+        type:"get",
+        url:"https://maps.googleapis.com/maps/api/geocode/json?address="+endereco+"&key=AIzaSyBUkoTXt1bL6oLyPUFFdVQXVlJpxbW-jWQ",
+        success:function(result){
+            if(result.status == "OK"){
+                add = result['results'][0].formatted_address;
+                place_id = result['results'][0].place_id;
+                $("#place_id").val(place_id);
+                link = "<span id='addrres' onclick='setarEndereco(\""+add+"\")' style='cursor:pointer'>"+add+"</span>"
+
+                $("#enderecoSelecionado").html(link);
+            }else{
+                $("#enderecoSelecionado").html("Não encontrado");
+            }
+            
+        },error:function(){
+            $("#enderecoSelecionado").html("");
+        }
+    })
+});
+
+function setarEndereco(endereco){
+    $("#endereco").val(endereco);
+}
+
+// OPERAÇÕES DE TELEFONE
 function carregarTelefones(company_id){
 
     $("#company_id").val(company_id);
@@ -330,7 +465,6 @@ function carregarTelefones(company_id){
 
     })
 }
-
 function adicionarTelefone(){
 
     phone = $("#phone").val();
@@ -381,5 +515,185 @@ function removerTelefone(phone_id){
     })
 }
 
+// OPERAÇÕES DE EMAIL
+function carregarEmails(company_id){
+
+$("#company_id").val(company_id);
+
+$.ajax({
+    type: "get",
+    url: "/admin/empresas/buscarEmails/"+company_id,
+    data:{
+    },success:function(result){
+        
+        emails = "";
+
+        $.each(result,function(key, value){
+            
+            emailPadrao = value.default ? "btn-success" : "btn-danger"
+
+            emails += '<div class="row form-group">'+
+                            '<div class="col-md-10">'+
+                                '<button type="button" class="btn btn-primary btn-block">'+
+                                     value.email+
+                                '</button>'+
+                            '</div>'+'<div class="col-md-1">'+
+                                '<a href="javascript:void(0)" onclick="padraoEmail('+value.id+')" class="btn '+emailPadrao+'">'+
+                                '<i class="fa fa-check-square"></i>'+
+                                '</a>'+
+                            '</div>'+
+                            '<div class="col-md-1">'+
+                                '<a href="javascript:void(0)" onclick="removerEmail('+value.id+')" class="btn btn-danger">'+
+                                '<i class="fa fa-trash"></i>'+
+                                '</a>'+
+                            '</div>'+
+                            
+                        '</div>';
+        })
+        
+        $(".gridEmails").html(emails);
+    }
+}).done(function(){
+
+})
+}
+
+function adicionarEmail(){
+
+email = $("#email").val();
+company_id = $("#company_id").val();
+
+$.ajax({
+    type:"post",
+    url:"/admin/emails",
+    data:{
+        email:email,
+        company_id:company_id
+    },success:function(){
+        carregarEmails(company_id);
+    }
+})
+
+}
+
+function padraoEmail(email_id){
+
+    company_id = $("#company_id").val();
+
+    $.ajax({
+        type:'put',
+        url:'/admin/emails/'+email_id+'/padrao',
+        data:{
+            id:email_id,
+            company_id:company_id
+        },success:function(result){
+            carregarEmails(company_id)
+        }
+    })
+}
+
+
+function removerEmail(email_id){
+
+    company_id = $("#company_id").val();
+
+    $.ajax({
+        type:'delete',
+        url:'/admin/emails/'+email_id,
+        success:function(result){
+            carregarEmails(company_id)
+        }
+    })
+}
+// OPERAÇÕES DE ENDEREÇO
+function carregarEmails(company_id){
+
+$("#company_id").val(company_id);
+
+$.ajax({
+    type: "get",
+    url: "/admin/empresas/buscarEmails/"+company_id,
+    data:{
+    },success:function(result){
+        
+        emails = "";
+
+        $.each(result,function(key, value){
+            
+            emailPadrao = value.default ? "btn-success" : "btn-danger"
+
+            emails += '<div class="row form-group">'+
+                            '<div class="col-md-10">'+
+                                '<button type="button" class="btn btn-primary btn-block">'+
+                                     value.email+
+                                '</button>'+
+                            '</div>'+'<div class="col-md-1">'+
+                                '<a href="javascript:void(0)" onclick="padraoEmail('+value.id+')" class="btn '+emailPadrao+'">'+
+                                '<i class="fa fa-check-square"></i>'+
+                                '</a>'+
+                            '</div>'+
+                            '<div class="col-md-1">'+
+                                '<a href="javascript:void(0)" onclick="removerEmail('+value.id+')" class="btn btn-danger">'+
+                                '<i class="fa fa-trash"></i>'+
+                                '</a>'+
+                            '</div>'+
+                            
+                        '</div>';
+        })
+        
+        $(".gridEmails").html(emails);
+    }
+}).done(function(){
+
+})
+}
+
+function adicionarEmail(){
+
+email = $("#email").val();
+company_id = $("#company_id").val();
+
+$.ajax({
+    type:"post",
+    url:"/admin/emails",
+    data:{
+        email:email,
+        company_id:company_id
+    },success:function(){
+        carregarEmails(company_id);
+    }
+})
+
+}
+
+function padraoEmail(email_id){
+
+    company_id = $("#company_id").val();
+
+    $.ajax({
+        type:'put',
+        url:'/admin/emails/'+email_id+'/padrao',
+        data:{
+            id:email_id,
+            company_id:company_id
+        },success:function(result){
+            carregarEmails(company_id)
+        }
+    })
+}
+
+
+function removerEmail(email_id){
+
+    company_id = $("#company_id").val();
+
+    $.ajax({
+        type:'delete',
+        url:'/admin/emails/'+email_id,
+        success:function(result){
+            carregarEmails(company_id)
+        }
+    })
+}
 </script>
 @endsection

@@ -224,12 +224,18 @@ Route::middleware('auth')->group(function(){
     Route::post('admin/empresas',"CompanyController@store");
     Route::get('admin/empresas/{id}/edit','CompanyController@edit');
     Route::delete('admin/empresas/{id}','CompanyController@destroy');
+    Route::get('admin/empresas/buscarPhones/{id}',"CompanyController@buscarPhones");
+    Route::get('admin/empresas/buscarEmails/{id}',"CompanyController@buscarEmails");
 
     Route::post('admin/telefones','PhoneController@store');
     Route::put('admin/telefones/{id}/padrao','PhoneController@updatePadrao');
     Route::delete('admin/telefones/{id}','PhoneController@destroy');
+
+    Route::post('admin/emails','EmailController@store');
+    Route::put('admin/emails/{id}/padrao','EmailController@updatePadrao');
+    Route::delete('admin/emails/{id}','EmailController@destroy');
     
-    Route::get('admin/empresas/buscarPhones/{id}',"CompanyController@buscarPhones");
+    
     
 
 });
