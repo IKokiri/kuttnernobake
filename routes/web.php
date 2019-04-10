@@ -226,6 +226,7 @@ Route::middleware('auth')->group(function(){
     Route::delete('admin/empresas/{id}','CompanyController@destroy');
     Route::get('admin/empresas/buscarPhones/{id}',"CompanyController@buscarPhones");
     Route::get('admin/empresas/buscarEmails/{id}',"CompanyController@buscarEmails");
+    Route::get('admin/empresas/buscarEnderecos/{id}',"CompanyController@buscarEnderecos");
 
     Route::post('admin/telefones','PhoneController@store');
     Route::put('admin/telefones/{id}/padrao','PhoneController@updatePadrao');
@@ -234,9 +235,10 @@ Route::middleware('auth')->group(function(){
     Route::post('admin/emails','EmailController@store');
     Route::put('admin/emails/{id}/padrao','EmailController@updatePadrao');
     Route::delete('admin/emails/{id}','EmailController@destroy');
-    
-    
-    
+
+    Route::post('admin/enderecos','AddressController@store');
+    Route::put('admin/enderecos/{id}/padrao','AddressController@updatePadrao');
+    Route::delete('admin/enderecos/{id}','AddressController@destroy');
 
 });
 

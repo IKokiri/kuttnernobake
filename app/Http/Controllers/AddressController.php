@@ -1,11 +1,10 @@
 <?php
 
 namespace App\Http\Controllers;
-use App\Company;
-use App\Phone;
+use App\Address;
 use Illuminate\Http\Request;
 
-class CompanyController extends Controller
+class AddressController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,8 +13,7 @@ class CompanyController extends Controller
      */
     public function index()
     {
-        $companies = Company::all();
-        return view('admin/empresas',compact('companies'));
+        //
     }
 
     /**
@@ -36,11 +34,12 @@ class CompanyController extends Controller
      */
     public function store(Request $request)
     {
-    
-        $company = new Company();
-        $company->name = $request->input('name');
-        $company->save();
-
+        $address = new Address();
+        $address->place_id = $request->input('place_id');
+        $address->address = $request->input('address');
+        $address->company_id = $request->input('company_id');
+        $address->save();
+        return $address;
     }
 
     /**
@@ -62,8 +61,7 @@ class CompanyController extends Controller
      */
     public function edit($id)
     {
-        $company = Company::find($id);
-        return $company;
+        //
     }
 
     /**
@@ -78,6 +76,15 @@ class CompanyController extends Controller
         //
     }
 
+    public function updatePadrao(Request $request, $id){
+
+        Address::where('company_id',$request->input('company_id'))->update(['default'=>false]);
+        $address = Address::find($id);
+        $address->default = true;
+        $address->save();
+
+        return $address;
+    }
     /**
      * Remove the specified resource from storage.
      *
@@ -86,23 +93,8 @@ class CompanyController extends Controller
      */
     public function destroy($id)
     {
-        $company = Company::find($id);
-        $company->delete();
-        return $company;
-    }
-
-    public function buscarPhones($id){
-        $company = Company::find($id);
-        return $company->phone;
-    }
-
-    public function buscarEmails($id){
-        $company = Company::find($id);
-        return $company->email;
-    }
-
-    public function buscarEnderecos($id){
-        $company = Company::find($id);
-        return $company->address;
+        $address = Address::find($id);
+        $address->delete();
+        return $address;
     }
 }

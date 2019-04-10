@@ -71,7 +71,7 @@
                             </td>
                             <td class="text-center">
                                 <a href="javascript:void(0)" data-toggle="modal" 
-                                    onclick="carregarEmails({{$company->id}})"
+                                    onclick="carregarEnderecos({{$company->id}})"
                                     data-target="#addressModal" class="text-center btn btn-info btn-circle">
                                     <i class="fas fa-map-marked-alt"></i>
                                 </a>
@@ -265,7 +265,7 @@ aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="col-md-4"> 
                     <label for="">.</label>
                    <div>
-                        <a href="javascript:void(0)" onclick="adicionarEmail()">
+                        <a href="javascript:void(0)" onclick="adicionarEndereco()">
                             <i class="fas fa-plus-square fa-2x"></i>
                         </a>
                    </div> 
@@ -280,7 +280,7 @@ aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <input type="hidden" name="place_id" id="place_id">
                
                 <div class="card-body">
-                    <div class="gridEmails">
+                    <div class="gridEnderecos">
                     </div>
                 </div>
             </div>
@@ -606,34 +606,34 @@ function removerEmail(email_id){
     })
 }
 // OPERAÇÕES DE ENDEREÇO
-function carregarEmails(company_id){
+function carregarEnderecos(company_id){
 
 $("#company_id").val(company_id);
 
 $.ajax({
     type: "get",
-    url: "/admin/empresas/buscarEmails/"+company_id,
+    url: "/admin/empresas/buscarEnderecos/"+company_id,
     data:{
     },success:function(result){
         
-        emails = "";
+        enderecos = "";
 
         $.each(result,function(key, value){
             
-            emailPadrao = value.default ? "btn-success" : "btn-danger"
+            enderecoPadrao = value.default ? "btn-success" : "btn-danger"
 
-            emails += '<div class="row form-group">'+
+            enderecos += '<div class="row form-group">'+
                             '<div class="col-md-10">'+
                                 '<button type="button" class="btn btn-primary btn-block">'+
-                                     value.email+
+                                     value.address+
                                 '</button>'+
                             '</div>'+'<div class="col-md-1">'+
-                                '<a href="javascript:void(0)" onclick="padraoEmail('+value.id+')" class="btn '+emailPadrao+'">'+
+                                '<a href="javascript:void(0)" onclick="padraoEndereco('+value.id+')" class="btn '+enderecoPadrao+'">'+
                                 '<i class="fa fa-check-square"></i>'+
                                 '</a>'+
                             '</div>'+
                             '<div class="col-md-1">'+
-                                '<a href="javascript:void(0)" onclick="removerEmail('+value.id+')" class="btn btn-danger">'+
+                                '<a href="javascript:void(0)" onclick="removerEndereco('+value.id+')" class="btn btn-danger">'+
                                 '<i class="fa fa-trash"></i>'+
                                 '</a>'+
                             '</div>'+
@@ -641,57 +641,59 @@ $.ajax({
                         '</div>';
         })
         
-        $(".gridEmails").html(emails);
+        $(".gridEnderecos").html(enderecos);
     }
 }).done(function(){
 
 })
 }
 
-function adicionarEmail(){
+function adicionarEndereco(){
 
-email = $("#email").val();
+endereco = $("#endereco").val();
+place_id = $("#place_id").val();
 company_id = $("#company_id").val();
 
 $.ajax({
     type:"post",
-    url:"/admin/emails",
+    url:"/admin/enderecos",
     data:{
-        email:email,
+        address:endereco,
+        place_id:place_id,
         company_id:company_id
     },success:function(){
-        carregarEmails(company_id);
+        carregarEnderecos(company_id);
     }
 })
 
 }
 
-function padraoEmail(email_id){
+function padraoEndereco(endereco_id){
 
     company_id = $("#company_id").val();
 
     $.ajax({
         type:'put',
-        url:'/admin/emails/'+email_id+'/padrao',
+        url:'/admin/enderecos/'+endereco_id+'/padrao',
         data:{
-            id:email_id,
+            id:endereco_id,
             company_id:company_id
         },success:function(result){
-            carregarEmails(company_id)
+            carregarEnderecos(company_id)
         }
     })
 }
 
 
-function removerEmail(email_id){
+function removerEndereco(endereco_id){
 
     company_id = $("#company_id").val();
 
     $.ajax({
         type:'delete',
-        url:'/admin/emails/'+email_id,
+        url:'/admin/enderecos/'+endereco_id,
         success:function(result){
-            carregarEmails(company_id)
+            carregarEnderecos(company_id)
         }
     })
 }

@@ -13,4 +13,8 @@ class Company extends Model
     function email(){
         return $this->hasMany("App\Email");
     }
+
+    function address(){
+        return $this->hasMany("App\Address");
+    }
 }
