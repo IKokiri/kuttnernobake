@@ -1,11 +1,10 @@
 <?php
 
 namespace App\Http\Controllers;
-use App\Company;
 use App\Phone;
 use Illuminate\Http\Request;
 
-class CompanyController extends Controller
+class PhoneController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,8 +13,7 @@ class CompanyController extends Controller
      */
     public function index()
     {
-        $companies = Company::all();
-        return view('admin/empresas',compact('companies'));
+        //
     }
 
     /**
@@ -36,11 +34,12 @@ class CompanyController extends Controller
      */
     public function store(Request $request)
     {
-    
-        $company = new Company();
-        $company->name = $request->input('name');
-        $company->save();
-
+        $phone = new Phone();
+        $phone->ddi = $request->input('ddi');
+        $phone->phone = $request->input('phone');
+        $phone->company_id = $request->input('company_id');
+        $phone->save();
+        return $phone;
     }
 
     /**
@@ -62,8 +61,7 @@ class CompanyController extends Controller
      */
     public function edit($id)
     {
-        $company = Company::find($id);
-        return $company;
+        //
     }
 
     /**
@@ -78,6 +76,15 @@ class CompanyController extends Controller
         //
     }
 
+    public function updatePadrao(Request $request, $id){
+
+        Phone::where('company_id',$request->input('company_id'))->update(['default'=>false]);
+        $phone = Phone::find($id);
+        $phone->default = true;
+        $phone->save();
+        return $phone;
+    }
+
     /**
      * Remove the specified resource from storage.
      *
@@ -86,13 +93,9 @@ class CompanyController extends Controller
      */
     public function destroy($id)
     {
-        $company = Company::find($id);
-        $company->delete();
-        return $company;
+        $phone = Phone::find($id);
+        $phone->delete();
+        return $phone;
     }
 
-    public function buscarPhones($id){
-        $company = Company::find($id);
-        return $company->phone;
-    }
 }

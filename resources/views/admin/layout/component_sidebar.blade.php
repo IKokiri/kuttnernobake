@@ -37,7 +37,7 @@
   <div id="collapseOne" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
     <div class="bg-white py-2 collapse-inner rounded">
       <h6 class="collapse-header">Informações:</h6>
-      <a class="collapse-item" href="/admin/empresa">Empresa</a>
+      <a class="collapse-item" href="/admin/empresas">Empresa</a>
     </div>    
   </div>
 </li>

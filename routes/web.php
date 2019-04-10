@@ -220,6 +220,18 @@ Route::middleware('auth')->group(function(){
     Route::post('admin/projetoImagem','ProjectImageController@store');
     Route::delete('admin/projetoImagem/{id}','ProjectImageController@destroy');
 
+    Route::get('admin/empresas','CompanyController@index');
+    Route::post('admin/empresas',"CompanyController@store");
+    Route::get('admin/empresas/{id}/edit','CompanyController@edit');
+    Route::delete('admin/empresas/{id}','CompanyController@destroy');
+
+    Route::post('admin/telefones','PhoneController@store');
+    Route::put('admin/telefones/{id}/padrao','PhoneController@updatePadrao');
+    Route::delete('admin/telefones/{id}','PhoneController@destroy');
+    
+    Route::get('admin/empresas/buscarPhones/{id}',"CompanyController@buscarPhones");
+    
+
 });
 
 Auth::routes();
