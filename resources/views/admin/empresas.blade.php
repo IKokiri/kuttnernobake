@@ -77,7 +77,9 @@
                                 </a>
                             </td>
                             <td class="text-center">
-                                <a href="javascript:void(0)" class="text-center btn btn-info btn-circle">
+                                <a href="javascript:void(0)" data-toggle="modal" 
+                                    onclick="carregarHorarios({{$company->id}})"
+                                    data-target="#scheduleModal" class="text-center btn btn-info btn-circle">
                                     <i class="fas fa-clock"></i>
                                 </a>
                                 </td>
@@ -292,6 +294,73 @@ aria-labelledby="exampleModalLabel" aria-hidden="true">
   </div>
 </div>
 <!-- /modal -->
+<!-- Modal -->
+<div class="modal fade" id="scheduleModal" tabindex="-1" role="dialog" 
+aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Horários</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+
+        <form method="POST" action="">
+            @csrf
+            
+            <div class="modal-body">
+                <div class="row container">
+                    <div class="col-md-5">
+                        <label for="dia_inicio">Dia Início</label>
+                        <input type="text" class="form-control" name="dia_inicio" id="dia_inicio"  
+                        placeholder="Segunda">
+                    </div> 
+                    <div class="col-md-5">
+                        <label for="dia_fim">Dia Fim</label>
+                        <input type="text" class="form-control" name="dia_fim" id="dia_fim"  
+                        placeholder="Sexta">
+                    </div>   
+                    <div class="col-md-5">
+                        <label for="hora_inicio">Horário Início</label>
+                        <input type="text" class="form-control" name="hora_inicio" id="hora_inicio"  
+                        placeholder="08:00">
+                    </div> 
+                    <div class="col-md-5">
+                        <label for="hora_fim">Horário Fim</label>
+                        <input type="text" class="form-control" name="hora_fim" id="hora_fim"  
+                        placeholder="18:00">
+                    </div>  
+                    <div class="col-md-2"> 
+                    <label for="">.</label>
+                   <div>
+                        <a href="javascript:void(0)" onclick="adicionarHorario()">
+                            <i class="fas fa-plus-square fa-2x"></i>
+                        </a>
+                   </div> 
+                   
+                    </div>  
+                    <div class="mb-3">
+                    
+                  </div>  
+                </div>    
+
+                <input type="hidden" name="company_id" id="company_id">
+                <input type="hidden" name="place_id" id="place_id">
+               
+                <div class="card-body">
+                    <div class="gridHorarios">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Sair</button>
+            </div>            
+      </form>
+    </div>
+  </div>
+</div>
+<!-- /modal -->
 @endsection
 
 @section('script')
@@ -465,6 +534,7 @@ function carregarTelefones(company_id){
 
     })
 }
+
 function adicionarTelefone(){
 
     phone = $("#phone").val();
@@ -694,6 +764,102 @@ function removerEndereco(endereco_id){
         url:'/admin/enderecos/'+endereco_id,
         success:function(result){
             carregarEnderecos(company_id)
+        }
+    })
+}
+// OPERAÇÕES DE Horarios
+function carregarHorarios(company_id){
+
+$("#company_id").val(company_id);
+
+$.ajax({
+    type: "get",
+    url: "/admin/empresas/buscarHorarios/"+company_id,
+    data:{
+    },success:function(result){
+        
+        horarios = "";
+
+        $.each(result,function(key, value){
+            
+            horarioPadrao = value.default ? "btn-success" : "btn-danger"
+
+            horarios += '<div class="row form-group">'+
+                            '<div class="col-md-10">'+
+                                '<button type="button" class="btn btn-primary btn-block">'+
+                                     value.dia_inicio+" "+value.dia_fim+" "+value.hora_inicio+" "+value.hora_fim+
+                                '</button>'+
+                            '</div>'+'<div class="col-md-1">'+
+                                '<a href="javascript:void(0)" onclick="padraoHorario('+value.id+')" class="btn '+horarioPadrao+'">'+
+                                '<i class="fa fa-check-square"></i>'+
+                                '</a>'+
+                            '</div>'+
+                            '<div class="col-md-1">'+
+                                '<a href="javascript:void(0)" onclick="removerHorario('+value.id+')" class="btn btn-danger">'+
+                                '<i class="fa fa-trash"></i>'+
+                                '</a>'+
+                            '</div>'+
+                            
+                        '</div>';
+        })
+        
+        $(".gridHorarios").html(horarios);
+    }
+}).done(function(){
+
+})
+}
+
+function adicionarHorario(){
+
+dia_inicio  $("#dia_inicio").val();
+hora_inicio  $("#hora_inicio").val();
+dia_fim  $("#dia_fim").val();
+hora_fim  $("#hora_fim").val();
+company_id = $("#company_id").val();
+
+$.ajax({
+    type:"post",
+    url:"/admin/horarios",
+    data:{
+        dia_inicio:dia_inicio,
+        dia_fim:dia_fim,
+        hora_inicio:hora_inicio,
+        hora_fim:hora_fim,
+        company_id:company_id
+    },success:function(){
+        carregarHorarios(company_id);
+    }
+})
+
+}
+
+function padraoHorario(horario_id){
+
+    company_id = $("#company_id").val();
+
+    $.ajax({
+        type:'put',
+        url:'/admin/horarios/'+horario_id+'/padrao',
+        data:{
+            id:horario_id,
+            company_id:company_id
+        },success:function(result){
+            carregarHorarios(company_id)
+        }
+    })
+}
+
+
+function removerHorario(horario_id){
+
+    company_id = $("#company_id").val();
+
+    $.ajax({
+        type:'delete',
+        url:'/admin/horarios/'+horario_id,
+        success:function(result){
+            carregarHorarios(company_id)
         }
     })
 }

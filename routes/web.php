@@ -227,6 +227,7 @@ Route::middleware('auth')->group(function(){
     Route::get('admin/empresas/buscarPhones/{id}',"CompanyController@buscarPhones");
     Route::get('admin/empresas/buscarEmails/{id}',"CompanyController@buscarEmails");
     Route::get('admin/empresas/buscarEnderecos/{id}',"CompanyController@buscarEnderecos");
+    Route::put('admin/empresas/{id}','CompanyController@update');
 
     Route::post('admin/telefones','PhoneController@store');
     Route::put('admin/telefones/{id}/padrao','PhoneController@updatePadrao');
