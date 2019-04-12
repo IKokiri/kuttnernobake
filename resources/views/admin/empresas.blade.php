@@ -34,6 +34,7 @@
                             <th>Emails</th>
                             <th>Endereços</th>
                             <th>Horários</th>
+                            <th>Logos</th>
                             <th>Alterar</th>
                             <th>Remover</th>
                         </tr>
@@ -46,6 +47,7 @@
                             <th>Emails</th>
                             <th>Endereços</th>
                             <th>Horários</th>
+                            <th>Logos</th>
                             <th>Alterar</th>
                             <th>Remover</th>
                         </tr>
@@ -82,7 +84,14 @@
                                     data-target="#scheduleModal" class="text-center btn btn-info btn-circle">
                                     <i class="fas fa-clock"></i>
                                 </a>
-                                </td>
+                            </td>
+                            <td class="text-center">
+                                <a href="javascript:void(0)" data-toggle="modal" 
+                                    onclick="carregarLogoCompany({{$company->id}})"
+                                    data-target="#logoModal" class="text-center btn btn-info btn-circle">
+                                    <i class="fas fa-image"></i>
+                                </a>
+                            </td>
                             <td class="text-center">
                                 <a href="javascript:void(0)" onclick='edit({{$company->id}})' id="alterar" data-toggle="modal" data-target="#exampleModal" title="Alterar" class="btn btn-warning btn-circle">
                                     <i class="fas fa-pen"></i>
@@ -357,6 +366,40 @@ aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Sair</button>
             </div>            
       </form>
+    </div>
+  </div>
+</div>
+<!-- /modal -->
+<!-- Modal -->
+<div class="modal fade" id="logoModal" tabindex="-1" role="dialog" 
+aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+  <<div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Imagens</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>        
+        <div class="modal-body">
+                    
+            <div class="row imagens form-group">
+            </div>
+            
+            <div class="input-group mb-3">
+                <div class="custom-file">
+                    <input type="file" class="custom-file-input" id="file">
+                    <label class="custom-file-label" id="filename" for="inputGroupFile02" aria-describedby="inputGroupFileAddon02">Selecione o arquivo...</label>
+                </div>
+                <div class="input-group-append">
+                    <span class="input-group-text" id="inputGroupFileAddon02"  style="cursor:pointer" onclick="enviarLogoCompany()">Upload</span>
+                </div>
+                <input type="hidden" name="company_id" id="company_id">
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Sair</button>
+        </div> 
     </div>
   </div>
 </div>
@@ -862,6 +905,113 @@ function removerHorario(horario_id){
             carregarHorarios(company_id)
         }
     })
+}
+
+function enviarLogoCompany(){
+
+file = $("#file").prop('files')[0];
+company_id = $("#company_id").val();
+
+var formData = new FormData();
+
+formData.append('file', file);
+formData.append('company_id', company_id);
+
+$.ajax({
+    type:"post",
+    url:"/admin/empresaLogo",
+    dataType: 'JSON',
+    data:formData,
+    processData: false,
+    cache: false,
+    contentType: false,
+    success:function(data){        
+
+        company_id = $("#company_id").val();
+        carregarLogoCompany(company_id);
+
+    },       
+}).done(function(){
+    
+});
+
+}
+
+
+function apagarLogo(logo_id){
+
+company_id = $("#company_id").val();
+
+$.ajax({
+    type: "delete",
+    url:"/admin/empresaLogo/"+logo_id,
+    dataType:"JSON",
+    success:function(){
+
+        carregarLogoCompany(company_id);
+    },
+}).done(function(){
+
+});
+}
+
+function setarCompanyId(company_id){
+    $("#company_id").val(company_id);
+}
+
+function carregarLogoCompany(company_id){
+    
+setarCompanyId(company_id);
+
+$.ajax({
+    type:"get",
+    url:"/admin/empresas/"+company_id+"/buscarLogos",
+    dataType:"JSON",
+    success:function(result){
+
+        cardLogo = "";
+
+        $.each(result,function(key, logo){
+
+            logoPadrao = logo.default ? "btn-success" : "btn-danger"
+            cardLogo +='<div class="col-4">'+
+                    '<div class="card">'+
+                    '<img src="/'+logo.path+'" class="card-img-top" alt="...">'+
+                    '<div class="card-body">'+
+                    '<a href="javascript:void(0)" onclick="apagarLogo('+logo.id+')" title="Remover" class="btn btn-danger btn-circle">'+
+                    '<i class="fas fa-trash"></i>'+
+                    '</a>'+
+                    '<a href="javascript:void(0)" onclick="padraoLogo('+logo.id+')" title="padraoLogo" class="pull-right btn '+logoPadrao+' btn-circle">'+
+                    '<i class="fas fa-check"></i>'+
+                    '</a>'+
+                    '</div>'+
+                    '</div>'+
+                    '</div>';
+        })
+
+        $(".imagens").html(cardLogo);
+       
+    },
+}).done(function(){
+
+})
+
+}
+
+function padraoLogo(logo_id){
+
+company_id = $("#company_id").val();
+
+$.ajax({
+    type:'put',
+    url:'/admin/empresaLogo/'+logo_id+'/padrao',
+    data:{
+        id:logo_id,
+        company_id:company_id
+    },success:function(result){
+        carregarLogoCompany(company_id)
+    }
+})
 }
 </script>
 @endsection

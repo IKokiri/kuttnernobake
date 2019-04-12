@@ -1,11 +1,12 @@
 <?php
 
 namespace App\Http\Controllers;
-use App\Company;
-use App\Phone;
+use App\CompanyLogo;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
 
-class CompanyController extends Controller
+
+class CompanyLogoController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,8 +15,7 @@ class CompanyController extends Controller
      */
     public function index()
     {
-        $companies = Company::all();
-        return view('admin/empresas',compact('companies'));
+        //
     }
 
     /**
@@ -36,11 +36,15 @@ class CompanyController extends Controller
      */
     public function store(Request $request)
     {
-    
-        $company = new Company();
-        $company->name = $request->input('name');
-        $company->save();
+        $local = $request->file('file')->store('public/logos');
+        $local = str_replace("public","storage",$local);
 
+        $companyLogo = new CompanyLogo();
+        $companyLogo->path = $local;
+        $companyLogo->company_id = $request->input('company_id');
+        $companyLogo->save();
+
+        return $companyLogo;
     }
 
     /**
@@ -62,8 +66,7 @@ class CompanyController extends Controller
      */
     public function edit($id)
     {
-        $company = Company::find($id);
-        return $company;
+        //
     }
 
     /**
@@ -75,10 +78,7 @@ class CompanyController extends Controller
      */
     public function update(Request $request, $id)
     {
-        $company = Company::find($id);
-        $company->name = $request->input('name');
-        $company->save();
-        return $company;
+        //
     }
 
     /**
@@ -89,33 +89,28 @@ class CompanyController extends Controller
      */
     public function destroy($id)
     {
-        $company = Company::find($id);
-        $company->delete();
-        return $company;
+       $companyLogo = CompanyLogo::find($id);
+       $companyLogo->delete();
+       $fullPath = str_replace("storage","/public",$companyLogo->path);
+       Storage::delete($fullPath);
+       return $companyLogo;
     }
 
-    public function buscarPhones($id){
-        $company = Company::find($id);
-        return $company->phone;
+    public function updatePadrao(Request $request, $id){
+
+        CompanyLogo::where('company_id',$request->input('company_id'))->update(['default'=>false]);
+        $companyLogo = CompanyLogo::find($id);
+        $companyLogo->default = true;
+        $companyLogo->save();
+
+        return $companyLogo;
     }
 
-    public function buscarEmails($id){
-        $company = Company::find($id);
-        return $company->email;
-    }
-
-    public function buscarEnderecos($id){
-        $company = Company::find($id);
-        return $company->address;
-    }
-
-    public function buscarHorarios($id){
-        $company = Company::find($id);
-        return $company->schedule;
-    }
     public function buscarLogos($id){
         
-        $c = Company::find($id);
-        return $c->companyLogo;
+        $company = Company::find($id);
+        return $company->companyLogo;
+        
     }
+    
 }

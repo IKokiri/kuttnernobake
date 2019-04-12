@@ -21,4 +21,8 @@ class Company extends Model
     function schedule(){
         return $this->hasMany("App\Schedule");
     }
+
+    function companyLogo(){
+        return $this->hasMany("App\CompanyLogo");
+    }
 }
