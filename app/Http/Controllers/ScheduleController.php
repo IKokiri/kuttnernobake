@@ -1,11 +1,10 @@
 <?php
 
 namespace App\Http\Controllers;
-use App\Company;
-use App\Phone;
+use App\Schedule;
 use Illuminate\Http\Request;
 
-class CompanyController extends Controller
+class ScheduleController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,8 +13,7 @@ class CompanyController extends Controller
      */
     public function index()
     {
-        $companies = Company::all();
-        return view('admin/empresas',compact('companies'));
+        //
     }
 
     /**
@@ -36,11 +34,15 @@ class CompanyController extends Controller
      */
     public function store(Request $request)
     {
-    
-        $company = new Company();
-        $company->name = $request->input('name');
-        $company->save();
 
+        $schedule = new Schedule();
+        $schedule->start_date = $request->input('start_date');
+        $schedule->start_time = $request->input('start_time');
+        $schedule->end_date = $request->input('end_date');
+        $schedule->end_time = $request->input('end_time');
+        $schedule->company_id = $request->input('company_id');
+        $schedule->save();
+        return $schedule;
     }
 
     /**
@@ -62,8 +64,7 @@ class CompanyController extends Controller
      */
     public function edit($id)
     {
-        $company = Company::find($id);
-        return $company;
+        //
     }
 
     /**
@@ -75,12 +76,17 @@ class CompanyController extends Controller
      */
     public function update(Request $request, $id)
     {
-        $company = Company::find($id);
-        $company->name = $request->input('name');
-        $company->save();
-        return $company;
+        //
     }
+    public function updatePadrao(Request $request, $id){
 
+        Schedule::where('company_id',$request->input('company_id'))->update(['default'=>false]);
+        $schedule = Schedule::find($id);
+        $schedule->default = true;
+        $schedule->save();
+
+        return $schedule;
+    }
     /**
      * Remove the specified resource from storage.
      *
@@ -89,28 +95,9 @@ class CompanyController extends Controller
      */
     public function destroy($id)
     {
-        $company = Company::find($id);
-        $company->delete();
-        return $company;
-    }
-
-    public function buscarPhones($id){
-        $company = Company::find($id);
-        return $company->phone;
-    }
-
-    public function buscarEmails($id){
-        $company = Company::find($id);
-        return $company->email;
-    }
-
-    public function buscarEnderecos($id){
-        $company = Company::find($id);
-        return $company->address;
-    }
-
-    public function buscarHorarios($id){
-        $company = Company::find($id);
-        return $company->schedule;
+        
+        $schedule = Schedule::find($id);
+        $schedule->delete();
+        return $schedule;
     }
 }

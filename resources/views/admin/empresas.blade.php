@@ -787,7 +787,7 @@ $.ajax({
             horarios += '<div class="row form-group">'+
                             '<div class="col-md-10">'+
                                 '<button type="button" class="btn btn-primary btn-block">'+
-                                     value.dia_inicio+" "+value.dia_fim+" "+value.hora_inicio+" "+value.hora_fim+
+                                     value.start_date+" "+value.end_date+" "+value.start_time+" "+value.end_time+
                                 '</button>'+
                             '</div>'+'<div class="col-md-1">'+
                                 '<a href="javascript:void(0)" onclick="padraoHorario('+value.id+')" class="btn '+horarioPadrao+'">'+
@@ -812,20 +812,20 @@ $.ajax({
 
 function adicionarHorario(){
 
-dia_inicio  $("#dia_inicio").val();
-hora_inicio  $("#hora_inicio").val();
-dia_fim  $("#dia_fim").val();
-hora_fim  $("#hora_fim").val();
+start_date = $("#dia_inicio").val();
+start_time = $("#hora_inicio").val();
+end_date = $("#dia_fim").val();
+end_time = $("#hora_fim").val();
 company_id = $("#company_id").val();
 
 $.ajax({
     type:"post",
     url:"/admin/horarios",
     data:{
-        dia_inicio:dia_inicio,
-        dia_fim:dia_fim,
-        hora_inicio:hora_inicio,
-        hora_fim:hora_fim,
+        start_date:start_date,
+        start_time:start_time,
+        end_date:end_date,
+        end_time:end_time,
         company_id:company_id
     },success:function(){
         carregarHorarios(company_id);

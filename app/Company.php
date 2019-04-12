@@ -17,4 +17,8 @@ class Company extends Model
     function address(){
         return $this->hasMany("App\Address");
     }
+
+    function schedule(){
+        return $this->hasMany("App\Schedule");
+    }
 }

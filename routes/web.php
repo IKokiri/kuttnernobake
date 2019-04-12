@@ -224,10 +224,11 @@ Route::middleware('auth')->group(function(){
     Route::post('admin/empresas',"CompanyController@store");
     Route::get('admin/empresas/{id}/edit','CompanyController@edit');
     Route::delete('admin/empresas/{id}','CompanyController@destroy');
+    Route::put('admin/empresas/{id}','CompanyController@update');
     Route::get('admin/empresas/buscarPhones/{id}',"CompanyController@buscarPhones");
     Route::get('admin/empresas/buscarEmails/{id}',"CompanyController@buscarEmails");
     Route::get('admin/empresas/buscarEnderecos/{id}',"CompanyController@buscarEnderecos");
-    Route::put('admin/empresas/{id}','CompanyController@update');
+    Route::get('admin/empresas/buscarHorarios/{id}',"CompanyController@buscarHorarios");
 
     Route::post('admin/telefones','PhoneController@store');
     Route::put('admin/telefones/{id}/padrao','PhoneController@updatePadrao');
@@ -240,6 +241,10 @@ Route::middleware('auth')->group(function(){
     Route::post('admin/enderecos','AddressController@store');
     Route::put('admin/enderecos/{id}/padrao','AddressController@updatePadrao');
     Route::delete('admin/enderecos/{id}','AddressController@destroy');
+
+    Route::post('admin/horarios',"ScheduleController@store");
+    Route::put('admin/horarios/{id}/padrao','ScheduleController@updatePadrao');
+    Route::delete('admin/horarios/{id}','ScheduleController@destroy');
 
 });
 
