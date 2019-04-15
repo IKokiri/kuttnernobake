@@ -5,17 +5,14 @@
                     <div class="inner-container clearfix">
                        
                         <div class="top-right pull-left clearfix">
-                            <ul class="clearfix right-info">
-                                <li><i class="icon flaticon-clock-circular-outline"></i> Segunda - Sexta: 07:00 - 17:00 </li>
-                            </ul>
-                            <div class="language dropdownn">
-                                <a class="btn btn-default dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown"
-                                    aria-haspopup="true" aria-expanded="true" href="#"><span class="icon flaticon-globe"></span>
-                                    Brasil <i class="fa fa-angle-down"></i></a>
-                                <ul class="dropdown-menu style-one" aria-labelledby="dropdownMenu1">
-                                    <li><a href="/">Brasil</a></li>
-                                </ul>
-                            </div>
+                        <a href="/">
+                            <img width="35px" src="/images/flags/ptbr.png" alt="">
+                        </a>
+                        <a href="/">
+                            <img width="35px" src="/images/flags/en.png" alt="">
+                        </a>
+                        
+                          
                         </div>
                     </div>
                 </div>
