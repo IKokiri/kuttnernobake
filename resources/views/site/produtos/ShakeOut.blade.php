@@ -15,7 +15,7 @@
     <!--End Page Title-->
 
     <!--Sidebar Page Container-->
-    <div class="sidebar-page-container">
+    <div class="sidebar-page-container"  id="conteudoPrincipal">
         <div class="auto-container">
             <div class="row clearfix">
                 <!--Content Side / Our Blog-->
@@ -89,14 +89,8 @@
                 <!--Sidebar Side-->
                 <div class="sidebar-side col-lg-3 col-md-3 col-sm-12 col-xs-12">
                     <aside class="sidebar">
-                    <div class="sidebar-widget sidebar-blog-category">
-                        <ul class="services-cat">
-                        <li><a href="/SistemaDesmoldagem/ShakeOut">Shake-Out</a></li>
-                            <li><a href="/SistemaDesmoldagem/CabineDesmoldagem">Cabine Desmoldagem</a></li>
-                            <li><a href="/SistemaDesmoldagem/PreResfriador">Pré-Resfriador</a></li>
-                            <li><a href="/SistemaDesmoldagem/TransportePneumatico">Transporte Pneumático</a></li>
-                        </ul>
-                    </div> 
+                    @component('site/categorias/components.component_desmoldagem')
+                    @endcomponent
                         
                         <!--Brochure-->
                         <!-- <div class="sidebar-widget brochure-widget">

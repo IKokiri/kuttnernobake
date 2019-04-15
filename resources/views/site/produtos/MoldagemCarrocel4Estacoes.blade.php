@@ -15,7 +15,7 @@
     <!--End Page Title-->
 
     <!--Sidebar Page Container-->
-    <div class="sidebar-page-container">
+    <div class="sidebar-page-container" id="conteudoPrincipal">
         <div class="auto-container">
             <div class="row clearfix">
                 <!--Content Side / Our Blog-->
@@ -89,15 +89,9 @@
                 <div class="sidebar-side col-lg-3 col-md-3 col-sm-12 col-xs-12">
                     <aside class="sidebar">
                         
-                    <div class="sidebar-widget sidebar-blog-category">
-                    <ul class="services-cat">
-                            <li><a href="/SistemaMoldagemVazamentoRefriamento/FastLoop">Fast Loop</a></li>
-                            <li><a href="/SistemaMoldagemVazamentoRefriamento/Rollover">Rollover</a></li>
-                            <li><a href="/SistemaMoldagemVazamentoRefriamento/AreaVazamentoResfriamento">Área de vazamento - Resfriamento</a></li>
-                            <li><a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes">Moldagem Carrocel 4 Estações</a></li>
-                            <li><a href="/SistemaMoldagemVazamentoRefriamento/SistemaPinturaLavagem">Sistema de Pintura por Lavagem</a></li>
-                        </ul>
-                    </div> 
+                    
+                    @component('site/categorias/components.component_moldagem')
+                    @endcomponent  
                         
                         <!--Brochure-->
                         <!-- <div class="sidebar-widget brochure-widget">

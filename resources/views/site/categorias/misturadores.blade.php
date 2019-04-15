@@ -3,6 +3,7 @@
 @section('page')
 <!--Page Title-->
 <section class="page-title" style="background-image:url(/images/background/2.jpg)">
+
         <div class="auto-container">
             <h1>Misturadores</h1>
             <ul class="page-breadcrumb">
@@ -14,13 +15,14 @@
     </section>
     <!--End Page Title-->
 
+    
     <!--Sidebar Page Container-->
     <div class="sidebar-page-container">
         <div class="auto-container">
-            <div class="row clearfix">
+            <div class="row clearfix" >
                 <!--Content Side / Our Blog-->
                 <div class="content-side pull-right col-lg-9 col-md-8 col-sm-12 col-xs-12">
-                    <div class="services-single">
+                    <div  class="services-single">
                         <div class="inner-box">
                             <div class="sec-title">
                                 <h2>Misturadores</h2>
@@ -75,7 +77,7 @@
                                     </div>
                                 </div>
                             </div>
-
+                            
 
                             <div class="feature-info-block">
                                 
@@ -93,16 +95,12 @@
                 </div>
 
                 <!--Sidebar Side-->
-                <div class="sidebar-side col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="sidebar-side col-lg-3 col-md-3 col-sm-12 col-xs-12" >
                     <aside class="sidebar">
                         
-                    <div class="sidebar-widget sidebar-blog-category">
-                        <ul class="services-cat">
-                            <li><a href="/Misturadores/MisturadorBracoSimples">Misturador Braço Simples</a></li>
-                            <li><a href="/Misturadores/MisturadorBracoDuplo">Misturador Braço Duplo</a></li>
-                            <li><a href="/Misturadores/MisturadorMovel">Misturador Móvel</a></li>
-                        </ul>
-                    </div>
+
+                @component('site/categorias/components.component_misturadores')
+                @endcomponent  
                         
                         <!--Brochure-->
                         <!-- <div class="sidebar-widget brochure-widget">
