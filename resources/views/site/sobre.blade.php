@@ -112,20 +112,10 @@
                         
                     </div>
                     <!--Verticle Carousel Column-->
-                    <div class="carousel-column col-md-6 col-sm-12 col-xs-12">
-                        <h3 class="text-center">Linha do Tempo</h3>
-                        
-                        <a id="voltarLinha" href="javascript:void(0)">
-                            <i class="fas fa-arrow-left fa-2x"></i>
-                        </a>
-                        <a id="irLinha" href="javascript:void(0)">
-                            <i class="fas fa-arrow-right fa-2x"></i>
-                        </a>
-                        
-                        
-
-                        <div class="verticle-slider-one">
-                            <div class="verticle-carousel">
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+                        <h3 class="text-center">Linha do Tempo</h3>    
+                        <div class="">
+                            <div class="">
                                 <!--Featured Block Two-->
                                 <div class="story-block">
                                     <div class="inner-box">
