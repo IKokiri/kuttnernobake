@@ -182,7 +182,8 @@
                     </div>
                     
                 </div>
-            <div class="row clearfix">
+            <div class="row clearfix text-center">
+            <h2>Presença Internacional</h2>
                 <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <figure class="image"><img src="/images/sobre/mapa.png" alt=""></figure>
                 </div>
