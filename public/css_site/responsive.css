@@ -575,11 +575,11 @@
 		display:inline-block;
 		z-index:7;
 		top:-1px;
-		border:1px solid #ffb200;
+		border:1px solid #f05000;
 		float:none;
 		margin:0px 0px 0px 0px;
 		border-radius:0px;
-		background:#ffb200;
+		background:#f05000;
 	}
 	
 	.main-menu .navbar-header .navbar-toggle .icon-bar{
@@ -590,7 +590,7 @@
 		float:none !important;
 		margin:0px !important;
 		width:100% !important;
-		background:#ffb200;
+		background:#f05000;
 		border:1px solid #ffffff;
 		border-top:none;
 	}
@@ -637,7 +637,7 @@
 		right:auto !important;
 		top:auto !important;
 		width:100%;
-		background:#ffb200;
+		background:#f05000;
 		-webkit-border-radius:0px;
 		-ms-border-radius:0px;
 		-o-border-radius:0px;
@@ -682,7 +682,7 @@
 		padding:12px 15px !important;
 		line-height:22px;
 		color:#ffffff !important;
-		background:#ffb200;
+		background:#f05000;
 		text-align:left;
 		min-height:0px;
 		font-size:14px;
@@ -692,7 +692,7 @@
 	.main-menu .navbar-collapse > .navigation > li > a:hover,
 	.main-menu .navbar-collapse > .navigation > li > a:active,
 	.main-menu .navbar-collapse > .navigation > li > a:focus{
-		background:#ffb200;
+		background:#f05000;
 	}
 	
 	.main-menu .navbar-collapse > .navigation > li:hover > a,
@@ -700,7 +700,7 @@
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
-		background:#ffb200;
+		background:#f05000;
 		color:#ffffff !important;
 	}
 	
