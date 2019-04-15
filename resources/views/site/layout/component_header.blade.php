@@ -27,7 +27,7 @@
                     <div class="clearfix">
 
                         <div class="pull-right logo-outer">
-                            <div class="logo"><a href="/"><img width="300px" src="/images/logo.png" alt="" title=""></a></div>
+                            <div class="logo"><a href="/"><img width="400px" src="/images/logo.png" alt="" title=""></a></div>
                         </div>
 
                         <div class="pull-left upper-right clearfix">
