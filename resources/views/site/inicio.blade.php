@@ -263,24 +263,21 @@
                             <!-- About Block -->
                             <div class="about-block">
                                 <div class="inner-box">
-                                    <span class="icon icon-gear"></span>
-                                    <h4>Tecnologia</h4>
+                                    <img src="/images/instalacoes/fabrica 1.jpg" alt="" srcset="">
                                 </div>
                             </div>
 
                             <!-- About Block -->
                             <div class="about-block">
                                 <div class="inner-box">
-                                    <span class="icon icon-clock"></span>
-                                    <h4>Tempo de entrega pontual</h4>
+                                <img src="/images/instalacoes/fabrica 2.jpg" alt="" srcset="">
                                 </div>
                             </div>
 
                             <!-- About Block -->
                             <div class="about-block">
                                 <div class="inner-box">
-                                    <span class="icon icon-worker"></span>
-                                    <h4>Equipe de profissionais</h4>
+                                <img src="/images/instalacoes/fabrica 3.jpg" alt="" srcset="">
                                 </div>
                             </div>
                         </div>

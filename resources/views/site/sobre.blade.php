@@ -193,6 +193,58 @@
         </section>
         <!--End Story Section -->
     </section>
+    <!-- Instalações -->
+<div class="industry-section">
+            <div class="auto-container">
+                <div class="sec-title text-center">
+                    <h2>Nossas Instalações</h2>
+                </div>
+            </div>
+            <div class="industry-carousel owl-carousel owl-theme">
+                <!-- Industry Block -->
+                <div class="industry-block">
+                    <div class="image-box">
+                        <div class="image"><a href="produto"><img src="/images/instalacoes/fabrica 1.jpg"
+                                    alt=""></a></div>
+                    </div>
+                    <!-- <div class="lower-content">
+                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
+                        <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
+                        <div class="text">Misturador Braço Simples</div>
+                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                    </div> -->
+                </div>
+
+                <!-- Industry Block -->
+                <div class="industry-block bg-gray">
+                    <div class="image-box">
+                        <div class="image"><a href="produto"><img src="/images/instalacoes/fabrica 2.jpg"
+                                    alt=""></a></div>
+                    </div>
+                    <!-- <div class="lower-content">
+                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
+                        <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
+                        <div class="text">Misturador Braço Duplo</div>
+                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                    </div> -->
+                </div>
+
+                <!-- Industry Block -->
+                <div class="industry-block">
+                    <div class="image-box">
+                        <div class="image"><a href="produto"><img src="/images/instalacoes/fabrica 3.jpg"
+                                    alt=""></a></div>
+                    </div>
+                    <!-- <div class="lower-content">
+                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
+                        <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
+                        <div class="text">Misturador Móvel</div>
+                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+<!-- fim instalações -->
         <!-- Industry Section -->
         <div class="industry-section">
             <div class="auto-container">
