@@ -35,7 +35,7 @@
                                 <div class="author-box">
                                     <img src="/images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/Misturadores/MisturadorBracoSimples">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Misturador Braço Simples#orcamentoContato">Orçamento</a> 
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -60,7 +60,7 @@
                                 <div class="author-box">
                                     <img src="/images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/Misturadores/MisturadorBracoDuplo">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Misturador Braço Duplo#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -85,7 +85,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/Misturadores/MisturadorMovel">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Misturador Móvel#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -110,7 +110,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/SistemaMoldagemVazamentoRefriamento/FastLoop">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Fast Loop#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -135,7 +135,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/SistemaMoldagemVazamentoRefriamento/Rollover">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Rollover#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -160,7 +160,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/SistemaMoldagemVazamentoRefriamento/AreaVazamentoResfriamento">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Área de vazamento - Resfriamento#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -185,7 +185,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Moldagem Carrocel 4 Estações#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -210,7 +210,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/SistemaMoldagemVazamentoRefriamento/SistemaPinturaLavagem">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Sistema de Pintura por Lavagem#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -235,7 +235,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/SistemaDesmoldagem/ShakeOut">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Shake-Out#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -260,7 +260,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/SistemaDesmoldagem/PreResfriador">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Pré-Resfriador#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -285,7 +285,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/SistemaDesmoldagem/TransportePneumatico">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Transporte Pneumático#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -310,7 +310,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/RecuperacaoMecanicaRegeneracaoTermica/RecuperacaoMecanica4TH">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Recuperação Mecânica - 4 T/H#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -335,7 +335,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/RecuperacaoMecanicaRegeneracaoTermica/RecuperacaoMecanica430TH">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Recuperação Mecânica - 6 a 30 T/H#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -360,7 +360,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/RecuperacaoMecanicaRegeneracaoTermica/RegeneracaoTermica056TH">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Regeneração Térmica - 0,5 a 6 T/H#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -385,7 +385,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/MaquinasJatoGranalha/JatoPassagemContinua">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Jato de Passagem Contínua#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -410,7 +410,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/MaquinasJatoGranalha/JatoGancheiraPassagem">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Jato Gancheira de Passagem#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -435,7 +435,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/MaquinasJatoGranalha/JatoGancheiraTipoY">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Jato com Gancheira tipo Y#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -460,7 +460,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/MaquinasJatoGranalha/JateamentoBobinas">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Jateamento de Bobinas#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -485,7 +485,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/MaquinasJatoGranalha/JatoMesaGiratoria">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Jato Mesa Giratória#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -510,7 +510,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="/MaquinasJatoGranalha/JatoTamboreamento">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Jato por Tamboreamento#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -535,7 +535,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="produto">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Preparação de Carga Metálica e Aditivos#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -560,7 +560,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="produto">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Ponte Rolante com Canguru e Carro de Carregamento#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>
@@ -585,7 +585,7 @@
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
                                 </div><!-- /.author-box -->
-                                <div class="link-box"><a href="produto">Saber mais</a> 
+                                <div class="link-box"><a href="/contato/kuttnernobake?produto=Orçamento - Filtros para Todos os Processos de Fundição#orcamentoContato">Orçamento</a>  
                                 <span class="icon icon-aroow-right"></span></div>
                             </div><!-- /.more-box -->
                         </div>

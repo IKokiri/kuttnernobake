@@ -186,7 +186,7 @@
 
 
 <!-- Contact Form Section -->
-<section class="contact-form-section">
+<section class="contact-form-section"  id="orcamentoContato">
     <div class="auto-container">
         <div class="row clearfix">
             <!-- Title Column -->
@@ -206,7 +206,14 @@
                     <!--Contact Form-->
                     <div class="contact-form style-two">
                     <form method="post" action="sendemail">
+                    
                             <div class="row clearfix">
+                            <div class="column col-md-12 col-sm-12 col-xs-12">
+                                <div class="form-group">
+                                    <input type="text" name="subject" style="font-weight: bold; color:black" value="<?= isset($_GET['produto'])?$_GET['produto']:'' ?>" placeholder="Assunto"
+                                        required>
+                                </div>
+                            </div>
                                 <div class="column col-md-6 col-sm-6 col-xs-12">
                                     <div class="form-group">
                                         <input type="text" name="username" value="" placeholder="Nome*"
@@ -218,20 +225,19 @@
                                     </div>
 
                                     <div class="form-group">
-                                        <input type="text" name="subject" value="" placeholder="Assunto"
-                                            required>
+                                    <button type="submit" class="theme-btn">Enviar</button>
                                     </div>
                                 </div>
                                 <div class="column col-md-6 col-sm-6 col-xs-12">
                                     <div class="form-group">
-                                        <textarea name="message" placeholder="Mensagem"></textarea>
+                                        <textarea name="message" placeholder="Mensagem"><?= isset($_GET['produto'])?"Boa Tarde.\n\nGostaria de receber um orçamento referente ao produto ".explode("-",$_GET['produto'])[1]."\n\nObrigado(a).":'' ?></textarea>
                                     </div>
                                 </div>
-                                <div class="column col-md-12 col-sm-6 col-xs-12">
+                                <!-- <div class="column col-md-12 col-sm-6 col-xs-12">
                                     <div class="form-group">
                                         <button type="submit" class="theme-btn">Enviar</button>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </form>
                     </div>
