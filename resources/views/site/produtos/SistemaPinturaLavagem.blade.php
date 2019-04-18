@@ -24,6 +24,13 @@
                         <div class="inner-box">
                             <div class="sec-title">
                                 <h2>Sistema de Pintura por Lavagem</h2>
+                                <div class="link-box">
+                                    <a href="/contato/kuttnernobake?produto=Orçamento - Sistema de Pintura por Lavagem#orcamentoContato">
+                                    <h3>
+                                    Orçamento
+                                    </h3>
+                                    </a>
+                                </div>
                             </div>
                             <div class="text">
                                 <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.

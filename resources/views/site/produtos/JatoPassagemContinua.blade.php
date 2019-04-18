@@ -24,6 +24,13 @@
                         <div class="inner-box">
                             <div class="sec-title">
                                 <h2>Jato de Passagem Contínua</h2>
+                                <div class="link-box">
+                                    <a href="/contato/kuttnernobake?produto=Orçamento - Jato de Passagem Contínua#orcamentoContato">
+                                    <h3>
+                                    Orçamento
+                                    </h3>
+                                    </a>
+                                </div>
                             </div>
                             <div class="text">
                                 <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.

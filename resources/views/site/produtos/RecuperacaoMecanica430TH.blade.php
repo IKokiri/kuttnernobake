@@ -24,6 +24,13 @@
                         <div class="inner-box">
                             <div class="sec-title">
                                 <h2>Recuperação Mecânica - 4 a 30 T/H</h2>
+                                <div class="link-box">
+                                    <a href="/contato/kuttnernobake?produto=Orçamento - Recuperação Mecânica - 4 a 30 T/H#orcamentoContato">
+                                    <h3>
+                                    Orçamento
+                                    </h3>
+                                    </a>
+                                </div>
                             </div>
                             <div class="text">
                                 <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
