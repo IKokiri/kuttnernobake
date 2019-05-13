@@ -40,7 +40,7 @@
                                 <div class="column col-md-6 col-sm-6 col-xs-12">
                                     
                                     <div class="form-group">
-                                        <input type="text" name="telefone" value=""
+                                        <input type="tel" name="telefone" value=""
                                             placeholder="(19) 99999-9999" required>
                                     </div>
                                     <div class="form-group">
