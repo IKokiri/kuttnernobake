@@ -43,7 +43,7 @@
                                 </div>
                                 <div class="column col-md-6 col-sm-6 col-xs-12">
                                     <div class="form-group">
-                                        <textarea name="message" placeholder="Mensagem"><?= isset($_GET['produto'])?"Boa Tarde.\n\nGostaria de receber um orçamento referente ao produto ".explode("-",$_GET['produto'])[1]."\n\nObrigado(a).":'' ?></textarea>
+                                        <textarea name="message" placeholder="Mensagem"><?= isset($_GET['produto'])?"Boa Tarde.\n\nGostaria de receber um orçamento referente ao produto ".explode("-",$_GET['produto'])[1]." com as seguintes especificações:\n\nObrigado(a).":'' ?></textarea>
                                     </div>
                                 </div>
                                 <!-- <div class="column col-md-12 col-sm-6 col-xs-12">
