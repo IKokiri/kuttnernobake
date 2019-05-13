@@ -8,7 +8,6 @@
                     <div class="image"><img src="/images/contato/kuttner no bake solutions mail.jpg" alt=""></div>
                 </div>
             </div>
-
             <!-- Form Column -->
             <div class="form-column col-md-8 col-sm-12 col-xs-12">
                 <div class="inner-column">
@@ -49,12 +48,6 @@
                                     </div>
                                     
                                 </div>
-                              
-                                <!-- <div class="column col-md-12 col-sm-6 col-xs-12">
-                                    <div class="form-group">
-                                        <button type="submit" class="theme-btn">Enviar</button>
-                                    </div>
-                                </div> -->
                             </div>
                             
                                     <div class="form-group">
