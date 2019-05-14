@@ -152,6 +152,27 @@ Route::prefix('MaquinasJatoGranalha')->group(function(){
 
 });
 
+Route::prefix('projeto')->group(function(){
+
+    Route::get('suporteRei/', function () {
+        return view('site/projetos/suporteRei');
+    });
+    Route::get('fundimisa/', function () {
+        return view('site/projetos/fundimisa');
+    });
+    Route::get('basso/', function () {
+        return view('site/projetos/basso');
+    });
+    Route::get('voith/', function () {
+        return view('site/projetos/voith');
+    });
+    Route::get('wegMexico/', function () {
+        return view('site/projetos/wegMexico');
+    });
+ 
+
+});
+
 Route::get('produto', function () {
     return view('site/produto');
 });
@@ -170,9 +191,7 @@ Route::get('contato/grupokuttner', function () {
     return view('site/contatokgb');
 });
 
-Route::get('projeto/', function () {
-    return view('site/projeto');
-});
+
 
 
 Route::middleware('auth')->group(function(){

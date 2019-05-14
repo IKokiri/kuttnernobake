@@ -24,8 +24,8 @@
                         <figure><a href="/images/projetos/Suporte Rei G.jpg" class="ligtbox-image" data-fancybox="gallery">
                         <img src="/images/projetos/suporte rei.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="/projetos">Suporte Rei</a></h3>
-                            <span class="tag">Linha completa de Moldagem</span>
+                            <h3><a href="/projeto/suporteRei">SUPORTE REI</a></h3>
+                            <span class="tag">MOLDES PEQUENOS</span>
                         </div>
                     </div>
                 </div>
@@ -33,11 +33,11 @@
                 <!-- Project Block -->
                 <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
                     <div class="image-box">
-                        <figure><a href="/images/projetos/Usiminas Mecanica G.jpg" class="ligtbox-image" data-fancybox="gallery">
-                        <img src="/images/projetos/Usiminas Mecanica.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <figure><a href="/images/projetos/fundimisa G.jpg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/fundimisa.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="/projetos">Usiminas Mecânica</a></h3>
-                            <span class="tag">Linha completa de moldagem</span>
+                            <h3><a href="/projeto/fundimisa">FUNDIMISA</a></h3>
+                            <span class="tag">MOLDES GRANDES</span>
                         </div>
                     </div>
                 </div>
@@ -45,11 +45,33 @@
                 <!-- Project Block -->
                 <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
                     <div class="image-box">
-                        <figure><a href="/images/projetos/Weg Met IV G.jpg" class="ligtbox-image" data-fancybox="gallery">
-                        <img src="/images/projetos/Weg Met IV.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <figure><a href="/images/projetos/basso G.jpg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/basso.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
-                            <h3><a href="/projetos">WEG Met. IV</a></h3>
-                            <span class="tag">Maquina Jato Interflex</span>
+                            <h3><a href="/projeto/basso">BASSO</a></h3>
+                            <span class="tag">MOLDAGEM COM CARROSSEL</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Block -->
+                <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
+                    <div class="image-box">
+                        <figure><a href="/images/projetos/voith G.jpg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/voith.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <div class="title-box">
+                            <h3><a href="/projeto/voith">VOITH</a></h3>
+                            <span class="tag">MOLDAGEM GRANDE COM CAIXAS</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project Block -->
+                <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
+                    <div class="image-box">
+                        <figure><a href="/images/projetos/wegMexico G.jpg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/wegMexico.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <div class="title-box">
+                            <h3><a href="/projeto/wegMexico">WEG – MÉXICO</a></h3>
+                            <span class="tag">PROJETO NOVA FUNDIÇÃO</span>
                         </div>
                     </div>
                 </div>
