@@ -1,7 +1,7 @@
 @extends('site/layout.app',["current" => "contato"])
 
 @section('page')
-<section class="page-title" style="background-image:url(/images/background/2.jpg)">
+<section class="page-title" style="background-image:url(/images/background/2.jpeg)">
     <div class="auto-container">
         <h1>Grupo Kuttner</h1>
         <ul class="page-breadcrumb">

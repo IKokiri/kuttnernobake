@@ -3,7 +3,7 @@
 @section('page')
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(images/background/2.jpg)">
+        <section class="page-title" style="background-image:url(images/background/2.jpeg)">
             <div class="auto-container">
                 <h1>Sobre nós</h1>
                 <ul class="page-breadcrumb">
@@ -17,7 +17,7 @@
         <!-- About Us -->
         <section class="about-section-two">
             <div class="auto-container">
-                <div class="outer-box clearfix" style="background-image:url(images/background/4.jpg);">
+                <div class="outer-box clearfix" style="background-image:url(images/background/4.jpeg);">
                     <div class="highlight-box">
                         <div class="info-carousel owl-carousel owl-theme">
                           
@@ -38,7 +38,7 @@
                     <div class="content-column col-md-6 col-sm-12 col-xs-12">
                         <div class="inner-column">
                             <div>
-                                <img src="images/sobre/knbs.png" alt="" srcset="">
+                                <img src="images/sobre/knbs2.jpeg" alt="" srcset="">
                             </div>
                             <div class="text">
                                 <div class="text-justify">
@@ -68,7 +68,7 @@
                             <h2>Kuttner do Brasil</h2>
                         </div>
                         <div>
-                            <img src="images/sobre/kdb.png" alt="" srcset="">
+                            <img src="images/sobre/kdb.jpeg" alt="" srcset="">
                         </div>
                         <div class="text ">
 
@@ -93,7 +93,7 @@
                         </div>
 
                         <div>
-                            <img src="images/sobre/kkg.png" alt="" srcset="">
+                            <img src="images/sobre/kkg.jpeg" alt="" srcset="">
                         </div>
                         <div class="text">
 
@@ -136,7 +136,7 @@
                                 <div class="story-block">
                                     <div class="inner-box">
                                         <span class="date">Jan 2008</span>
-                                        <div class="image-box"><img src="/images/sobre/logoimf.png" alt=""></div>
+                                        <div class="image-box"><img src="/images/sobre/logoimf.jpeg" alt=""></div>
                                         <!-- <h3><a href="#">Fundação</a></h3> -->
                                         <div class="text">Inauguração da fábrica com sede própria da IMF Brasil no Distrito Industrial Uninorte em Piracicaba/MG</div>
                                         <img src="/images/news/IMF Brasil 2007.JPG" alt="">
@@ -145,7 +145,7 @@
                                 <div class="story-block">
                                     <div class="inner-box">
                                         <span class="date">Dez 2003</span>
-                                        <div class="image-box"><img src="/images/sobre/logoimf.png" alt=""></div>
+                                        <div class="image-box"><img src="/images/sobre/logoimf.jpeg" alt=""></div>
                                         <!-- <h3><a href="#">Fundação</a></h3> -->
                                         <div class="text">A IMF Itália, empresa mundialmente conhecida pelo seu Know How em Fundições No-Bake, convida o Engenheiro Sergio Pedrozo para participar na fundação da IMF Brasil Instalações e Máquinas para Fundição Ltda, incorporando a RB Equipamentos Industriais Ltda na nova empresa</div>
                                     </div>
@@ -153,7 +153,7 @@
                                 <div class="story-block">
                                     <div class="inner-box">
                                         <span class="date">Nov 1997</span>
-                                        <div class="image-box"><img src="/images/sobre/logorb.png" alt=""></div>
+                                        <div class="image-box"><img src="/images/sobre/logorb.jpeg" alt=""></div>
                                         <!-- <h3><a href="#">Fundação</a></h3> -->
                                         <div class="text">O Engenheiro Sergio Pedrozo, com 20 anos de experiencia em equipamentos para Fundição No-bake, funda a empresa RB Equipamentos Industriais Ltda em Piracicaba/SP</div>
                                     </div>
@@ -185,7 +185,7 @@
             <div class="row clearfix text-center">
             <h2>Presença Internacional</h2>
                 <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <figure class="image"><img src="/images/sobre/mapa.png" alt=""></figure>
+                    <figure class="image"><img src="/images/sobre/mapa.jpeg" alt=""></figure>
                 </div>
             </div>
                    
@@ -603,7 +603,7 @@
         <!-- Industry Section -->
 
         <!-- Call To Action -->
-        <section class="call-to-action" style="background-image: url(images/background/3.jpg);">
+        <section class="call-to-action" style="background-image: url(images/background/3.jpeg);">
             <div class="auto-container">
                 <div class="inner-container clearfix">
                     <div class="text-box">

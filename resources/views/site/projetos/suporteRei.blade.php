@@ -2,7 +2,7 @@
 
 @section('page')
 <!--Page Title-->
-<section class="page-title" style="background-image:url(/images/background/2.jpg)">
+<section class="page-title" style="background-image:url(/images/background/2.jpeg)">
         <div class="auto-container">
             <h1>SUPORTE REI</h1>
             <ul class="page-breadcrumb">
@@ -23,17 +23,17 @@
                     <div class="single-item-carousel owl-carousel owl-theme">
                         <div class="slide">
                             <div class="image">
-                                <img src="/images/projetos/suporteRei/rei1.jpg" alt="" />
+                                <img src="/images/projetos/suporteRei/rei1.jpeg" alt="" />
                             </div>
                         </div>
                         <div class="slide">
                             <div class="image">
-                                <img src="/images/projetos/suporteRei/rei2.jpg" alt="" />
+                                <img src="/images/projetos/suporteRei/rei2.jpeg" alt="" />
                             </div>
                         </div>
                         <div class="slide">
                             <div class="image">
-                                <img src="/images/projetos/suporteRei/rei3.jpg" alt="" />
+                                <img src="/images/projetos/suporteRei/rei3.jpeg" alt="" />
                             </div>
                         </div>                      
                     </div>

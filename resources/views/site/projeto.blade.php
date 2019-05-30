@@ -2,7 +2,7 @@
 
 @section('page')
 <!--Page Title-->
-<section class="page-title" style="background-image:url(images/background/2.jpg)">
+<section class="page-title" style="background-image:url(images/background/2.jpeg)">
         <div class="auto-container">
             <h1>Projeto</h1>
             <ul class="page-breadcrumb">
@@ -23,17 +23,17 @@
                     <div class="single-item-carousel owl-carousel owl-theme">
                         <div class="slide">
                             <div class="image">
-                                <img src="images/projetos/1.jpg" alt="" />
+                                <img src="images/projetos/1.jpeg" alt="" />
                             </div>
                         </div>
                         <div class="slide">
                             <div class="image">
-                                <img src="images/projetos/2.jpg" alt="" />
+                                <img src="images/projetos/2.jpeg" alt="" />
                             </div>
                         </div>
                         <div class="slide">
                             <div class="image">
-                                <img src="images/projetos/3.jpg" alt="" />
+                                <img src="images/projetos/3.jpeg" alt="" />
                             </div>
                         </div>
                     </div>

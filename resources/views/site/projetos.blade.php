@@ -2,7 +2,7 @@
 
 @section('page')
 <!--Page Title-->
-<section class="page-title" style="background-image:url(images/background/2.jpg)">
+<section class="page-title" style="background-image:url(images/background/2.jpeg)">
         <div class="auto-container">
             <h1>Projetos</h1>
             <ul class="page-breadcrumb">
@@ -21,8 +21,8 @@
                 <!-- Project Block -->
                 <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
                     <div class="image-box">
-                        <figure><a href="/images/projetos/Suporte Rei G.jpg" class="ligtbox-image" data-fancybox="gallery">
-                        <img src="/images/projetos/suporte rei.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <figure><a href="/images/projetos/Suporte Rei G.jpeg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/suporte rei.jpeg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
                             <h3><a href="/projeto/suporteRei">SUPORTE REI</a></h3>
                             <span class="tag">MOLDES PEQUENOS</span>
@@ -33,8 +33,8 @@
                 <!-- Project Block -->
                 <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
                     <div class="image-box">
-                        <figure><a href="/images/projetos/fundimisa G.jpg" class="ligtbox-image" data-fancybox="gallery">
-                        <img src="/images/projetos/fundimisa.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <figure><a href="/images/projetos/fundimisa G.jpeg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/fundimisa.jpeg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
                             <h3><a href="/projeto/fundimisa">FUNDIMISA</a></h3>
                             <span class="tag">MOLDES GRANDES</span>
@@ -45,8 +45,8 @@
                 <!-- Project Block -->
                 <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
                     <div class="image-box">
-                        <figure><a href="/images/projetos/basso G.jpg" class="ligtbox-image" data-fancybox="gallery">
-                        <img src="/images/projetos/basso.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <figure><a href="/images/projetos/basso G.jpeg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/basso.jpeg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
                             <h3><a href="/projeto/basso">BASSO</a></h3>
                             <span class="tag">MOLDAGEM COM CARROSSEL</span>
@@ -56,8 +56,8 @@
                 <!-- Project Block -->
                 <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
                     <div class="image-box">
-                        <figure><a href="/images/projetos/voith G.jpg" class="ligtbox-image" data-fancybox="gallery">
-                        <img src="/images/projetos/voith.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <figure><a href="/images/projetos/voith G.jpeg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/voith.jpeg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
                             <h3><a href="/projeto/voith">VOITH</a></h3>
                             <span class="tag">MOLDAGEM GRANDE COM CAIXAS</span>
@@ -67,8 +67,8 @@
                 <!-- Project Block -->
                 <div class="project-block-three col-md-4 col-sm-6 col-xs-12">
                     <div class="image-box">
-                        <figure><a href="/images/projetos/wegMexico G.jpg" class="ligtbox-image" data-fancybox="gallery">
-                        <img src="/images/projetos/wegMexico.jpg" alt=""><span class="fa fa-search-plus"></span></a></figure>
+                        <figure><a href="/images/projetos/wegMexico G.jpeg" class="ligtbox-image" data-fancybox="gallery">
+                        <img src="/images/projetos/wegMexico.jpeg" alt=""><span class="fa fa-search-plus"></span></a></figure>
                         <div class="title-box">
                             <h3><a href="/projeto/wegMexico">WEG – MÉXICO</a></h3>
                             <span class="tag">PROJETO NOVA FUNDIÇÃO</span>
