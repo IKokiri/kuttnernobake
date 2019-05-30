@@ -38,8 +38,8 @@
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
                                         <div class="image-box">
-                                        <a href="/images/produtos/Despoeiramento 1.JPG" data-fancybox="gallery">
-                                        <img src="/images/produtos/Despoeiramento 1.JPG" alt=""></a></div>
+                                        <a href="/images/produtos/Despoeiramento 1 g.JPG" data-fancybox="gallery">
+                                        <img src="/images/produtos/Despoeiramento 1 p.JPG" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">

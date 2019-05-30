@@ -43,8 +43,8 @@
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
                                         <div class="image-box">
-                            <a href="/images/produtos/Area Vazamento Resfriamento.jpg" data-fancybox="gallery">
-                            <img src="/images/produtos/Area Vazamento Resfriamento.jpg" alt=""></a></div>
+                            <a href="/images/produtos/Area Vazamento Resfriamento g.jpg" data-fancybox="gallery">
+                            <img src="/images/produtos/Area Vazamento Resfriamento p.jpg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
