@@ -95,7 +95,7 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">Dim. Placas de vazamento  </th>
-                                    <td>800 x 1000mm</td>
+                                    <td>1600 x 2400 mm</td>
                                 </tr>
                             </tbody>
                         </table>

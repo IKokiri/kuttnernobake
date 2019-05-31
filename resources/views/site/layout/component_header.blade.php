@@ -34,7 +34,7 @@
                                 <div class="icon-box" style="left:0px"><span class="machinery-icon-map"></span></div>
                                 <ul>
                                     <li>R. Abelardo Benedicto Libório</li>
-                                    <li>Libéria, 951</li>
+                                    <li>nº 951</li>
                                     <li><strong>Piracicaba, São Paulo</strong></li>
                                 </ul>
                             </div>
