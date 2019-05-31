@@ -27,6 +27,32 @@
                             <div class="sec-title">
                                 <h2>Misturadores</h2>
                             </div>
+                              <!-- Service Block Two -->
+                              <div class="service-block-two">
+                                <div class="inner-box">
+                                    <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
+                                    <ul>
+                                        <li>
+                                            <h4 class="pull-right">- Grande confiabilidade e duração</h4>
+                                            <h4>- Alta eficiência da mistura</h4>
+                                        </li>
+                                        <hr>
+                                        <li>
+                                            <h4 class="pull-right">- Controle preciso de alcance nos moldes</h4>
+                                            <h4>- Notável economia de resina e catalisador</h4>
+                                        </li>
+                                        <hr>
+                                        <li>
+                                            <h4 class="pull-right">- Fácil limpeza e manutenção</h4>
+                                            <h4>- Segurança na operação</h4>
+                                        </li>
+                                        <hr>
+                                        <li class="text-center">
+                                        <h4>- Fácil operação</h4>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
                             <div class="text">
                                 <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
                                 Com melhores controles sobre a dosagem das areias, resinas, catalizadores e suas temperaturas, a mistura será de melhor qualidade e padronizada para todos os moldes.</p>
@@ -36,12 +62,12 @@
 
                             <div class="two-column">
                                 <div class="row clearfix">  
-                                    <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box">
+                                    <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="image-box text-center">
                                         <a href="/images/produtos/Misturador g.jpeg" data-fancybox="gallery">
                                         <img src="/images/produtos/Misturador p.jpeg" alt=""></a></div>
                                     </div>
-                                    <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                                    <div class="info-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
                                             
                                             <!-- Service Block Two -->
@@ -51,23 +77,23 @@
                                                     <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
                                                     <ul>
                                                         <li>
-                                                        - Movimentação e/ou giro manual ou motorizado do braço.
+                                                            <h4>- Movimentação e/ou giro manual ou motorizado do braço.</h4>
                                                         </li>
                                                         <hr>
                                                         <li>
-                                                         - Modelos Fixos de Braço simples ou Braço duplo para a Moldagem Manual ou Moldagem Fast-Loop
+                                                        <h4>- Modelos Fixos de Braço simples ou Braço duplo para a Moldagem Manual ou Moldagem Fast-Loop</h4>
                                                         </li>
                                                         <hr>
                                                         <li>
-                                                         - Modelos Móveis de Braço simples ou Braço duplo
+                                                        <h4>- Modelos Móveis de Braço simples ou Braço duplo</h4>
                                                         </li>
                                                         <hr>
                                                         <li>
-                                                         - Misturadores com Carro Móvel, permitindo a moldagem de grandes caixas no solo ou em fossas, sem necessidade de movimentação das mesmas
+                                                        <h4>- Misturadores com Carro Móvel, permitindo a moldagem de grandes caixas no solo ou em fossas, sem necessidade de movimentação das mesmas</h4>
                                                         </li>
                                                         <hr>
                                                         <li>
-                                                         - Misturadores com esteiras para elevação da Areia até a entrada do mesmo em casos especiais de locais com baixa altura
+                                                        <h4>- Misturadores com esteiras para elevação da Areia até a entrada do mesmo em casos especiais de locais com baixa altura</h4>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -82,12 +108,7 @@
                             <div class="feature-info-block">
                                 
                                 <div class="row clearfix">
-                                <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel I.jpeg" alt=""></figure>
-                                    </div>
-                                    <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel III.jpeg" alt=""></figure>
-                                    </div>
+                               
                                 </div>
                             </div>
                         </div>
