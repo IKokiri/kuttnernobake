@@ -42,8 +42,8 @@
                             <div class="two-column">
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box"><a href="/images/produtos/Transporte Pneumatico g.JPG" data-fancybox="gallery">
-                                        <img src="/images/produtos/Transporte Pneumatico p.JPG" alt=""></a></div>
+                                        <div class="image-box"><a href="/images/produtos/Transporte Pneumatico g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/produtos/Transporte Pneumatico p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">

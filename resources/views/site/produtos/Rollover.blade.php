@@ -32,54 +32,20 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="text">
-                                <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
-                                Com melhores controles sobre a dosagem das areias, resinas, catalizadores e suas temperaturas, a mistura será de melhor qualidade e padronizada para todos os moldes.</p>
-                                <p>A maior eficiência na mistura otimiza a quantidade de resina utilizada, garante a qualidade da areia preparada com menor custo e redução de refugo de moldes ou 
-                                    peças defeituosas.</p>
+                            <div class="text text-justify">
+                                <p>
+                                A máquina gira e extrai perfeitamente o molde montado na placa, para produzir bolos, machos ou caixas no mesmo ciclo de produção já que as operações se baseiam exclusivamente na placa porta-modelo que é travada hidraulicamente na linha de roletes de entrada. O funcionamento é completamente automático com a possibilidade, a qualquer momento, de passar para comando manual. Os acionamentos são principalmente hidráulicos, controlados por válvulas proporcionais já que é necessário um comando de aceleração/desaceleração com rampa ajustável. Um sistema automático de controle da execução da extração permite trabalhar sem supervisão. A automação é obtida por meio de um PLC. O uso principal deste tipo de Rollover extrator está nas instalações automáticas de moldagem Fast Loop, sendo também possível introduzi-la em um sistema mais tradicional de moldagem semi-automático ou manual, ou ainda de modo individual.
+                                </p>
                             </div>
 
                             <div class="two-column">
                                 <div class="row clearfix">  
-                                    <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box">
-                            <a href="/images/produtos/Rollover g.jpg" data-fancybox="gallery">
-                            <img src="/images/produtos/Rollover p.jpg" alt=""></a></div>
+                                    <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="image-box text-center">
+                            <a href="/images/produtos/Rollover g.jpeg" data-fancybox="gallery">
+                            <img src="/images/produtos/Rollover p.jpeg" alt=""></a></div>
                                     </div>
-                                    <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="inner-column">
-                                            
-                                            <!-- Service Block Two -->
-                                            <div class="service-block-two">
-                                                <div class="inner-box">
-                                                    <h3>Misturadores com Capacidades de 3 a 100 t/hora, com:</h3>
-                                                    <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
-                                                    <ul>
-                                                        <li>
-                                                        - Movimentação e/ou giro manual ou motorizado do braço.
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Fixos de Braço simples ou Braço duplo para a Moldagem Manual ou Moldagem Fast-Loop
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Móveis de Braço simples ou Braço duplo
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com Carro Móvel, permitindo a moldagem de grandes caixas no solo ou em fossas, sem necessidade de movimentação das mesmas
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com esteiras para elevação da Areia até a entrada do mesmo em casos especiais de locais com baixa altura
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
+                                    
                                 </div>
                             </div>
 

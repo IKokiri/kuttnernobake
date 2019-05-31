@@ -2849,7 +2849,7 @@ img {
 .two-column .image-column img {
     max-width: 100%;
     height: auto;
-    display: block;
+    /* display: block; */
 }
 
 .two-column .info-column {

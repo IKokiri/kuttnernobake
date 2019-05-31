@@ -21,7 +21,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/Misturadores/MisturadorBracoSimples">
-                                <img src="/images/sisequip/misturador braco simples.jpg" alt="">
+                                <img src="/images/sisequip/misturador braco simples.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -46,7 +46,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/Misturadores/MisturadorBracoDuplo">
-                                <img src="/images/sisequip/misturador braco duplo.jpg" alt="">
+                                <img src="/images/sisequip/misturador braco duplo.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -71,7 +71,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/Misturadores/MisturadorMovel">
-                                <img src="/images/sisequip/misturador movel 2.jpg" alt="">
+                                <img src="/images/sisequip/misturador movel 2.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -96,7 +96,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaMoldagemVazamentoRefriamento/FastLoop">
-                                <img src="images/sisequip/fast loop.jpg" alt="">
+                                <img src="images/sisequip/fast loop.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -121,7 +121,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaMoldagemVazamentoRefriamento/Rollover">
-                                <img src="images/sisequip/rollover.jpg" alt="">
+                                <img src="images/sisequip/rollover.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -146,7 +146,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaMoldagemVazamentoRefriamento/AreaVazamentoResfriamento">
-                                <img src="images/sisequip/area de vazamento resfriamento.jpg" alt="">
+                                <img src="images/sisequip/area de vazamento resfriamento.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -171,7 +171,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes">
-                                <img src="images/sisequip/moldagem carrocel 4 estacoes.jpg" alt="">
+                                <img src="images/sisequip/moldagem carrocel 4 estacoes.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -196,7 +196,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaMoldagemVazamentoRefriamento/SistemaPinturaLavagem">
-                                <img src="images/sisequip/sistema de pintura por lavagem 2.jpg" alt="">
+                                <img src="images/sisequip/sistema de pintura por lavagem 2.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -221,7 +221,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaDesmoldagem/ShakeOut">
-                                <img src="images/sisequip/desmoldagem shake out.jpg" alt="">
+                                <img src="images/sisequip/desmoldagem shake out.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -246,7 +246,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaDesmoldagem/PreResfriador">
-                                <img src="images/sisequip/pre resfriador.jpg" alt="">
+                                <img src="images/sisequip/pre resfriador.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -271,7 +271,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaDesmoldagem/TransportePneumatico">
-                                <img src="images/sisequip/transporte pneumatico.jpg" alt="">
+                                <img src="images/sisequip/transporte pneumatico.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -296,7 +296,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/RecuperacaoMecanicaRegeneracaoTermica/RecuperacaoMecanica4TH">
-                                <img src="images/sisequip/recuperação mecanica - 4 t h.jpg" alt="">
+                                <img src="images/sisequip/recuperação mecanica - 4 t h.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -321,7 +321,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/RecuperacaoMecanicaRegeneracaoTermica/RecuperacaoMecanica430TH">
-                                <img src="images/sisequip/recuperação mecanica - 6 30 t h.jpg" alt="">
+                                <img src="images/sisequip/recuperação mecanica - 6 30 t h.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -346,7 +346,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/RecuperacaoMecanicaRegeneracaoTermica/RegeneracaoTermica056TH">
-                                <img src="images/sisequip/Regeneração termica 05 a 6 t h.jpg" alt="">
+                                <img src="images/sisequip/Regeneração termica 05 a 6 t h.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -371,7 +371,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JatoPassagemContinua">
-                                <img src="images/sisequip/jato de passagem continua.jpg" alt="">
+                                <img src="images/sisequip/jato de passagem continua.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -396,7 +396,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JatoGancheiraPassagem">
-                                <img src="images/sisequip/jato gancheira de passagem.jpg" alt="">
+                                <img src="images/sisequip/jato gancheira de passagem.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -421,7 +421,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JatoGancheiraTipoY">
-                                <img src="images/sisequip/jato com gancheira tipo y.jpg" alt="">
+                                <img src="images/sisequip/jato com gancheira tipo y.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -446,7 +446,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JateamentoBobinas">
-                                <img src="images/sisequip/jateamento de bobinas.jpg" alt="">
+                                <img src="images/sisequip/jateamento de bobinas.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -471,7 +471,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JatoMesaGiratoria">
-                                <img src="images/sisequip/jato mesa giratoria.jpg" alt="">
+                                <img src="images/sisequip/jato mesa giratoria.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -496,7 +496,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JatoTamboreamento">
-                                <img src="images/sisequip/jato por tamboreamento.jpg" alt="">
+                                <img src="images/sisequip/jato por tamboreamento.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -521,7 +521,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="produto">
-                                <img src="images/sisequip/preparação de carga metálica e adtivos.jpg" alt="">
+                                <img src="images/sisequip/preparação de carga metálica e adtivos.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -546,7 +546,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="produto">
-                                <img src="images/sisequip/ponte rolante com canguru e carro de carregamento.jpg" alt="">
+                                <img src="images/sisequip/ponte rolante com canguru e carro de carregamento.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -571,7 +571,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="produto">
-                                <img src="images/sisequip/filtros para todos os processos de fundição 2.jpg" alt="">
+                                <img src="images/sisequip/filtros para todos os processos de fundição 2.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">

@@ -256,7 +256,7 @@
                 <!-- Industry Block -->
                 <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/misturador braco simples.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/misturador braco simples.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -270,7 +270,7 @@
                 <!-- Industry Block -->
                 <div class="industry-block bg-gray">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/misturador braco duplo.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/misturador braco duplo.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -284,7 +284,7 @@
                 <!-- Industry Block -->
                 <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/misturador movel 1.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/misturador movel 1.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -298,7 +298,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/fast loop.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/fast loop.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -312,7 +312,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/rollover.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/rollover.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -327,7 +327,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/area de vazamento resfriamento.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/area de vazamento resfriamento.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -342,7 +342,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/moldagem carrocel 4 estacoes.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/moldagem carrocel 4 estacoes.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -355,7 +355,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/sistema de pintura por lavagem.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/sistema de pintura por lavagem.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -369,7 +369,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/desmoldagem shake out.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/desmoldagem shake out.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -384,7 +384,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/pre resfriador.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/pre resfriador.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -400,7 +400,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/transporte pneumatico.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/transporte pneumatico.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -418,7 +418,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/recuperação mecanica - 4 t h.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/recuperação mecanica - 4 t h.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -432,7 +432,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/recuperação mecanica - 6 30 t h.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/recuperação mecanica - 6 30 t h.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -446,7 +446,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/Regeneração termica 05 a 6 t h.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/Regeneração termica 05 a 6 t h.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -461,7 +461,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jato de passagem continua.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/jato de passagem continua.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -477,7 +477,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jato gancheira de passagem.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/jato gancheira de passagem.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -493,7 +493,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jato com gancheira tipo y.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/jato com gancheira tipo y.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -509,7 +509,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jateamento de bobinas.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/jateamento de bobinas.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -526,7 +526,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jato mesa giratoria.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/jato mesa giratoria.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -541,7 +541,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jato por tamboreamento.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/jato por tamboreamento.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -556,7 +556,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/preparação de carga metálica e adtivos.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/preparação de carga metálica e adtivos.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -571,7 +571,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/ponte rolante com canguru e carro de carregamento.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/ponte rolante com canguru e carro de carregamento.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
@@ -586,7 +586,7 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/filtros para todos os processos de fundição.jpg"
+                        <div class="image"><a href="produto"><img src="images/sisequip/filtros para todos os processos de fundição.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">

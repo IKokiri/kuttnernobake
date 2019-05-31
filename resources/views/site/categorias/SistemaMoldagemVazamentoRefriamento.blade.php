@@ -49,8 +49,8 @@
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
                                         <div class="image-box">
-                                        <a href="/images/produtos/Sistema Moldagem g.JPG" data-fancybox="gallery">
-                                        <img src="/images/produtos/Sistema Moldagem p.JPG" alt=""></a></div>
+                                        <a href="/images/produtos/Sistema Moldagem g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/produtos/Sistema Moldagem p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">

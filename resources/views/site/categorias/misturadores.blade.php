@@ -38,8 +38,8 @@
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
                                         <div class="image-box">
-                                        <a href="/images/produtos/Misturador g.jpg" data-fancybox="gallery">
-                                        <img src="/images/produtos/Misturador p.jpg" alt=""></a></div>
+                                        <a href="/images/produtos/Misturador g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/produtos/Misturador p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
@@ -83,10 +83,10 @@
                                 
                                 <div class="row clearfix">
                                 <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel I.jpg" alt=""></figure>
+                                        <figure class="image"><img src="/images/produtos/Misturador móvel I.jpeg" alt=""></figure>
                                     </div>
                                     <div class="image-column col-lg-6 col-md-12 col-sm-12 col-xs-12">
-                                        <figure class="image"><img src="/images/produtos/Misturador móvel III.jpg" alt=""></figure>
+                                        <figure class="image"><img src="/images/produtos/Misturador móvel III.jpeg" alt=""></figure>
                                     </div>
                                 </div>
                             </div>

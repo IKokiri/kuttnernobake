@@ -21,7 +21,7 @@
                     <div class="services-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure><img src="images/sisequip/misturador braco duplo.jpg" alt=""></figure>
+                                <figure><img src="images/sisequip/misturador braco duplo.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="btn-box">
                                         <a href="/Misturadores/MisturadorBracoDuplo"><i class="icon arrow-top-right"></i>Saber mais</a>
@@ -38,7 +38,7 @@
                     <div class="services-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure><img src="images/sisequip/misturador movel 2.jpg" alt=""></figure>
+                                <figure><img src="images/sisequip/misturador movel 2.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="btn-box">
                                         <a href="/Misturadores/MisturadorMovel"><i class="icon arrow-top-right"></i>Saber mais</a>
@@ -55,7 +55,7 @@
                     <div class="services-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure><img src="images/sisequip/fast loop.jpg" alt=""></figure>
+                                <figure><img src="images/sisequip/fast loop.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="btn-box">
                                         <a href="/SistemaMoldagemVazamentoRefriamento/FastLoop"><i class="icon arrow-top-right"></i>Saber mais</a>
@@ -72,7 +72,7 @@
                      <div class="services-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure><img src="images/sisequip/rollover.jpg" alt=""></figure>
+                                <figure><img src="images/sisequip/rollover.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="btn-box">
                                         <a href="/SistemaMoldagemVazamentoRefriamento/Rollover"><i class="icon arrow-top-right"></i>Saber mais</a>
@@ -89,7 +89,7 @@
                      <div class="services-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure><img src="images/sisequip/moldagem carrocel 4 estacoes.jpg" alt=""></figure>
+                                <figure><img src="images/sisequip/moldagem carrocel 4 estacoes.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="btn-box">
                                         <a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes"><i class="icon arrow-top-right"></i>Saber mais</a>
@@ -106,7 +106,7 @@
                      <div class="services-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure><img src="images/sisequip/desmoldagem shake out.jpg" alt=""></figure>
+                                <figure><img src="images/sisequip/desmoldagem shake out.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="btn-box">
                                         <a href="/SistemaDesmoldagem/ShakeOut"><i class="icon arrow-top-right"></i>Saber mais</a>
@@ -123,7 +123,7 @@
                     <div class="services-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure><img src="images/sisequip/recuperação mecanica - 6 30 t h.jpg" alt=""></figure>
+                                <figure><img src="images/sisequip/recuperação mecanica - 6 30 t h.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="btn-box">
                                         <a href="/RecuperacaoMecanicaRegeneracaoTermica/RecuperacaoMecanica4TH"><i class="icon arrow-top-right"></i>Saber mais</a>
@@ -140,7 +140,7 @@
                     <div class="services-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure><img src="images/sisequip/Regeneração termica 05 a 6 t h.jpg" alt=""></figure>
+                                <figure><img src="images/sisequip/Regeneração termica 05 a 6 t h.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="btn-box">
                                         <a href="/RecuperacaoMecanicaRegeneracaoTermica/RegeneracaoTermica056TH"><i class="icon arrow-top-right"></i>Saber mais</a>
@@ -157,7 +157,7 @@
                     <div class="services-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure><img src="images/sisequip/jato de passagem continua.jpg" alt=""></figure>
+                                <figure><img src="images/sisequip/jato de passagem continua.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="btn-box">
                                         <a href="/MaquinasJatoGranalha/JatoPassagemContinua"><i class="icon arrow-top-right"></i>Saber mais</a>

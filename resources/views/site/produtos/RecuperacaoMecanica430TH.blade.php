@@ -42,8 +42,8 @@
                             <div class="two-column">
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box"><a href="/images/produtos/Recuperacao Mecanica4th.jpg" data-fancybox="gallery">
-                                        <img src="/images/produtos/Recuperacao Mecanica4th.jpg" alt=""></a></div>
+                                        <div class="image-box"><a href="/images/produtos/Recuperacao Mecanica4th.jpeg" data-fancybox="gallery">
+                                        <img src="/images/produtos/Recuperacao Mecanica4th.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">

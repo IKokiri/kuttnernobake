@@ -32,58 +32,116 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="text">
-                                <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
-                                Com melhores controles sobre a dosagem das areias, resinas, catalizadores e suas temperaturas, a mistura será de melhor qualidade e padronizada para todos os moldes.</p>
-                                <p>A maior eficiência na mistura otimiza a quantidade de resina utilizada, garante a qualidade da areia preparada com menor custo e redução de refugo de moldes ou 
-                                    peças defeituosas.</p>
+                            <div class="text text-justify">
+                                <p>
+                                A gama de aplicação dos equipamentos Fast Loop abrange moldes de 800x800x100/100 a 1800x3400x680/680. As cadências produtivas, de acordo com o tamanho e os dispositivos utilizados vão de 8 moldes/h a 30 moldes/h. O nível de automação pode variar de acordo com as exigências específicas do cliente. A KNBS pode fornecer sistemas, semi-automáticos e até completamente automáticos.
+                                </p>
+                                <p>
+                                Para os sistemas mais avançados existe a disponibilidade um programa de gestão as produção, confiável e fácil de ser instalado, que realiza automaticamente as operações necessárias, segundo os dados introduzidos através de um computador. Também existe à disposição um sistema de diagnose que monitora o funcionamento de cada componente de todo o sistema de moldagem.
+                                </p>
                             </div>
 
                             <div class="two-column">
                                 <div class="row clearfix">  
-                                    <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box">
-                            <a href="/images/produtos/Fast Lopp g.jpg" data-fancybox="gallery">
-                            <img src="/images/produtos/Fast Lopp p.jpg" alt=""></a></div>
-                                    </div>
-                                    <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="inner-column">
-                                            
-                                            <!-- Service Block Two -->
-                                            <div class="service-block-two">
-                                                <div class="inner-box">
-                                                    <h3>Misturadores com Capacidades de 3 a 100 t/hora, com:</h3>
-                                                    <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
-                                                    <ul>
-                                                        <li>
-                                                        - Movimentação e/ou giro manual ou motorizado do braço.
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Fixos de Braço simples ou Braço duplo para a Moldagem Manual ou Moldagem Fast-Loop
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Móveis de Braço simples ou Braço duplo
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com Carro Móvel, permitindo a moldagem de grandes caixas no solo ou em fossas, sem necessidade de movimentação das mesmas
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com esteiras para elevação da Areia até a entrada do mesmo em casos especiais de locais com baixa altura
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
+                                    <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="image-box text-center">
+                                        <a href="/images/produtos/Fast Lopp g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/produtos/Fast Lopp p.jpeg" alt=""></a></div>
+                                    </div>                                   
                                 </div>
                             </div>
+                            <div class="text text-justify">
+                            <h3>TROCA DE MODELO</h3>
+                                <p>
+                                A área de troca de modelo permite fácil acesso ao modelo para a limpeza do mesmo e para a preparação das caixas de moldagem. A troca de modelo pode ser interligada a um sistema de armazenagem automático de modelos controlado por computador. As operações de troca de modelo são executadas em tempo de ciclo, sem necessidade de parada de produção.
+                                </p>
+                            </div>
+                            <div class="text text-justify">
+                            <h3>ENCHIMENTO</h3>
+                                <p>
+                                Os misturadores usados para encher o molde tem capacidade de 6 a 60t/h e podem ser de braço simples ou duplo com movimentos em geral servo-assistidos.
+                                </p>
+                            </div>
+                            <div class="text text-justify">
+                            <h3>NIVELAMENTO</h3>
+                                <p>
+                                A fase de enchimento do molde é completada com o auxílio de uma mesa vibratória para uma perfeita compactação do molde, cuja intensidade de vibração é controlada de acordo com as caravterísticas do molde, e com um NIVELADOR automático que elimina a areia em excesso, obtendo-se assim a superfície do molde, oposta ao modelo, perfeitamente plana.
+                                </p>
+                            </div>
 
+                            <div class="text text-justify">
+                            <h3>CURA</h3>
+                                <p>
+                                A área de moldagem inclui as posições de cura dos moldes que podem variar pelo processo aplicado e a produção por hora da instalação.
+                                Os deslocamentos das placas que levam os moldes às estações de cura são executados por meio de uma motorização especial em cada trecho que permite rampas constantes de aceleração e desaceleração.
 
+                                </p>
+                            </div>
+
+                            <div class="text text-justify">
+                            <h3>EXTRAÇÃO</h3>
+                                <p>
+                                A área de extração do molde é completamente automática e é operada por uma máquina, tipo Rollover, que se encarrega também de enviar o molde à linha de pintura e o retorno da placa modelo ao loop de moldagem.
+                                </p>
+                                <p>
+                                Se a extração falhar a máquina repete automaticamente a operação até conseguir o resultado correto.
+                                </p>
+                            </div>
+
+                            <div class="text text-justify">
+                            <h3>PINTURA</h3>
+                                <p>
+                                A operação de pintura fica facilitada pelo uso de estações que manejam o molde e o colocam na posição mais cômoda e adequada ao método de aplicação de pintura utilizado.
+                                </p>
+                            </div>
+                            <div class="text text-justify">
+                            <h3>SECAGEM</h3>
+                                <p>
+                                A secagem em geral se realiza no túnel de ar quente. Eventualmente um túnel de pré-secagem pode ser instalado antes da pintura que contribui para uma secagem mais rápida.
+
+                                </p>
+                            </div>
+                            <div class="text text-justify">
+                            <h3>COLOCAÇÃO DE MACHOS</h3>
+                                <p>
+                                A linha de montagem de machos permite fácil acesso aos moldes, facilitando assim a montagem de machos.
+
+                                </p>
+                            </div>
+                            <div class="text text-justify">
+                            <h3>FECHAMENTO MANUAL</h3>
+                                <p>
+                                Quando os tempos de ciclo permitem, é possível fechar os moldes com sistemas de comando manual ou semi-automático. No primeiro caso usam-se manipuladores suspensos por uma talha de serviço e no segundo caso dispõe-se de estações fixas com manipuladores guiados pelo operador.
+
+                                </p>
+                            </div>
+                            <div class="text text-justify">
+                            <h3>FECHAMENTO AUTOMÁTICO</h3>
+                                <p>
+                                No caso de ritmos produtivos muito elevados o fechamento dos moldes, já prontos e com os machos já montados, é executado mediante dispositivos completamente automáticos. A máquina executa todas as operações sem necessidade de intervenções por parte dos operadores e independentemente das dimensões dos moldes que estejam sendo produzidos ao mesmo tempo.
+                                </p>
+                            </div>
+                            <div class="text text-justify">
+                            <h3>VAZAMENTO</h3>
+                                <p>
+                                Os moldes são posicionados em uma placa de vazamento durante as operações de fechamento e em seguida são enviados para as linhas de vazamento.
+                                </p>
+                                <p>
+                                As linhas de resfriamento podem ser dispostas ao nível do piso da fundição, empilhadas em camadas duplas ou em armazéns verticais.
+                                </p>
+                            </div>
+                            <div class="text text-justify">
+                            <h3>DESMOLDAGEM</h3>
+                                <p>
+                                Os moldes, após o resfriamento, são enviados aos sistemas de desmoldagem, que podem ser com grelha vibratória ou com calha vibratória contínua. A areia é enviada em seguida ao sistema de regeneração de areia e na sequência distribuída para os pontos de reutilização.
+                                </p>
+                            </div>
+                            <div class="text text-justify">
+                            <h3>RETIRADA DAS PEÇAS APÓS A DESMOLDAGEM</h3>
+                                <p>
+                                A retirada das peças pode ser executada manualmente, mediante ponte rolante e talha, ou com manipuladores.
+                                </p>
+                            </div>
                             <div class="feature-info-block">
                                 
                                 <div class="row clearfix">
