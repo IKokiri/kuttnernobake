@@ -32,57 +32,64 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="text">
-                                <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
-                                Com melhores controles sobre a dosagem das areias, resinas, catalizadores e suas temperaturas, a mistura será de melhor qualidade e padronizada para todos os moldes.</p>
-                                <p>A maior eficiência na mistura otimiza a quantidade de resina utilizada, garante a qualidade da areia preparada com menor custo e redução de refugo de moldes ou 
-                                    peças defeituosas.</p>
+                            <div class="text text-justify">
+                                <p>As linha de vazamento e Resfriamento são separadas da linha de moldagem e, é diferente pelo fato de que, os movimentos acontecem com a utilização de placas de vazamento em ferro fundido. Estas placas são movimentadas em toda a zona de vazamento e resfriamento por meio de 2 carros de transferência, com impulsores a bordo, que transferem as placas, de acordo com uma lógica predefinida, e que inclui todas as operações, ou seja:</p>
+                                <ul>
+                                    <li><h4>- transferência para a linha de vazamento;</h4></li>
+                                    <li><h4>- transferência para o desmoldador, e retorno para a zona de carga dos bolos a serem vazados.</h4></li>
+                                </ul>
                             </div>
 
                             <div class="two-column">
                                 <div class="row clearfix">  
-                                    <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box">
+                                    <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="image-box text-center">
                             <a href="/images/produtos/Area Vazamento Resfriamento g.jpeg" data-fancybox="gallery">
                             <img src="/images/produtos/Area Vazamento Resfriamento p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="inner-column">
-                                            
-                                            <!-- Service Block Two -->
-                                            <div class="service-block-two">
-                                                <div class="inner-box">
-                                                    <h3>Misturadores com Capacidades de 3 a 100 t/hora, com:</h3>
-                                                    <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
-                                                    <ul>
-                                                        <li>
-                                                        - Movimentação e/ou giro manual ou motorizado do braço.
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Fixos de Braço simples ou Braço duplo para a Moldagem Manual ou Moldagem Fast-Loop
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Móveis de Braço simples ou Braço duplo
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com Carro Móvel, permitindo a moldagem de grandes caixas no solo ou em fossas, sem necessidade de movimentação das mesmas
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com esteiras para elevação da Areia até a entrada do mesmo em casos especiais de locais com baixa altura
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-
-                                        </div>
+                                       
                                     </div>
                                 </div>
                             </div>
+                            <div class="text text-justify">
+                                <p>
+                                Toda a linha referente às placas de vazamento é controlada por um painel eletrônico principal, completo de IHM, que mostra todos os deslocamentos no interior da linha.
+                                </p>
+                                <p>
+                                Um painel auxiliar para as operações automáticas é posicionado na zona do desmoldador, permitindo ao operador de selecionar a linha da qual serão movimentados os bolos para a desmoldagem.
+                                </p>
+                                <p>
+                                O funcionamento manual da linha é controlado por botoeiras, posicionadas em frente ao painel principal.
+  Os carros de transferência com impulsores, levam a bordo todos os equipamentos necessários para estas operações, inclusive suas próprias centrais hidráulicas.
 
+                                </p>
+                                <p>
+                                As operações nas placas, nas partes fixadas pelo sistema, são executadas por dispositivos necessários para cada ponto, ou seja: Bloqueio das placas na linha , impulsor para enviar os bolos ao desmoldador etc.
+                                </p>
+                                <p>
+                                O funcionamento da linha de vazamento e resfriamento é muito simples, mas é dotado de um complexo sistema de controle eletrônico, para garantir uma elevada flexibilidade de funcionamento, de modo que cada sistema possa se movimentar exatamente como solicitado pelo operador.
+                                </p>
+                                <p>
+                                Quando o carro de transferência recebe um novo bolo , o carro se move ao longo da linha de vazamento. Contemporaneamente, o outro carro se desloca em direção à extremidade da mesma linha.
+                                </p>
+                                <p>
+                                Quando o carro estiver posicionado, os rolos motorizados movimentam a placa de vazamento em direção à extremidade do carro. O gancho  do impulsor se levanta, atrás da placa e os dispositivos laterais de bloqueio de destravam na extremidade de cada linha.
+                                </p>
+                                <p>
+                                O cilindro do impulsor se estende e empurra a linha completa de placas, que avançam de um passo, enquanto que os dispositivos laterais de bloqueio prendem as placas para mantê-las posicionadas na linha.
+                                </p>
+                                <p>
+                                A placa de vazamento, já com o bolo vazado e resfriado, sai na outra extremidade sobre o outro carro e se desloca em direção à posição dos roletes do carro. Depois, os 2 carros se dirigem em direção à linha de retorno, da qual é movimentado um outro bolo em direção ao desmoldador e o mesmo processo é repetido na sequência.
+                                </p>
+                                <p>
+                                Na linha do desmoldador é montado um impulsor hidráulico. Esta unidade empurra lateralmente o bolo, vazado e resfriado, em direção à um chute que direciona o bolo para o desmoldador e contemporaneamente efetua a limpeza da superfície superior da placa de vazamento com uma escova metálica. A placa já limpa e vazia, retorna para a linha e se desloca através do carro de transferência para a posição do transportador, sob a estação de acoplamento pronta para receber um novo bolo.
+                                </p>
+                                <p>
+                                O SISTEMA, CASO ASSIM PREVISTO, PERMITE A RECIRCULAÇÃO DE MOLDES, NO CASO EM QUE HAJA NECESSIDADE DE PRORROGAR O TEMPO DE RESFRIAMENTO OU AGUARDAR O VAZAMENTO DE ALGUMA LIGA ESPECIAL OU OUTRO MOTIVO  QUE SEJA EXIGIDO PELO PROCESSO.
+                                </p>
+                                
+                            </div>
 
                             <div class="feature-info-block">
                                 

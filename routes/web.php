@@ -91,6 +91,10 @@ Route::prefix('SistemaMoldagemVazamentoRefriamento')->group(function(){
         return view('site/produtos/SistemaPinturaLavagem');
     });
 
+    Route::get('MesasVibratorias',function(){
+        return view('site/produtos/MesasVibratorias');
+    });
+
 });
 
 Route::prefix('SistemaDesmoldagem')->group(function(){

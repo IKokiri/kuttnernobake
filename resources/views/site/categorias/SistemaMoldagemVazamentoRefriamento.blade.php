@@ -43,58 +43,49 @@
                                     - Com diferentes níveis de automação e Controle total da Produção desde a preparação da areia até a desmoldagem, com visualização em tela e com emissão de Relatórios
                                     </li>
                                 </ul>
-                            </div>
+
+                           
 
                             <div class="two-column">
                                 <div class="row clearfix">  
-                                    <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box">
+                                    <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="image-box text-center">
                                         <a href="/images/produtos/Sistema Moldagem g.jpeg" data-fancybox="gallery">
                                         <img src="/images/produtos/Sistema Moldagem p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
                                             
-                                            <!-- Service Block Two -->
-                                            <div class="service-block-two">
-                                                <div class="inner-box">
-                                                    <h3>Incluindo:</h3>
-                                                    <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
-                                                    <ul>
-                                                        <li>
-                                                        - Sistema de nivelador de enchimento da caixa automático
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Mesa vibratória de compactação
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Sistema de Pintura
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Sistema de secagem
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Preparação e colocação de Machos 
-                                                        </li>
-                                                         - Fechamento com Manipulador manual ou automático
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Sistema de Vazamento e Resfriamento com movimentação mecanizada dos moldes vazados até a Desmoldagem
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
+                            <h3>Incluindo:</h3>
 
+<ul>
+    <li>
+    - Sistema de nivelador de enchimento da caixa automático
+    </li>
+    <li>
+        - Mesa vibratória de compactação
+    </li>
+    <li>
+        - Sistema de Pintura
+    </li>
+    <li>
+        - Sistema de secagem
+    </li>
+    <li>
+        - Preparação e colocação de Machos 
+    </li>
+        - Fechamento com Manipulador manual ou automático
+    </li>
+    <li>
+        - Sistema de Vazamento e Resfriamento com movimentação mecanizada dos moldes vazados até a Desmoldagem
+    </li>
+</ul>
+</div>
                             <div class="feature-info-block">
                                 
                                 <div class="row clearfix">

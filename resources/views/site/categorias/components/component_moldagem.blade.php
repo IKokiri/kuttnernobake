@@ -5,5 +5,6 @@
                             <li><a href="/SistemaMoldagemVazamentoRefriamento/AreaVazamentoResfriamento#conteudoPrincipal">Área de vazamento - Resfriamento</a></li>
                             <li><a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes#conteudoPrincipal">Moldagem Carrocel 4 Estações</a></li>
                             <li><a href="/SistemaMoldagemVazamentoRefriamento/SistemaPinturaLavagem#conteudoPrincipal">Sistema de Pintura por Lavagem</a></li>
+                            <li><a href="/SistemaMoldagemVazamentoRefriamento/MesasVibratorias#conteudoPrincipal">Mesas Vibratórias</a></li>
                         </ul>
                     </div>

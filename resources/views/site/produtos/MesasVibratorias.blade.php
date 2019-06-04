@@ -23,9 +23,9 @@
                     <div class="services-single">
                         <div class="inner-box">
                             <div class="sec-title">
-                                <h2>Sistema de Pintura por Lavagem</h2>
+                                <h2>Mesas Vibratórias</h2>
                                 <div class="link-box">
-                                    <a href="/contato/kuttnernobake?produto=Orçamento - Sistema de Pintura por Lavagem#orcamentoContato">
+                                    <a href="/contato/kuttnernobake?produto=Orçamento - Mesas Vibratórias#orcamentoContato">
                                     <h3>
                                     Orçamento
                                     </h3>
@@ -34,15 +34,18 @@
                             </div>
                             <div class="text text-justify">
                                 <p>
-                                As estações de pintura KNBS pode ser utilizadas com todos os sistemas principais de pintura: lavagem, airless, spray e com todos os tipos de pintura normalmente utilizadas nas fundições, tanto à base de água como à base de álcool. A pintura em excesso é recolhida em cubas oportunamente projetadas, que ficam logo abaixo dos manipuladores que seguram e posicionam os moldes para este processo.
+                                As Mesas vibratórias KNBS possuem capacidade padrão de 0,25 a 50 toneldas de carga, sendo possivel trabalhar com capacidades diferentes, mediande projetos especiais.
+                                </p>
+                                <p>
+                                A compactação de moldes, caixas de machos ou de caixas de qualquer processo No-bake é obtida através do levantamento entre um rolete e o outro da parte vibratória da mesa, que entra em contato com a placa de suporte.
                                 </p>
                             </div>
 
                             <div class="two-column">
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box text-center"><a href="/images/produtos/Pintura por Lavagem g.jpeg" data-fancybox="gallery">
-                                        <img src="/images/produtos/Pintura por Lavagem p.jpeg" alt=""></a></div>
+                                        <div class="image-box text-center"><a href="/images/produtos/mesas vibratorias g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/produtos/mesas vibratorias p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
@@ -55,7 +58,30 @@
 
                             <div class="text text-justify">
                                 <p>
-                                Na pintura por lavagem uma bomba efetua a filtragem e recirculação da tinta. Uma bandeja corredição (opcional) permite reduzir ao mínimo a queda de areia na cuba durante as operações de limpeza do molde. Para as pinturas à base de álcool ou para a aplicação com spray, pode ser prevista uma coifa de aspiração para garantir condições de trabalho em conformidade com as normas de trabalho.
+                                Os vibradores geram uma vibração perfeitamente unidirecional, perpendicular ao plano vibratório cuja amplitude é regulável de 0 ao máximo com regulagem  manual da posição das massas rotativas e cujo tempo de vibração pode ser regulado manual ou automaticamente. Quando a máquina for utilizada individualmente, estas operações são feitas pelo operador por meio de um distribuidor comandado por alavanca ou pedal. O revestimento da superfície de contato com a placa de borracha especial antidesgaste permite manter o ruído baixo, dentro dos limites previstos por lei.
+                                </p>
+                                <p>
+                                Atuadores pneumáticos de alta eficiência isolam a parte vibratória do solo, impedindo a transmissão das vibrações à instalação.
+                                </p>
+
+                            </div>
+                            <div class="two-column">
+                                <div class="row clearfix">  
+                                    <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="image-box text-center"><a href="/images/produtos/mesas vibratorias2 g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/produtos/mesas vibratorias2 p.jpeg" alt=""></a></div>
+                                    </div>
+                                    <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="inner-column">
+                                         
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                <div class="text text-justify">
+                                <p>
+                                Estas mesas vibratórias permitem notável economia de aglomerante, enquanto a compactação aumenta as características mecânicas do molde. A mesa vibratória pode ser equipada com regulador automático de frequência que permite a variação da frequência da vibração permitindo adequar a compactação aos diferentes tipos e dimensões do molde assim como os tipos de aglomerantes utilizados.
                                 </p>
                             </div>
 
