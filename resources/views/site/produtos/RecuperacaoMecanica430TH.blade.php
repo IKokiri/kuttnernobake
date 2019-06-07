@@ -32,56 +32,31 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="text">
-                                <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
-                                Com melhores controles sobre a dosagem das areias, resinas, catalizadores e suas temperaturas, a mistura será de melhor qualidade e padronizada para todos os moldes.</p>
-                                <p>A maior eficiência na mistura otimiza a quantidade de resina utilizada, garante a qualidade da areia preparada com menor custo e redução de refugo de moldes ou 
-                                    peças defeituosas.</p>
+                            <div class="text text-justify">
+                                <p>Esta instalação para a regeneração mecânica da areia de fundição aproveita a ação de atrição entre os grãos para eliminar e reduzir a camada de resina que recobre os grãos efetuando 04 operações fundamentais, são elas:</p>
+                                <ul>
+                                <li>1.	Descascamento do grão;</li>
+                                <li>2.	Remoção do pó (finos);</li>
+                                <li>3.	Peneiramento final;</li>
+                                <li>4.	Resfriamento</li>
+                                </ul>
                             </div>
 
                             <div class="two-column">
                                 <div class="row clearfix">  
-                                    <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box"><a href="/images/produtos/Recuperacao Mecanica4th g.jpeg" data-fancybox="gallery">
+                                    <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="image-box text-center"><a href="/images/produtos/Recuperacao Mecanica4th g.jpeg" data-fancybox="gallery">
                                         <img src="/images/produtos/Recuperacao Mecanica4th p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
-                                            
-                                            <!-- Service Block Two -->
-                                            <div class="service-block-two">
-                                                <div class="inner-box">
-                                                    <h3>Misturadores com Capacidades de 3 a 100 t/hora, com:</h3>
-                                                    <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
-                                                    <ul>
-                                                        <li>
-                                                        - Movimentação e/ou giro manual ou motorizado do braço.
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Fixos de Braço simples ou Braço duplo para a Moldagem Manual ou Moldagem Fast-Loop
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Móveis de Braço simples ou Braço duplo
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com Carro Móvel, permitindo a moldagem de grandes caixas no solo ou em fossas, sem necessidade de movimentação das mesmas
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com esteiras para elevação da Areia até a entrada do mesmo em casos especiais de locais com baixa altura
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
+                            <div class="text text-justify">
+                                <p>Estas quatro operações começam no Shake-out (desmoldador) e são completadas em uma única torre vertical posta sob aspiração através de um filtro de mangas. As instalações de regeneração KNBS são aptas para o uso em todas as fundições com a finalidade de recuperar areias aglomeradas com todos os principais procedimentos químicos.</p>
+                            </div>
 
                             <div class="feature-info-block">
                                 

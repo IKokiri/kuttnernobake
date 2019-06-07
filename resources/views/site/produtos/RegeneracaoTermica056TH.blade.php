@@ -32,56 +32,56 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="text">
-                                <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
-                                Com melhores controles sobre a dosagem das areias, resinas, catalizadores e suas temperaturas, a mistura será de melhor qualidade e padronizada para todos os moldes.</p>
-                                <p>A maior eficiência na mistura otimiza a quantidade de resina utilizada, garante a qualidade da areia preparada com menor custo e redução de refugo de moldes ou 
-                                    peças defeituosas.</p>
+                              <!-- Service Block Two -->
+                              <div class="service-block-two">
+                                <div class="inner-box">
+                                    <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
+                                    <ul>
+                                        <li>
+                                            <h4 class="pull-right">- MÍNIMO CONSUMO E MANUTENÇÃO</h4>
+                                            <h4>- MÁXIMA SIMPLICIDADE E EFICIÊNCIA</h4>
+                                        </li>
+                                        <hr>
+                                        <li>
+                                            <h4 class="pull-right">- CONTROLE COMPLETO DO PROCESSO</h4>
+                                            <h4>- AREIA DE ALTA QUALIDADE</h4>
+                                        </li>
+                                        <hr>
+                                        <li class="text-center">
+                                        <h4>- AUSÊNCIA DE EMISSÕES PREJUDICIAIS</h4>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="text text-justify">
+                                <p>O equipamento foi projetado para a regeneração de areia de fundição, (normalmente areia de sílica ou zirconita), já recuperada mecanicamente e peneirada, procedente de processos  de resinas orgânicas, COLD-BOX, HOT-BOX, NO-BAKE, SHELL e outros aglomerados com resinas.</p>
+                                <p>A areia é aquecida diretamente com o gás do leito fluido através de um sistema patenteado de injetores, introduzindo no leito fluído uma mistura de gás e ar. Esta mistura queima no leito originando uma massa isotérmica de sólidos em suspensão no fluxo dos gases de combustão.</p>
+                                <p>Outra série de injetores permite a passagem de ar para a combustão e uma quantidade de oxigênio otimizada para a correta queima dos hidrocarbonetos existentes na areia contaminada.</p>
                             </div>
 
                             <div class="two-column">
                                 <div class="row clearfix">  
-                                    <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box"><a href="/images/produtos/Regeneracao Termica 056 g.jpeg" data-fancybox="gallery">
+                                    <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="image-box text-center"><a href="/images/produtos/Regeneracao Termica 056 g.jpeg" data-fancybox="gallery">
                                         <img src="/images/produtos/Regeneracao Termica 056 p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
-                                            
-                                            <!-- Service Block Two -->
-                                            <div class="service-block-two">
-                                                <div class="inner-box">
-                                                    <h3>Misturadores com Capacidades de 3 a 100 t/hora, com:</h3>
-                                                    <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
-                                                    <ul>
-                                                        <li>
-                                                        - Movimentação e/ou giro manual ou motorizado do braço.
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Fixos de Braço simples ou Braço duplo para a Moldagem Manual ou Moldagem Fast-Loop
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Móveis de Braço simples ou Braço duplo
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com Carro Móvel, permitindo a moldagem de grandes caixas no solo ou em fossas, sem necessidade de movimentação das mesmas
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com esteiras para elevação da Areia até a entrada do mesmo em casos especiais de locais com baixa altura
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
+                                        
 
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
+                            <div class="text text-justify">
+                                <p>A temperatura do leito fluido é controlada por um termopar de imersão, regulando o fluxo do gás e a alimentação da areia no leito fluido, dentro de limites preestabelecidos. A instalação inclui um sistema de segurança e controle do gás. Além disto, na base é instalado um sistema de monitoração que detecta  anomalias  ou irregularidades e, em caso de  ocorrência de qualquer alarme, interrompe o sistema de alimentação de gás.        Após esta interrupção o sistema somente pode ser reativado por pessoal autorizado.</p>
+                                <p>Em função das caraterísticas do sistema de leito fluido , não existem partes moveis na zona  sujeita à altas temperaturas. A areia é alimentada para o forno através de alimentador vibratório ou transportador helicoidal e segue  um percurso predeterminado por paredes de separação defletoras de modo a assegurar um tempo de permanência adequado para completar a recuperação da areia, na temperatura de trabalho exigida. (normalmente entre 700 e 900 ºC).</p>
+                                <p>Em função das caraterísticas do sistema de leito fluido , não existem partes moveis na zona  sujeita à altas temperaturas. A areia é alimentada para o forno através de alimentador vibratório ou transportador helicoidal e segue  um percurso predeterminado por paredes de separação defletoras de modo a assegurar um tempo de permanência adequado para completar a recuperação da areia, na temperatura de trabalho exigida. (normalmente entre 700 e 900 ºC).</p>
+                                <p>A aspiração de fumos e do ar é dosada com a finalidade de obter a classificação da areia, eliminando assim os finos e pó.</p>
+                                <p>A areia é resfriada até atingir uma temperatura idônea para ser transportada pneumaticamente, até chegar à um silo e ser reutilizada para a produção de machos e moldes.</p>
+                                <p>O equipamento possui capacidades de 0,5 a 8t/h.</p>
+                            </div>
 
                             <div class="feature-info-block">
                                 
