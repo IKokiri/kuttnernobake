@@ -32,56 +32,38 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="text">
-                                <p>Para o Processo No-Bake, o Misturador é o 	principal Equipamento de todo o Sistema de moldagem.
-                                Com melhores controles sobre a dosagem das areias, resinas, catalizadores e suas temperaturas, a mistura será de melhor qualidade e padronizada para todos os moldes.</p>
-                                <p>A maior eficiência na mistura otimiza a quantidade de resina utilizada, garante a qualidade da areia preparada com menor custo e redução de refugo de moldes ou 
-                                    peças defeituosas.</p>
+                            <div class="text text-justify">
+                                <p>Esses tipos de Jatos são adequados para tratamento de superfície de
+uma ampla gama de peças: estampados, forjados, fundição, caldeiraria, etc.
+O tratamento é feito com granalha de aço projetada  com altas  velocidades por meio de turbinas centrífugas especiais. 
+</p>
+<p>
+As peças a serem jateadas são penduradas individualmente, ou em forma de cacho, em um carro  montado no transportador tipo monovia, que se desloca automaticamente.
+</p>
+<p>
+O operador não é necessário permanecer ao lado  nem no interior da câmara de jateamento.
+</p>
                             </div>
 
                             <div class="two-column">
                                 <div class="row clearfix">  
-                                    <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box"><a href="/images/produtos/Jato Gancheira de passagem g.jpeg" data-fancybox="gallery">
+                                    <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="image-box text-center"><a href="/images/produtos/Jato Gancheira de passagem g.jpeg" data-fancybox="gallery">
                                         <img src="/images/produtos/Jato Gancheira de passagem p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
                                             
-                                            <!-- Service Block Two -->
-                                            <div class="service-block-two">
-                                                <div class="inner-box">
-                                                    <h3>Misturadores com Capacidades de 3 a 100 t/hora, com:</h3>
-                                                    <!-- <p>There anyone who loves or pursues or desires to obtain pain of itself circumstances.</p> -->
-                                                    <ul>
-                                                        <li>
-                                                        - Movimentação e/ou giro manual ou motorizado do braço.
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Fixos de Braço simples ou Braço duplo para a Moldagem Manual ou Moldagem Fast-Loop
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Modelos Móveis de Braço simples ou Braço duplo
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com Carro Móvel, permitindo a moldagem de grandes caixas no solo ou em fossas, sem necessidade de movimentação das mesmas
-                                                        </li>
-                                                        <hr>
-                                                        <li>
-                                                         - Misturadores com esteiras para elevação da Areia até a entrada do mesmo em casos especiais de locais com baixa altura
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
+                                           
 
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
+                            <div class="text text-justify">
+                                <p>Durante a projeção da granalha , as gancheiras  são  mantidas em rotação constante e automaticamente a rotação do gancho é revertida para otimizar a exposição de todas as superfícies e deste modo assegurar a uniformidade do  jateamento. Após o tratamento o  transportador  leva o conjunto  para fora da câmara pelo lado oposto da entrada de peças, uma vez que existe uma monovia onde o carro que suporta o gancho é apoiado e está monovia esta disposta em um circuito fechado, possibilitando o giro continuo de transporte de peças a serem jateadas e jateadas.
+</p>
+                            </div>
 
                             <div class="feature-info-block">
                                 
