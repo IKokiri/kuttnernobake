@@ -16,7 +16,7 @@
                     </div>
                     <!--Contact Form-->
                     <div class="contact-form style-two">
-                    <form method="post" action="sendemail">
+                    <div method="post" action="sendemail">
                     
                             <div class="row clearfix">
                             <div class="column col-md-12 col-sm-12 col-xs-12">
@@ -55,12 +55,15 @@
                                     </div>
                             
                             <div class="form-group">
-                                <button type="submit" class="theme-btn">Enviar</button>
+                                <button type="submit" id='enviarEmail' class="theme-btn">Enviar</button>
                             </div>
-                        </form>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+<script>
+
+</script>
