@@ -45,8 +45,47 @@ function adicionar_email(){
         alert(result.responseJSON.errors['email']);
     })
 
+   
 }
+$(document).on("click","#enviarEmail",function(){
 
+    assunto = $("#assunto").val();
+    nome = $("#nome").val();
+    telefone = $("#telefone").val();
+    email = $("#email").val();
+    empresa = $("#empresa").val();
+    mensagem = $("#mensagem").val();
+
+    if(assunto == "" || nome == "" || telefone == "" || email == ""  || empresa == "" || mensagem == ""){
+            $("#msgMail").html("Preencha todos os campos.");
+
+            $("#msgMail").removeClass("alert-success")
+            $("#msgMail").addClass("alert-danger")
+            $("#msgMail").removeClass("hidden")
+            return false;
+    }
+
+    dados={
+        "assunto":assunto,
+        "nome":nome,
+        "telefone":telefone,
+        "email":email,
+        "empresa":empresa,
+        "mensagem":mensagem
+    }
+
+    $.post("/api/contato/orcamento", dados, function(result){
+        if(result == "200"){
+            $("#msgMail").html("Envio efetuado com sucesso, em breve entraremos em contato");
+            $("#msgMail").removeClass("alert-danger")
+            $("#msgMail").addClass("alert-success")
+            $("#msgMail").removeClass("hidden")
+            
+        }
+    }).fail(function(result) {
+        
+    })
+})
 
 </script>
 </html>

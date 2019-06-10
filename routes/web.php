@@ -195,7 +195,6 @@ Route::get('contato/grupokuttner', function () {
     return view('site/contatokgb');
 });
 
-Route::get('contato/orcamento','OrcamentoController@ship');
 
 
 Route::middleware('auth')->group(function(){

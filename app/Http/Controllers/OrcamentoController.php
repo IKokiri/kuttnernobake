@@ -18,12 +18,32 @@ class OrcamentoController extends Controller
      * @return Response
      */
     // public function ship(Request $request, $orderId)
-    public function ship()
+    public function ship(Request $request)
     {
-        // $order = Order::findOrFail($orderId);
 
-        // Ship order...
+        $assunto = $request->input('assunto');
+        $nome = $request->input('nome');
+        $telefone = $request->input('telefone');
+        $email = $request->input('email');
+        $empresa = $request->input('empresa');
+        $mensagem = $request->input('mensagem');
 
-        // Mail::to('luiz.mendes@outlook.com')->send(new Orcamento());
+        $dados = [
+            "assunto"=>$assunto,
+            "nome"=>$nome,
+            "telefone"=>$telefone,
+            "email"=>$email,
+            "empresa"=>$empresa,
+            "mensagem"=>$mensagem
+        ];
+
+
+        Mail::send('mails.mail', $dados, function($message) {
+        $message->to('contatosite@kuttner-nbs.com.br', 'Cliente')
+                ->subject("Contato Site Kuttner No Bake Solutions");
+        $message->from('contatosite@kuttner-nbs.com.br','KNBS');
+        });
+
+        return response(200);
     }
 }

@@ -25,3 +25,5 @@ Route::get('/infoNewsletter',"NewsLetter@info");
 Route::get('/admin/categoria',"CategoryController@getAll");
 Route::get('/admin/produtos',"ProductController@getAll");
 Route::get('/admin/clientes',"ClientController@getAll");
+
+Route::post('/contato/orcamento','OrcamentoController@ship');
