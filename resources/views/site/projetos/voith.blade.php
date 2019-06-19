@@ -52,28 +52,40 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <th scope="row">Tipo de moldagem </th>
-                                    <td>Manual</td>
+                                    <th scope="row">Tipo de Moldagem </th>
+                                    <td>NO-BAKE</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Dimensões max moldes </th>
-                                    <td>7000 x 5200 x 2250/2250mm</td>
+                                    <th scope="row">Dimensões do Palete </th>
+                                    <td>5400 x 7200 mm ( Guia 6000 mm )</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Produção teorica (moldes /hora) </th>
-                                    <td>0,5</td>
+                                    <th scope="row">Dimensões - máx Moldes</th>
+                                    <td>5200 x 7000 x 2000/2000mm</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Dimensões das placas  </th>
-                                    <td>7200 x 5400mm</td>
+                                    <th scope="row">Mesa Vibratória</th>
+                                    <td>50 Ton</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Pintura  </th>
-                                    <td>Manual</td>
+                                    <th scope="row">Tipo de tinta  </th>
+                                    <td>Zirconita</td>
                                 </tr>
+                            </tbody>
+                            </table>
+
+
+                            <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                <th scope="col">Moldes Pintados / Montagem</th>
+                                <th scope="col"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
                                 <tr>
                                     <th scope="row">Fechamento dos moldes  </th>
-                                    <td>Ponte rolante</td>
+                                    <td>Montagem Manual</td>
                                 </tr>
                             </tbody>
                             </table>
@@ -86,10 +98,12 @@
                         <div class="inner-column">
                             <ul>
                                 <li><h4>Dados Gerais:</h4></li>
-                                <li><span>Metal: </span>Aço/Ferro</li>
-                                <li><span>Tipos de peças: </span>Componentes para geradores eólicos e Turbinas</li>
-                                <li><span>Tipo de resina: </span>Furânica</li>                                
-                                <li><span>Misturador:</span>Duplo 100ton/h (Silíca) + 10ton/h (Cromita)</li>  
+                                <li><span>Metal: </span>Ferro Fundido | Aço</li>
+                                <li><span>Tipos de peças:</span>Componentes de Hidroelétricas</li>
+                                <li><span>Tipo di resina: </span>Fenólica Uretânica</li>                                
+                                <li><span>Misturador:</span>: MK DUAL /100-10(100 E 10 Ton/hora)</li>  
+                                <li><span>Rendimento Metalúrgico: </span>70%</li>     
+                                <li><span>Capacidade de Produção 1ª fase:</span>2000 Toneladas/mês Metal liquido</li>     
                             </ul>
                         </div>
                     </div>

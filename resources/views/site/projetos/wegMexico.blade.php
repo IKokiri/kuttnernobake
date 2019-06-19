@@ -53,28 +53,133 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <th scope="row">Dimensão da Placa de Moldagem</th>
-                                    <td>1400 x 1800 mm</td>
+                                    <th scope="row">Tipo de Moldagem</th>
+                                    <td>NO-BAKE</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Dimensão da Placa de Montagem</th>
-                                    <td>1200 x 1200 mm</td>
+                                    <th scope="row">Dimensões do Palete</th>
+                                    <td>1400 x 1800 mm ( Guia 1000 mm )</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Dimensão da Placa de Vazamento</th>
+                                    <th scope="row">Dimensões - máx Moldes  </th>
+                                    <td>1200 x 1600 x 600/600mm</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Dimensões - min Moldes  </th>
+                                    <td>600 x 600 x 200/200 mm</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Mesa Vibratória</th>
+                                    <td>4 Ton</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Produção teorica (Ciclos / hora) </th>
+                                    <td>50 Ciclos/hora</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Ciclo teórico (seg.) </th>
+                                    <td>72 seg</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Numero placas de moldagem  </th>
+                                    <td>16 </td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">ROLLOVER</th>
+                                    <td>RB 2750 (com extrator hidráulico)</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Tunel de  pre-secagem  </th>
+                                    <td>4.000 - Gás / Infravermelho</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Pintura  </th>
+                                    <td>SV 14 / 18 – Com giro ortogonal / Pinça regulável </td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Tipo de tinta  </th>
+                                    <td>Zirconita</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Tunel de secagem  dos moldes  </th>
+                                    <td>15.000 – Gás</td>
+                                </tr>
+                            </tbody>
+                            </table>
+
+                            <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                <th scope="col">Moldes não Pintados</th>
+                                <th scope="col"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">Fechamento dos moldes  </th>
+                                    <td>Acoplador  Automático MA1600</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Manutenção da Linha</th>
+                                    <td>Manipulador Manual MM1400 – 3.000 Kg</td>
+                                </tr>
+                            </tbody>
+                            </table>
+
+                            <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                <th scope="col">Moldes Pintados / Montagem</th>
+                                <th scope="col"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">Fechamento dos moldes  </th>
+                                    <td>Montagem Manual - Mesa Giratória</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Troca de Paletes</th>
+                                    <td>Manipulador 5.000 Kg</td>
+                                </tr>
+                            </tbody>
+                            </table>
+
+                            <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                <th scope="col">Vazamento</th>
+                                <th scope="col"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">Numero placas de vazamento  </th>
+                                    <td>75</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Dim. Placas de vazamento</th>
                                     <td>1400 x 1600 mm</td>
                                 </tr>
+                            </tbody>
+                            </table>
+
+
+                            <table class="table table-striped">
+                            <thead>
                                 <tr>
-                                    <th scope="row">Volume Máximo de Areia por Ciclo na Moldagem</th>
-                                    <td>600 kg</td>
+                                <th scope="col">Desmoldagem e Recuperação  </th>
+                                <th scope="col"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">Shake-out com pré-regenerador </th>
+                                    <td>3.000 x 4.000 mm</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Volume Médio de Areia na Desmoldagem</th>
-                                    <td>12.100 kg</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">Tempo de Secagem</th>
-                                    <td>20 minutos</td>
+                                    <th scope="row">Capacidade da recuperação mecanica </th>
+                                    <td>20 Ton/hora</td>
                                 </tr>
                             </tbody>
                             </table>
@@ -86,10 +191,12 @@
                         <div class="inner-column">
                             <ul>
                                 <li><h4>Dados Gerais:</h4></li>
-                                <li><span>Metal: </span>Aço</li>
-                                <li><span>Tipos de peças: </span>Componentes automotivos</li>
-                                <li><span>Tipo de resina: </span>Fenólica Uretânica</li>                                
-                                <li><span>Misturador:</span>30 ton/hora</li>  
+                                <li><span>Metal: </span>Ferro Fundido cinzento (FC-200)</li>
+                                <li><span>Tipos de peças: </span>Componentes de Motores Elétricos </li>
+                                <li><span>Tipo di resina: </span>Fenólica Uretânica</li>                                
+                                <li><span>Misturador:</span>MK/50(50 Ton/hora)</li>                                
+                                <li><span>Rendimento Metalúrgico:</span>80%</li>                                
+                                <li><span>Capacidade de Produção 1ª fase:</span>4000 Toneladas/mês Metal liquido</li>  
                             </ul>
                         </div>
                     </div>

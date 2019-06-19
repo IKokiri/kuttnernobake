@@ -67,55 +67,77 @@
                             <tbody>
                                 <tr>
                                     <th scope="row">Tipo de moldagem </th>
-                                    <td>NO-BAKE COM CARROSEL C4</td>
+                                    <td>Carrossel C4 NO-BAKE</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Dimensões max moldes </th>
+                                    <th scope="row">Dimensões - máx Moldes</th>
                                     <td>600 x 800 x 300/300mm</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Dimensões  min moldes</th>
-                                    <td>300 x 400 x 100/100 mm</td>
+                                    <th scope="row">Dimensões - min Moldes  </th>
+                                    <td>300 x 400 x 100/100mm</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Produção teorica (moldes /hora) </th>
-                                    <td>30</td>
+                                    <th scope="row">Mesa Vibratória</th>
+                                    <td>0,5 Ton</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Ciclo teorico (seg.)</th>
-                                    <td>36 seg</td>
+                                    <th scope="row">Produção teorica (Ciclos / hora) </th>
+                                    <td>25 Ciclos/hora</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Numero placas de moldagem  </th>
+                                    <th scope="row">Ciclo teórico (seg.) </th>
+                                    <td>144 seg</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Numero placas de moldagem</th>
                                     <td>04</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Dimensões das placas  </th>
-                                    <td>900 x 900 mm  (com extratores )</td>
+                                    <th scope="row">ROLLOVER</th>
+                                    <td>C4 </td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">ROLL –OVER </th>
-                                    <td>Mesa basculante</td>
+                                    <th scope="row">Pintura </th>
+                                    <td>SV</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Pintura  </th>
-                                    <td>Com braços basculantes</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">Tipo de tinta  </th>
+                                    <th scope="row">Tipo de tinta</th>
                                     <td>Zirconita</td>
                                 </tr>
+                            </tbody>
+                        </table>
+
+                        <table class="table table-striped">
+                            <thead>
                                 <tr>
-                                    <th scope="row">Fechamento dos moldes  </th>
-                                    <td>Manipulador  Manual ML1000</td>
+                                <th scope="col">Moldes Pintados / Montagem</th>
+                                <th scope="col"></th>
                                 </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">Fechamento dos moldes</th>
+                                    <td>Montagem Manual</td>
+                                </tr>
+                            </tbody>
+                        </table>
+
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                <th scope="col">Vazamento</th>
+                                <th scope="col"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
                                 <tr>
                                     <th scope="row">Numero placas de vazamento  </th>
-                                    <td>124</td>
+                                    <td>85</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Dim. Placas de vazamento  </th>
-                                    <td>800 x 1000 mm</td>
+                                    <th scope="row">Dim. Placas de vazamento</th>
+                                    <td>900 x 1100 mm</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -129,12 +151,12 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <th scope="row">Desmoldador com pre-regenerador</th>
-                                    <td>1600 x 2.000mm</td>
+                                    <th scope="row">Shake-out com pré-regenerador</th>
+                                    <td>1600 x 2000 mm</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Capacidade da recuperação mecanica </th>
-                                    <td>12 ton/hora</td>
+                                    <td>12 Ton/hora</td>
                                 </tr>
                                 
                             </tbody>
@@ -148,10 +170,12 @@
                         <div class="inner-column">
                             <ul>
                                 <li><h4>Dados Gerais:</h4></li>
-                                <li><span>Metal: </span>Aço/Ferro</li>
+                                <li><span>Metal: </span>Ferro Fundido/Aço</li>
                                 <li><span>Tipos de peças: </span>Componentes automotivos</li>
                                 <li><span>Tipo de resina: </span>Fenólica Uretânica</li>                                
-                                <li><span>Misturador:</span>20 ton/hora</li>  
+                                <li><span>Misturador:</span>MK/20(20 Ton/hora)</li>  
+                                <li><span>Rendimento Metalúrgico:</span>80%</li>  
+                                <li><span>Capacidade de Produção 1ª fase:</span>1000 Toneladas/mês Metal liquido</li>  
                             </ul>
                         </div>
                     </div>

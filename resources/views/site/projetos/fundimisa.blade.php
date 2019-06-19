@@ -51,47 +51,77 @@
                             <tbody>
                                 <tr>
                                     <th scope="row">Tipo de moldagem </th>
-                                    <td>NO-BAKE FAST-LOOP</td>
+                                    <td>NO-BAKE</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Dimensões max moldes </th>
-                                    <td>1400 x 2200 x 550/550mm</td>
+                                    <th scope="row">Dimensões do Palete</th>
+                                    <td>1600 x 2400 mm ( Guia 1400 mm )</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Dimensões  min moldes</th>
-                                    <td>600 x 800 x 200/200mm</td>
+                                    <th scope="row">Dimensões - máx Moldes</th>
+                                    <td>1400 x 2200 x 600/600mm</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Produção teorica (moldes /hora) </th>
-                                    <td>10</td>
+                                    <th scope="row">Dimensões - min Moldes</th>
+                                    <td>700 x 700 x 200/200 mm</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Mesa Vibratória</th>
+                                    <td>6 Ton</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Produção teorica (Ciclos / hora) </th>
+                                    <td>20 Ciclos/hora</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Ciclo teórico (seg.) </th>
+                                    <td>180 seg</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Numero placas de moldagem  </th>
-                                    <td>08</td>
+                                    <td>12 </td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">Dimensões das placas  </th>
-                                    <td>1600 x 2400mm</td>
-                                </tr>
-                                <tr>
-                                    <th scope="row">ROLL –OVER </th>
-                                    <td>RB2750</td>
+                                    <th scope="row">ROLLOVER  </th>
+                                    <td>RB 2750 </td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Pintura  </th>
-                                    <td>Esteira basculante</td>
+                                    <td>SV 14 Pinça regulável </td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Tipo de tinta  </th>
                                     <td>Zirconita</td>
                                 </tr>
+                            </tbody>
+                        </table>
+
+                        <table class="table table-striped">
+                            <thead>
                                 <tr>
-                                    <th scope="row">Fechamento dos moldes  </th>
-                                    <td>Manipulador  Manual MM1600</td>
+                                <th scope="col">Moldes Pintados / Montagem</th>
+                                <th scope="col"></th>
                                 </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">Fechamento dos moldes </th>
+                                    <td>Montagem Manual</td>
+                                </tr>
+                            </tbody>
+                        </table>
+
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                <th scope="col">Vazamento</th>
+                                <th scope="col"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
                                 <tr>
                                     <th scope="row">Numero placas de vazamento  </th>
-                                    <td>124</td>
+                                    <td>77</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Dim. Placas de vazamento  </th>
@@ -100,6 +130,24 @@
                             </tbody>
                         </table>
 
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                <th scope="col">Desmoldagem e Recuperação  </th>
+                                <th scope="col"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">Shake-out com pré-regenerador</th>
+                                    <td>2500 x 3600 mm</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Capacidade da recuperação mecanica </th>
+                                    <td>20 Ton/hora</td>
+                                </tr>
+                            </tbody>
+                        </table>
                         <!-- </div> -->
                     </div>
 
@@ -108,10 +156,12 @@
                         <div class="inner-column">
                             <ul>
                                 <li><h4>Dados Gerais:</h4></li>
-                                <li><span>Metal: </span>Ferro</li>
-                                <li><span>Tipos de peças: </span>Componentes agricolas</li>
-                                <li><span>Tipo de resina: </span>Fenólica Uretânica</li>                                
-                                <li><span>Misturador:</span>50 ton/hora</li>  
+                                <li><span>Metal: </span>Ferro Fundido</li>
+                                <li><span>Tipos de peças: </span>Componentes gerais</li>
+                                <li><span>Tipo di resina: </span>Fenólica Uretânica</li>                                
+                                <li><span>Misturador:</span>MK/50(50 Ton/hora)</li>  
+                                <li><span>Rendimento Metalúrgico:</span>70%</li>                                 
+                                <li><span>Capacidade de Produção 1ª fase:</span>4000 Toneladas/mês Metal liquido</li>
                             </ul>
                         </div>
                     </div>
