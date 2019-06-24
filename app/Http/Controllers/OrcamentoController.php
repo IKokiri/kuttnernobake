@@ -39,9 +39,9 @@ class OrcamentoController extends Controller
 
 
         Mail::send('mails.mail', $dados, function($message) {
-        $message->to('contatosite@kuttner-nbs.com.br', 'Cliente')
+        $message->to('info@kuttner-nbs.com.br', 'Cliente')
                 ->subject("Contato Site Kuttner No Bake Solutions");
-        $message->from('contatosite@kuttner-nbs.com.br','KNBS');
+        $message->from('info@kuttner-nbs.com.br','KNBS');
         });
 
         return response(200);
