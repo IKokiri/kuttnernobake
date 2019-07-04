@@ -18,3 +18,5 @@
     <script src="http://maps.google.com/maps/api/js?key=AIzaSyBUkoTXt1bL6oLyPUFFdVQXVlJpxbW-jWQ"></script>
     <script src="/js_site/map-script.js"></script>
     <!--End Google Map APi-->
+    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->

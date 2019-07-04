@@ -38,23 +38,6 @@
                     <div class="services-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure><img src="images/sisequip/misturador movel 2.jpeg" alt=""></figure>
-                                <div class="overlay-box">
-                                    <div class="btn-box">
-                                        <a href="/Misturadores/MisturadorMovel"><i class="icon arrow-top-right"></i>Saber mais</a>
-                                    </div>
-                                </div>
-                                <div class="title">
-                                    <h3>Misturador móvel</h3> <i class="icon flaticon-user-1"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Services Block -->
-                    <div class="services-block">
-                        <div class="inner-box">
-                            <div class="image-box">
                                 <figure><img src="images/sisequip/fast loop.jpeg" alt=""></figure>
                                 <div class="overlay-box">
                                     <div class="btn-box">
@@ -63,40 +46,6 @@
                                 </div>
                                 <div class="title">
                                     <h3>Fast Lopp</h3> <i class="icon flaticon-user-1"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                     <!-- Services Block -->
-                     <div class="services-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure><img src="images/sisequip/rollover.jpeg" alt=""></figure>
-                                <div class="overlay-box">
-                                    <div class="btn-box">
-                                        <a href="/SistemaMoldagemVazamentoRefriamento/Rollover"><i class="icon arrow-top-right"></i>Saber mais</a>
-                                    </div>
-                                </div>
-                                <div class="title">
-                                    <h3>Rollover</h3> <i class="icon flaticon-user-1"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                     <!-- Services Block -->
-                     <div class="services-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure><img src="images/sisequip/moldagem carrocel 4 estacoes.jpeg" alt=""></figure>
-                                <div class="overlay-box">
-                                    <div class="btn-box">
-                                        <a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes"><i class="icon arrow-top-right"></i>Saber mais</a>
-                                    </div>
-                                </div>
-                                <div class="title">
-                                    <h3>Moldagem Carrocel 4 estações</h3> <i class="icon flaticon-user-1"></i>
                                 </div>
                             </div>
                         </div>
@@ -136,23 +85,6 @@
                         </div>
                     </div>
                 
-                    <!-- Services Block -->
-                    <div class="services-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure><img src="images/sisequip/Regeneração termica 05 a 6 t h.jpeg" alt=""></figure>
-                                <div class="overlay-box">
-                                    <div class="btn-box">
-                                        <a href="/RecuperacaoMecanicaRegeneracaoTermica/RegeneracaoTermica056TH"><i class="icon arrow-top-right"></i>Saber mais</a>
-                                    </div>
-                                </div>
-                                <div class="title">
-                                    <h3>Regeneração Térmica </h3><i class="icon flaticon-user-1"></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                     <!-- Services Block -->
                     <div class="services-block">
                         <div class="inner-box">

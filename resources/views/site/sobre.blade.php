@@ -204,42 +204,42 @@
                 <!-- Industry Block -->
                 <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="/images/instalacoes/fabrica 1.jpg"
+                        <div class="image"><a href="produtos"><img src="/images/instalacoes/fabrica 1.jpg"
                                     alt=""></a></div>
                     </div>
                     <!-- <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
                         <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
                         <div class="text">Misturador Braço Simples</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                        <div class="link-box"><a href="produtos"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div> -->
                 </div>
 
                 <!-- Industry Block -->
                 <div class="industry-block bg-gray">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="/images/instalacoes/fabrica 2.jpg"
+                        <div class="image"><a href="produtos"><img src="/images/instalacoes/fabrica 2.jpg"
                                     alt=""></a></div>
                     </div>
                     <!-- <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
                         <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
                         <div class="text">Misturador Braço Duplo</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                        <div class="link-box"><a href="produtos"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div> -->
                 </div>
 
                 <!-- Industry Block -->
                 <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="/images/instalacoes/fabrica 3.jpg"
+                        <div class="image"><a href="produtos"><img src="/images/instalacoes/fabrica 3.jpg"
                                     alt=""></a></div>
                     </div>
                     <!-- <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
                         <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
                         <div class="text">Misturador Móvel</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                        <div class="link-box"><a href="produtos"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div> -->
                 </div>
             </div>
@@ -256,127 +256,45 @@
                 <!-- Industry Block -->
                 <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/misturador braco simples.jpeg"
+                        <div class="image"><a href="produtos"><img src="images/sisequip/misturador braco simples.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
                         <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
                         <div class="text">Misturador Braço Simples</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                        <div class="link-box"><a href="produtos"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
                 </div>
 
-                <!-- Industry Block -->
-                <div class="industry-block bg-gray">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/misturador braco duplo.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
-                        <div class="text">Misturador Braço Duplo</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-                <!-- Industry Block -->
-                <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/misturador movel 1.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/Misturadores">MISTURADORES</a></h3>
-                        <div class="text">Misturador Móvel</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
 
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/fast loop.jpeg"
+                        <div class="image"><a href="produtos"><img src="images/sisequip/fast loop.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
                         <h3><a href="/produtos/SistemaMoldagemVazamentoRefriamento">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
                         <div class="text">Fast Loop</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                        <div class="link-box"><a href="produtos"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
                 </div>
 
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/rollover.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/SistemaMoldagemVazamentoRefriamento">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
-                        <div class="text">Rollover</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-                
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/area de vazamento resfriamento.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/SistemaMoldagemVazamentoRefriamento">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
-                        <div class="text">Área de vazamento - Resfriamento</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
 
 
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/moldagem carrocel 4 estacoes.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/SistemaMoldagemVazamentoRefriamento">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
-                        <div class="text">Moldagem Carrocel 4 Estações</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/sistema de pintura por lavagem.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/SistemaMoldagemVazamentoRefriamento">SISTEMA DE MOLDAGEM - VAZAMENTO - RESFRIAMENTO</a></h3>
-                        <div class="text">Sistema de Pintura por Lavagem</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/desmoldagem shake out.jpeg"
+                        <div class="image"><a href="produtos"><img src="images/sisequip/desmoldagem shake out.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
                         <h3><a href="/produtos/SistemaDesmoldagem">SISTEMA DE DESMOLDAGEM</a></h3>
                         <div class="text">Shake-Out</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                        <div class="link-box"><a href="produtos"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
                 </div>
 
@@ -384,91 +302,28 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/pre resfriador.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/SistemaDesmoldagem">SISTEMA DE DESMOLDAGEM</a></h3>
-                        <div class="text">Pré-Resfriador</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/transporte pneumatico.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/SistemaDesmoldagem">SISTEMA DE DESMOLDAGEM</a></h3>
-                        <div class="text">Transporte Pneumático</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-
-
-
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/recuperação mecanica - 4 t h.jpeg"
+                        <div class="image"><a href="produtos"><img src="images/sisequip/recuperação mecanica - 4 t h.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
                         <h3><a href="/produtos/RecuperacaoMecanicaRegeneracaoTermica">RECUPERAÇÃO E REGENERAÇÃO DE AREIA</a></h3>
                         <div class="text">Recuperação Mecânica - 4 T/H</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                        <div class="link-box"><a href="produtos"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
                 </div>
 
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/recuperação mecanica - 6 30 t h.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/RecuperacaoMecanicaRegeneracaoTermica">RECUPERAÇÃO E REGENERAÇÃO DE AREIA</a></h3>
-                        <div class="text">Recuperação Mecânica - 6 a 30 T/H</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/Regeneração termica 05 a 6 t h.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/RecuperacaoMecanicaRegeneracaoTermica">RECUPERAÇÃO E REGENERAÇÃO DE AREIA</a></h3>
-                        <div class="text">Regeneração Térmica - 0,5 a 6 T/H</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jato de passagem continua.jpeg"
+                        <div class="image"><a href="produtos"><img src="images/sisequip/jato de passagem continua.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
                         <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
                         <div class="text">Jato de Passagem Contínua</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                        <div class="link-box"><a href="produtos"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
                 </div>
 
@@ -477,93 +332,14 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jato gancheira de passagem.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
-                        <div class="text">Jato Gancheira de Passagem</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jato com gancheira tipo y.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
-                        <div class="text">Jato com Gancheira tipo Y</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jateamento de bobinas.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
-                        <div class="text">Jateamento de Bobinas</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-
-
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jato mesa giratoria.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
-                        <div class="text">Jato Mesa Giratória</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/jato por tamboreamento.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/MaquinasJatoGranalha">MÁQUINAS JATO DE GRANALHA</a></h3>
-                        <div class="text">Jato por Tamboreamento</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/preparação de carga metálica e adtivos.jpeg"
+                        <div class="image"><a href="produtos"><img src="images/sisequip/preparação de carga metálica e adtivos.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
                         <h3><a href="/produtos/PreparacaoCargaCarregamentoForno">PREPARAÇÃO DE CARGA</a></h3>
                         <div class="text">Preparação de Carga Metálica e Aditivos</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                        <div class="link-box"><a href="produtos"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
                 </div>
 
@@ -571,29 +347,14 @@
                  <!-- Industry Block -->
                  <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/ponte rolante com canguru e carro de carregamento.jpeg"
-                                    alt=""></a></div>
-                    </div>
-                    <div class="lower-content">
-                        <div class="icon-box"><span class="icon flaticon-gear"></span></div>
-                        <h3><a href="/produtos/PreparacaoCargaCarregamentoForno">PREPARAÇÃO DE CARGA</a></h3>
-                        <div class="text">Ponte Rolante com Canguru e Carro de Carregamento</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
-                    </div>
-                </div>
-
-
-                 <!-- Industry Block -->
-                 <div class="industry-block">
-                    <div class="image-box">
-                        <div class="image"><a href="produto"><img src="images/sisequip/filtros para todos os processos de fundição.jpeg"
+                        <div class="image"><a href="produtos"><img src="images/sisequip/filtros para todos os processos de fundição.jpeg"
                                     alt=""></a></div>
                     </div>
                     <div class="lower-content">
                         <div class="icon-box"><span class="icon flaticon-gear"></span></div>
                         <h3><a href="/produtos/DespoeiramentoLimpezaGases">DESPOEIRAMENTO E LIMPEZA DE GASES</a></h3>
                         <div class="text">Filtros para Todos os Processos de Fundição</div>
-                        <div class="link-box"><a href="produto"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
+                        <div class="link-box"><a href="produtos"><i class="fa fa-hand-o-right"></i>Saber Mais</a></div>
                     </div>
                 </div>
 
