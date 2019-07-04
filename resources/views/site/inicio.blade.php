@@ -195,21 +195,21 @@
                             <!-- About Block -->
                             <div class="about-block">
                                 <div class="inner-box">
-                                    <img src="/images/instalacoes/fabrica 1.jpg" alt="" srcset="">
+                                    <img src="/images/instalacoes/fabrica 1.jpeg" alt="" srcset="">
                                 </div>
                             </div>
 
                             <!-- About Block -->
                             <div class="about-block">
                                 <div class="inner-box">
-                                <img src="/images/instalacoes/fabrica 2.jpg" alt="" srcset="">
+                                <img src="/images/instalacoes/fabrica 2.jpeg" alt="" srcset="">
                                 </div>
                             </div>
 
                             <!-- About Block -->
                             <div class="about-block">
                                 <div class="inner-box">
-                                <img src="/images/instalacoes/fabrica 3.jpg" alt="" srcset="">
+                                <img src="/images/instalacoes/fabrica 3.jpeg" alt="" srcset="">
                                 </div>
                             </div>
                         </div>
