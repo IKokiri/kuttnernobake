@@ -104,8 +104,6 @@
 
                 </div>
             </div>
-                
-              
                 <!-- info box -->
                 <div class="info-box">
                     <h3>Entre em contato</h3>
@@ -124,18 +122,14 @@
                                 <h2>Kuttner No-Bake Solutions</h2>
                                 <h5>NOVA DENOMINAÇÃO DA IMF BRASIL</h5>
                             </div>
-
-
                             <div class="text">Com esta aquisição, o Grupo Kuttner consolida a sua 
                                 base tecnológica em Instalações e Plantas Completas de Fundições, 
                                 aliando em seu portofólio o Know How e a competência de muitos anos 
                                 da IMF Brasil em equipamentos e linhas de moldagem “No-Bake” com a sua
                                  linha tradicional de soluções para fundição.
-                            </div>
-                            
+                            </div>                            
                         </div>
                     </div>
-
                     <!-- Video Column -->
                     <div class="video-column col-md-6 col-sm-12 col-xs-12">
                         <div class="inner-column">
@@ -232,8 +226,11 @@
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="image-box">
-                                <figure><a href="/images/projetos/suporte rei.jpeg" class="ligtbox-image" data-fancybox="gallery"><img
-                                            src="/images/projetos/suporte rei.jpeg" alt=""></a></figure>
+                                <figure>
+                                    <a href="/projeto/suporteRei">
+                                    <img src="/images/projetos/suporte rei.jpeg" alt="">
+                                    </a>
+                                </figure>
                                 <div class="title-box">
                                     <h3><a href="/projeto/suporteRei">SUPORTE REI</a></h3>
                                     <span class="tag">MOLDES PEQUENOS</span>
@@ -244,7 +241,7 @@
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="image-box">
-                                <figure><a href="/images/projetos/fundimisa G.jpeg" class="ligtbox-image" data-fancybox="gallery"><img
+                                <figure><a href="/projeto/fundimisa"><img
                                             src="/images/projetos/fundimisa.jpeg" alt=""></a></figure>
                                 <div class="title-box">
                                     <h3><a href="/projeto/fundimisa">FUNDIMISA</a></h3>
@@ -256,7 +253,7 @@
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="image-box">
-                                <figure><a href="/images/projetos/basso G.jpeg" class="ligtbox-image" data-fancybox="gallery"><img
+                                <figure><a href="/projeto/basso"><img
                                             src="/images/projetos/basso.jpeg" alt=""></a></figure>
                                 <div class="title-box">
                                     <h3><a href="/projeto/basso">BASSO</a></h3>
@@ -267,7 +264,7 @@
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="image-box">
-                                <figure><a href="/images/projetos/voith G.jpeg" class="ligtbox-image" data-fancybox="gallery"><img
+                                <figure><a href="/projeto/voith"><img
                                             src="/images/projetos/voith.jpeg" alt=""></a></figure>
                                 <div class="title-box">
                                     <h3><a href="/projeto/voith">VOITH</a></h3>
@@ -278,8 +275,9 @@
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="image-box">
-                                <figure><a href="/images/projetos/wegMexico G.jpeg" class="ligtbox-image" data-fancybox="gallery"><img
-                                            src="/images/projetos/wegMexico.jpeg" alt=""></a></figure>
+                                <figure>
+                                <a href="/projeto/wegMexico">
+                                <img src="/images/projetos/wegMexico.jpeg" alt=""></a></figure>
                                 <div class="title-box">
                             <h3><a href="/projeto/wegMexico">WEG – MÉXICO</a></h3>
                             <span class="tag">PROJETO NOVA FUNDIÇÃO</span>
