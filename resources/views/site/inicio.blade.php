@@ -141,7 +141,6 @@
                 </div>
             </div>
         </section>
-
         <!-- About Us -->
         <section class="about-us">
             <div class="auto-container">
@@ -157,7 +156,6 @@
                                 <ul class="tab-buttons">
                                     <li data-tab="#info-tab-1" class="tab-btn active-btn">Sobre</li>
                                 </ul>
-
                                 <div class="tabs-content">
                                     <!--Tab / Active Tab-->
                                     <div class="tab active-tab" id="info-tab-1">
@@ -174,7 +172,6 @@
                                             </p>
                                         </div>
                                     </div>
-
                                 </div>
                             </div>
                             <div class="link-box"><a href="sobre">
@@ -182,7 +179,6 @@
                                     Ver mais</a></div>
                         </div>
                     </div>
-
                     <!-- List Column -->
                     <div class="list-column col-md-6 col-sm-12 col-xs-12">
                         <div class="inner-column">
@@ -192,14 +188,12 @@
                                     <img src="/images/instalacoes/fabrica 1.jpeg" alt="" srcset="">
                                 </div>
                             </div>
-
                             <!-- About Block -->
                             <div class="about-block">
                                 <div class="inner-box">
                                 <img src="/images/instalacoes/fabrica 2.jpeg" alt="" srcset="">
                                 </div>
                             </div>
-
                             <!-- About Block -->
                             <div class="about-block">
                                 <div class="inner-box">
@@ -212,14 +206,12 @@
             </div>
         </section>
         <!-- End About Us -->
-
         <!-- Project Section -->
         <section class="project-section" style="background-image: url(images/background/knbs.jpeg);">
             <div class="auto-container">
                 <div class="sec-title light text-center">
                     <h2>Projetos</h2>
                 </div>
-
                 <!--Carousel Box-->
                 <div class="carousel-box">
                     <div class="project-carousel owl-carousel owl-theme">
@@ -237,7 +229,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="image-box">
@@ -249,7 +240,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <!-- Project Block -->
                         <div class="project-block">
                             <div class="image-box">
@@ -284,11 +274,9 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
         </section>
         <!--End Project Section -->
-
 @endsection
