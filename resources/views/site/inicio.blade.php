@@ -109,7 +109,7 @@
                 <!-- info box -->
                 <div class="info-box">
                     <h3>Entre em contato</h3>
-                    <a href="#"><i class="icon flaticon-email"></i>info@kuttner-nbs.com.br</a>
+                    <a href="contato/kuttnernobake#orcamentoContato"><i class="icon flaticon-email"></i>info@kuttner-nbs.com.br</a>
                 </div>
             </div>
         </section>
