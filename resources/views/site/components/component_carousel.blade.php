@@ -1,12 +1,12 @@
 <div id="minimal-bootstrap-carousel" class="carousel slide carousel-fade slider-home-one" data-ride="carousel">
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-        <div class="item active slide-1" style="background-image: url(images/main-slider/fastloop.jpg);background-position: center center;">
+        <div class="item active slide-1" style="background-image: url(images/main-slider/fastloop.jpeg);background-position: center center;">
         </div>
-        <div class="item slide-2" style="background-image: url(images/main-slider/banner-1-2.jpg);background-position: center center;">
+        <div class="item slide-2" style="background-image: url(images/main-slider/fastloop2.jpeg);background-position: center center;">
 
         </div>
-        <div class="item slide-3" style="background-image: url(images/main-slider/Desmoldador.jpg);background-position: center center;">
+        <div class="item slide-3" style="background-image: url(images/main-slider/Desmoldador.jpeg);background-position: center center;">
 
         </div>
     </div>
