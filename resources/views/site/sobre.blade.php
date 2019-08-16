@@ -204,7 +204,7 @@
                 <!-- Industry Block -->
                 <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produtos"><img src="/images/instalacoes/fabrica 1.jpg"
+                        <div class="image"><a href="produtos"><img src="/images/instalacoes/fabrica 1.jpeg"
                                     alt=""></a></div>
                     </div>
                     <!-- <div class="lower-content">
@@ -218,7 +218,7 @@
                 <!-- Industry Block -->
                 <div class="industry-block bg-gray">
                     <div class="image-box">
-                        <div class="image"><a href="produtos"><img src="/images/instalacoes/fabrica 2.jpg"
+                        <div class="image"><a href="produtos"><img src="/images/instalacoes/fabrica 2.jpeg"
                                     alt=""></a></div>
                     </div>
                     <!-- <div class="lower-content">
@@ -232,7 +232,7 @@
                 <!-- Industry Block -->
                 <div class="industry-block">
                     <div class="image-box">
-                        <div class="image"><a href="produtos"><img src="/images/instalacoes/fabrica 3.jpg"
+                        <div class="image"><a href="produtos"><img src="/images/instalacoes/fabrica 3.jpeg"
                                     alt=""></a></div>
                     </div>
                     <!-- <div class="lower-content">
