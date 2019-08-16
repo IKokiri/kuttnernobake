@@ -17,7 +17,7 @@
         <div class="auto-container">
             <div class="clearfix">
                 <div class="pull-right logo-outer">
-                    <div class="logo"><a href="/"><img width="400px" src="/images/kuttnernobakesolutionslogo.png" alt="" title=""></a></div>
+                    <div class="logo"><a href="/"><img width="400px" src="/images/kuttnernobakesolutionslogo.png" alt="Logo principal Kuttner No-Bake Solutions" title=""></a></div>
                 </div>
                 <div class="pull-left upper-right clearfix">
                     <!--Info Box-->
@@ -74,7 +74,7 @@
         <div class="auto-container clearfix">
             <!--Logo-->
             <div class="logo pull-right">
-                <a href="/" class="img-responsive"><img src="/images/kuttnernobakesolutionslogop.png" alt="" title=""></a>
+                <a href="/" class="img-responsive"><img src="/images/kuttnernobakesolutionslogop.png" alt="Logo secundária Kuttner No-Bake Solutions " title=""></a>
             </div>
             <!--Right Col-->
             <div class="right-col pull-left">

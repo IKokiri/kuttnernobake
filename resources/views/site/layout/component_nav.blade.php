@@ -1,4 +1,4 @@
-<div class="navbar-collapse collapse clearfix">
+<nav class="navbar-collapse collapse clearfix">
     <ul class="navigation clearfix">
         <li @if($current=="inicio") class="current" @else class="" @endif>
             <a href="/">Início</a>
@@ -31,4 +31,4 @@
             </ul>
         </li>
     </ul>
-</div>
+</nav>
