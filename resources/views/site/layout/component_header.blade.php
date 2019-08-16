@@ -2,17 +2,12 @@
             <!--Header Top-->
             <div class="header-top">
                 <div class="auto-container">
-                    <div class="inner-container clearfix">
-                       
+                    <div class="inner-container clearfix">                       
                         <div class="top-right pull-left clearfix">
-                        <a href="/">
-                            <img width="35px" src="/images/flags/ptbr.png" alt="">
-                        </a>
-                        <a href="/">
-                            <img width="35px" src="/images/flags/en.png" alt="">
-                        </a>
-                        
-                          
+                            <span class="linguagem">
+                                <a class="linguagem_active" href="/">PT</a>
+                                <a calss="" href="/">EN</a>
+                            </span>
                         </div>
                     </div>
                 </div>
@@ -24,27 +19,26 @@
                     <div class="clearfix">
 
                         <div class="pull-right logo-outer">
-                            <div class="logo"><a href="/"><img width="400px" src="/images/logo.png" alt="" title=""></a></div>
+                            <div class="logo"><a href="/"><img width="400px" src="/images/kuttnernobakesolutionslogo.png" alt="" title=""></a></div>
                         </div>
 
                         <div class="pull-left upper-right clearfix">
-
                             <!--Info Box-->
                             <div class="upper-column info-box" style="margin-left: 0px;">
                                 <div class="icon-box" style="left:0px"><span class="machinery-icon-map"></span></div>
-                                <ul>
-                                    <li>R. Abelardo Benedicto Libório</li>
-                                    <li>nº 951</li>
-                                    <li><strong>Piracicaba, São Paulo</strong></li>
-                                </ul>
+                                <address>
+                                    R. Abelardo Benedicto Libório <br>
+                                    nº 951<br>
+                                    <strong>Piracicaba, São Paulo</strong>
+                                </address>
                             </div>
-
                             <!--Info Box-->
                             <div class="upper-column info-box">
                                 <div class="icon-box"><span class="machinery-icon-contact"></span></div>
                                 <ul>
-                                    <li>+55 19 3302 4770</li> 
-                                    <li><strong>info@kuttner-nbs.com.br</strong></li>
+                                    <li><a href="tel:+551933024770">+55 19 3302 4770</a></li> 
+                                    
+                                    <li><a href="mailto:info@kuttner-nbs.com.br"><strong>info@kuttner-nbs.com.br</strong></a></li>
                                 </ul>
                             </div>
 
@@ -88,7 +82,7 @@
                 <div class="auto-container clearfix">
                     <!--Logo-->
                     <div class="logo pull-right">
-                        <a href="/" class="img-responsive"><img src="/images/logo-small.png" alt="" title=""></a>
+                        <a href="/" class="img-responsive"><img src="/images/kuttnernobakesolutionslogop.png" alt="" title=""></a>
                     </div>
                     <!--Right Col-->
                     <div class="right-col pull-left">
