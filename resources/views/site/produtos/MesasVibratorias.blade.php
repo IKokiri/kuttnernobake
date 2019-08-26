@@ -2,7 +2,7 @@
 
 @section('page')
 <!--Page Title-->
-<section class="page-title" style="background-image:url(/images/background/2.jpeg)">
+<section class="page-title" style="background-image:url(/images/kuttnernobakesolutionsbg1.jpeg)">
         <div class="auto-container">
             <h1>Sistema de Moldagem - Vazamento - Refriamento</h1>
             <ul class="page-breadcrumb">
@@ -44,8 +44,8 @@
                             <div class="two-column">
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box text-center"><a href="/images/produtos/mesas vibratorias g.jpeg" data-fancybox="gallery">
-                                        <img src="/images/produtos/mesas vibratorias p.jpeg" alt=""></a></div>
+                                        <div class="image-box text-center"><a href="/images/mesas vibratorias g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/mesas vibratorias p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
@@ -68,8 +68,8 @@
                             <div class="two-column">
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box text-center"><a href="/images/produtos/mesas vibratorias2 g.jpeg" data-fancybox="gallery">
-                                        <img src="/images/produtos/mesas vibratorias2 p.jpeg" alt=""></a></div>
+                                        <div class="image-box text-center"><a href="/images/mesas vibratorias2 g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/mesas vibratorias2 p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">

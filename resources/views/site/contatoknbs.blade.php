@@ -1,7 +1,7 @@
 @extends('site/layout.app',["current" => "contato"])
 
 @section('page')
-<section class="page-title" style="background-image:url(/images/background/2.jpeg)">
+<section class="page-title" style="background-image:url(/images/kuttnernobakesolutionsbg1.jpeg)">
     <div class="auto-container">
         <h1>Kuttner No-Bake Solutions</h1>
         <ul class="page-breadcrumb">
@@ -26,7 +26,7 @@
                             <div class="branch-info-box">
                                 <div class="row clearfix">
                                     <div class="image-column col-md-6 col-sm-6 col-xs-12">
-                                        <div class="image"><a href="#"><img src="/images/contato/kuttner no bake solutions.jpg"
+                                        <div class="image"><a href="#"><img src="/images/kuttner no bake solutions.jpeg"
                                                     alt=""></a></div>
                                     </div>
                                     <div class="info-column col-md-6 col-sm-6 col-xs-12">
@@ -173,7 +173,7 @@
                     <!--Map Canvas-->
                     <div class="map-canvas" data-zoom="17" data-lat="-22.6645525" data-lng="-47.6038755"
                         data-type="road" data-hue="#f05000" data-title="Kuttner No-Bake Solutions" 
-                        data-icon-path="/images/icons/map-marker.png"
+                        data-icon-path="/images/map-marker.png"
                         data-content="R. Abelardo Benedicto Libório, Libéria, 951, Piracicaba, São Paulo<br>
                         <a href='mailto:info@kuttner-nbs.com.br'>info@kuttner-nbs.com.br</a>">
                     </div>

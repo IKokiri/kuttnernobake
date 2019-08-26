@@ -2,7 +2,7 @@
 
 @section('page')
 <!--Page Title-->
-<section class="page-title" style="background-image:url(/images/background/2.jpeg)">
+<section class="page-title" style="background-image:url(/images/kuttnernobakesolutionsbg1.jpeg)">
         <div class="auto-container">
             <h1>BASSO</h1>
             <ul class="page-breadcrumb">
@@ -23,27 +23,27 @@
                     <div class="single-item-carousel owl-carousel owl-theme">
                         <div class="slide">
                             <div class="image">
-                                <img src="/images/projetos/basso/basso1.jpeg" alt="" />
+                                <img src="/images/basso1.jpeg" alt="" />
                             </div>
                         </div>
                         <div class="slide">
                             <div class="image">
-                            <img src="/images/projetos/basso/basso2.jpeg" alt="" />
+                            <img src="/images/basso2.jpeg" alt="" />
                             </div>
                         </div>
                         <div class="slide">
                             <div class="image">
-                                <img src="/images/projetos/basso/basso3.jpeg" alt="" />
+                                <img src="/images/basso3.jpeg" alt="" />
                             </div>
                         </div>
                         <div class="slide">
                             <div class="image">
-                                <img src="/images/projetos/basso/basso4.jpeg" alt="" />
+                                <img src="/images/basso4.jpeg" alt="" />
                             </div>
                         </div>
                         <div class="slide">
                             <div class="image">
-                                <img src="/images/projetos/basso/basso5.jpeg" alt="" />
+                                <img src="/images/basso5.jpeg" alt="" />
                             </div>
                         </div>
                     </div>

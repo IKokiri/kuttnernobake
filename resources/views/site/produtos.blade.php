@@ -2,7 +2,7 @@
 
 @section('page')
     <!--Page Title-->
-    <section class="page-title" style="background-image:url(images/background/2.jpeg)">
+    <section class="page-title" style="background-image:url(images/kuttnernobakesolutionsbg1.jpeg)">
         <div class="auto-container">
             <h1>Produtos</h1>
             <ul class="page-breadcrumb">
@@ -21,7 +21,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/Misturadores/MisturadorBracoSimples">
-                                <img src="/images/sisequip/misturador braco simples.jpeg" alt="">
+                                <img src="/images/misturador braco simples.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -46,7 +46,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/Misturadores/MisturadorBracoDuplo">
-                                <img src="/images/sisequip/misturador braco duplo.jpeg" alt="">
+                                <img src="/images/misturador braco duplo p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -71,7 +71,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/Misturadores/MisturadorMovel">
-                                <img src="/images/sisequip/misturador movel 2.jpeg" alt="">
+                                <img src="/images/misturador movel p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -96,7 +96,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaMoldagemVazamentoRefriamento/FastLoop">
-                                <img src="images/sisequip/fast loop.jpeg" alt="">
+                                <img src="images/fast loop p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -121,7 +121,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaMoldagemVazamentoRefriamento/Rollover">
-                                <img src="images/sisequip/rollover.jpeg" alt="">
+                                <img src="images/rollover p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -146,7 +146,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaMoldagemVazamentoRefriamento/AreaVazamentoResfriamento">
-                                <img src="images/sisequip/area de vazamento resfriamento.jpeg" alt="">
+                                <img src="images/area de vazamento resfriamento p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -171,7 +171,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaMoldagemVazamentoRefriamento/MoldagemCarrocel4Estacoes">
-                                <img src="images/sisequip/moldagem carrocel 4 estacoes.jpeg" alt="">
+                                <img src="images/moldagem carrocel 4 estacoes p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -196,7 +196,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaMoldagemVazamentoRefriamento/SistemaPinturaLavagem">
-                                <img src="images/sisequip/sistema de pintura por lavagem 2.jpeg" alt="">
+                                <img src="images/sistema de pintura por lavagem p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -221,7 +221,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaDesmoldagem/ShakeOut">
-                                <img src="images/sisequip/desmoldagem shake out.jpeg" alt="">
+                                <img src="images/desmoldagem shake out p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -246,7 +246,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaDesmoldagem/PreResfriador">
-                                <img src="images/sisequip/pre resfriador.jpeg" alt="">
+                                <img src="images/pre resfriador p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -271,7 +271,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/SistemaDesmoldagem/TransportePneumatico">
-                                <img src="images/sisequip/transporte pneumatico.jpeg" alt="">
+                                <img src="images/transporte pneumatico p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -296,7 +296,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/RecuperacaoMecanicaRegeneracaoTermica/RecuperacaoMecanica4TH">
-                                <img src="images/sisequip/recuperação mecanica - 4 t h.jpeg" alt="">
+                                <img src="images/recuperação mecanica - 4 t h.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -321,7 +321,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/RecuperacaoMecanicaRegeneracaoTermica/RecuperacaoMecanica430TH">
-                                <img src="images/sisequip/recuperação mecanica - 6 30 t h.jpeg" alt="">
+                                <img src="images/recuperação mecanica - 6 30 toneladas hora.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -346,7 +346,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/RecuperacaoMecanicaRegeneracaoTermica/RegeneracaoTermica056TH">
-                                <img src="images/sisequip/Regeneração termica 05 a 6 t h.jpeg" alt="">
+                                <img src="images/Regeneração termica 05 a 6 t h p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -371,7 +371,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JatoPassagemContinua">
-                                <img src="images/sisequip/jato de passagem continua.jpeg" alt="">
+                                <img src="images/jato de passagem continua p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -396,7 +396,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JatoGancheiraPassagem">
-                                <img src="images/sisequip/jato gancheira de passagem.jpeg" alt="">
+                                <img src="images/jato gancheira de passagem p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -421,7 +421,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JatoGancheiraTipoY">
-                                <img src="images/sisequip/jato com gancheira tipo y.jpeg" alt="">
+                                <img src="images/jato com gancheira tipo y p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -446,7 +446,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JateamentoBobinas">
-                                <img src="images/sisequip/jateamento de bobinas.jpeg" alt="">
+                                <img src="images/jateamento de bobinas p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -471,7 +471,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JatoMesaGiratoria">
-                                <img src="images/sisequip/jato mesa giratoria.jpeg" alt="">
+                                <img src="images/jato mesa giratoria p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -491,12 +491,11 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="news-block col-md-4 col-sm-6 col-xs-12">
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="/MaquinasJatoGranalha/JatoTamboreamento">
-                                <img src="images/sisequip/jato por tamboreamento.jpeg" alt="">
+                                <img src="images/jato por tamboreamento p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
@@ -521,16 +520,16 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="produto">
-                                <img src="images/sisequip/preparação de carga metálica e adtivos.jpeg" alt="">
+                                <img src="images/preparação de carga metálica e adtivos.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>PREPARAÇÃO DE CARGA <BR> CARREGAMENTO DE FORNO</h4></a></li>
+                                    <li><a href="/produtos/PreparacaoCargaCarregamentoForno"><h4>PREPARAÇÃO DE CARGA <BR> CARREGAMENTO DE FORNO</h4></a></li>
                                 </ul>  
                             </div>
-                            <a href="produto"><h4>Preparação de Carga Metálica e Aditivos</h4></a>
+                            <a href="/produtos/PreparacaoCargaCarregamentoForno"><h4>Preparação de Carga Metálica e Aditivos</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -546,16 +545,16 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="produto">
-                                <img src="images/sisequip/ponte rolante com canguru e carro de carregamento.jpeg" alt="">
+                                <img src="images/ponte rolante com canguru e carro de carregamento p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>PREPARAÇÃO DE CARGA <BR> CARREGAMENTO DE FORNO</h4></a></li>
+                                    <li><a href="/produtos/PreparacaoCargaCarregamentoForno"><h4>PREPARAÇÃO DE CARGA <BR> CARREGAMENTO DE FORNO</h4></a></li>
                                 </ul>  
                             </div>
-                            <a href="produto"><h4>Ponte Rolante com Canguru e Carro de Carregamento</h4></a>
+                            <a href="/produtos/PreparacaoCargaCarregamentoForno"><h4>Ponte Rolante com Canguru e Carro de Carregamento</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>
@@ -571,16 +570,16 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <a href="produto">
-                                <img src="images/sisequip/filtros para todos os processos de fundição 2.jpeg" alt="">
+                                <img src="images/filtros para todos os processos de fundição p.jpeg" alt="">
                             </a>
                         </div>
                         <div class="lower-content clearfix">
                             <div class="info">
                                 <ul>
-                                    <li><a href="#"><h4>DESPOEIRAMENTO E LIMPEZA DE GASES</h4><br>&nbsp;</a></li>
+                                    <li><a href="/produtos/DespoeiramentoLimpezaGases"><h4>DESPOEIRAMENTO E LIMPEZA DE GASES</h4><br>&nbsp;</a></li>
                                 </ul>  
                             </div>
-                            <a href="produto"><h4>Filtros para Todos os Processos de Fundição</h4></a>
+                            <a href="/produtos/DespoeiramentoLimpezaGases"><h4>Filtros para Todos os Processos de Fundição</h4></a>
                             <div class="more-box clearfix">
                                 <div class="author-box">
                                     <img src="images/ico.png" alt="Awesome Image"/>

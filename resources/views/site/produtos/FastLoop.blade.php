@@ -2,7 +2,7 @@
 
 @section('page')
 <!--Page Title-->
-<section class="page-title" style="background-image:url(/images/background/2.jpeg)">
+<section class="page-title" style="background-image:url(/images/kuttnernobakesolutionsbg1.jpeg)">
         <div class="auto-container">
             <h1>Sistema de Moldagem - Vazamento - Refriamento</h1>
             <ul class="page-breadcrumb">
@@ -45,8 +45,8 @@
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                         <div class="image-box text-center">
-                                        <a href="/images/produtos/Fast Lopp g.jpeg" data-fancybox="gallery">
-                                        <img src="/images/produtos/Fast Lopp p.jpeg" alt=""></a></div>
+                                        <a href="/images/Fast Lopp g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/Fast Lopp p.jpeg" alt=""></a></div>
                                     </div>                                   
                                 </div>
                             </div>

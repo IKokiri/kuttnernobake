@@ -2,7 +2,7 @@
 
 @section('page')
 <!--Page Title-->
-<section class="page-title" style="background-image:url(/images/background/2.jpeg)">
+<section class="page-title" style="background-image:url(/images/kuttnernobakesolutionsbg1.jpeg)">
         <div class="auto-container">
             <h1>VOITH</h1>
             <ul class="page-breadcrumb">
@@ -23,12 +23,12 @@
                     <div class="single-item-carousel owl-carousel owl-theme">
                         <div class="slide">
                             <div class="image">
-                            <img src="/images/projetos/voith/voith1.jpeg" alt="" />
+                            <img src="/images/voith1.jpeg" alt="" />
                             </div>
                         </div>
                         <div class="slide">
                             <div class="image">
-                            <img src="/images/projetos/voith/voith2.jpeg" alt="" />
+                            <img src="/images/voith2.jpeg" alt="" />
                             </div>
                         </div>
                         

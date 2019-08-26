@@ -2,7 +2,7 @@
 
 @section('page')
 <!--Page Title-->
-<section class="page-title" style="background-image:url(/images/background/2.jpeg)">
+<section class="page-title" style="background-image:url(/images/kuttnernobakesolutionsbg1.jpeg)">
         <div class="auto-container">
             <h1>Máquinas Jato de Granalha</h1>
             <ul class="page-breadcrumb">
@@ -49,8 +49,8 @@
                             <div class="two-column">
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <div class="image-box text-center"><a href="/images/produtos/Jateamento bobinas g.jpeg" data-fancybox="gallery">
-                                        <img src="/images/produtos/Jateamento bobinas p.jpeg" alt=""></a></div>
+                                        <div class="image-box text-center"><a href="/images/Jateamento bobinas g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/Jateamento bobinas p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">

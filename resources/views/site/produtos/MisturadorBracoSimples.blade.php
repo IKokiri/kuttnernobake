@@ -2,7 +2,7 @@
 
 @section('page')
 <!--Page Title-->
-<section class="page-title" style="background-image:url(/images/background/2.jpeg)">
+<section class="page-title" style="background-image:url(/images/kuttnernobakesolutionsbg1.jpeg)">
         <div class="auto-container">
             <h1>Misturadores</h1>
             <ul class="page-breadcrumb">
@@ -42,8 +42,8 @@
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                         <div class="image-box text-center">
-                                        <a href="/images/produtos/misturador braco simples g.jpeg" data-fancybox="gallery">
-                                        <img src="/images/produtos/misturador braco simples p.jpeg" alt=""></a></div>
+                                        <a href="/images/misturador braco simples g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/misturador braco simples p.jpeg" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>

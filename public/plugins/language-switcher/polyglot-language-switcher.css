@@ -88,21 +88,21 @@
 /* Flags */
 
 #en { 
-	background-image: url(../../images/icons/gb.png);
+	background-image: url(../../images/gb.png);
 }
 
 #fr { 
-	background-image: url(../../images/icons/fr.png);	
+	background-image: url(../../images/fr.png);	
 }
 
 #de { 
-	background-image: url(../../images/icons/de.png);	
+	background-image: url(../../images/de.png);	
 }
 
 #it { 
-	background-image: url(../../images/icons/it.png);	
+	background-image: url(../../images/it.png);	
 }
 
 #es { 
-	background-image: url(../../images/icons/es.png);	
+	background-image: url(../../images/es.png);	
 }

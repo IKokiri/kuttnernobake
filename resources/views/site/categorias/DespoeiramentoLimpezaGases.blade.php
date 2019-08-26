@@ -2,7 +2,7 @@
 
 @section('page')
 <!--Page Title-->
-<section class="page-title" style="background-image:url(/images/background/2.jpeg)">
+<section class="page-title" style="background-image:url(/images/kuttnernobakesolutionsbg1.jpeg)">
         <div class="auto-container">
             <h1>Despoeiramento e Limpeza de Gases</h1>
             <ul class="page-breadcrumb">
@@ -38,8 +38,8 @@
                                 <div class="row clearfix">  
                                     <div class="image-column col-lg-7 col-md-12 col-sm-12 col-xs-12">
                                         <div class="image-box">
-                                        <a href="/images/produtos/Despoeiramento 1 g.jpeg" data-fancybox="gallery">
-                                        <img src="/images/produtos/Despoeiramento 1 p.jpeg" alt=""></a></div>
+                                        <a href="/images/Despoeiramento 1 g.jpeg" data-fancybox="gallery">
+                                        <img src="/images/Despoeiramento 1 p.jpeg" alt=""></a></div>
                                     </div>
                                     <div class="info-column col-lg-5 col-md-12 col-sm-12 col-xs-12">
                                         <div class="inner-column">
@@ -55,7 +55,7 @@
                                     </div>
                                 </div>
                                 <h3>Para maiores informações acesse:</h3>
-                                <a href="http://www.kuttner.com.br/Default1111.html?ID=33">Despoeiramento e Limpeza de Gases - Kuttner do Brasil</a>
+                                <a href="http://www.kuttner.com.br/Default1111.html?ID=33" target="_blank">Despoeiramento e Limpeza de Gases - Kuttner do Brasil</a>
 
                             </div>
 

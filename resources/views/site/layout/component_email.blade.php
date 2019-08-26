@@ -5,7 +5,7 @@
             <!-- Title Column -->
             <div class="image-column col-md-4 col-sm-12 col-xs-12">
                 <div class="inner-column">
-                    <div class="image"><img src="/images/contato/kuttner no bake solutions mail.jpg" alt=""></div>
+                    <div class="image"><img src="/images/kuttner no bake solutions mail.jpeg" alt=""></div>
                 </div>
             </div>
             <!-- Form Column -->

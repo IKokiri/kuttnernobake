@@ -68,7 +68,7 @@ function GmapInit() {
 		};		
 		var map = new google.maps.Map($this[0], mapOptions);
 		
-		//var image = 'images/icons/map-marker.png';
+		//var image = 'images/map-marker.png';
 		var image = theme_icon_path;
 		
 		if( dataContent !== undefined && dataContent !== false ) {
